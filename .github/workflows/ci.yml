@@ -100,6 +100,10 @@ jobs:
             https://github.com/amacneil/dbmate/releases/latest/download/dbmate-linux-amd64
           chmod +x /usr/local/bin/dbmate
       - run: dbmate --migrations-dir packages/db/db/migrations up
+      # raw_payloads.source is a FK to sources, so the registry has to exist —
+      # the same reason compose has a seed service between migrate and poller.
+      - name: Load seeds
+        run: psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -f packages/db/db/seeds/001_sources.sql
       # These exercise Fetcher -> raw-store against a real Postgres, replaying a
       # committed fixture from a local server. CI never fetches from a real
       # source: only deployed instances do that. See AGENTS.md.
