@@ -18,3 +18,4 @@ Copy [`template.md`](template.md) to start one.
 | [0005](0005-raw-first-ingestion.md) | Raw-first ingestion | Accepted (Phase 2) |
 | [0006](0006-react-router-ssr-web.md) | React Router framework mode, SSR | Accepted |
 | 0007 | *Why we need a streaming layer* — write **before** Phase 2 code | Not started |
+| [0008](0008-provenance-observations-first.md) | Provenance: observations first, canonical facts in Phase 2 | Accepted |

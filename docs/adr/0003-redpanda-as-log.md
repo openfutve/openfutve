@@ -2,7 +2,7 @@
 
 - **Status:** Accepted (deployed in Phase 2)
 - **Date:** 2026-07-27
-- **Deciders:** Salvador, Yuyo
+- **Deciders:** Salvador
 
 ## Context
 

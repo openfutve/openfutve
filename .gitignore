@@ -30,3 +30,7 @@ data/
 .idea/
 .vscode/*
 !.vscode/extensions.json
+
+# dbmate writes this on every migrate; generated, and root-owned when run via the
+# compose/container path. Regenerate locally rather than tracking it.
+packages/db/db/schema.sql

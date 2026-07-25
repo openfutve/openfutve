@@ -2,7 +2,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-07-27
-- **Deciders:** Salvador, Edder, Yuyo
+- **Deciders:** Salvador
 
 ## Context
 
