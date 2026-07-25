@@ -20,9 +20,32 @@ intent, not commitment — they will slip, and that's expected.
 > outright, which is worse than an irregular one. Shrink scope inside a phase rather than
 > forcing a schedule.
 
+## Commits and branches
+
+**[Conventional Commits](https://www.conventionalcommits.org/)**, enforced in CI:
+
+```
+feat(pollers): add rate-limited fetcher with robots.txt support
+fix(db): correct down migration for the observations rename
+docs(adr): record the provenance model as ADR 0008
+```
+
+Types: `feat`, `fix`, `docs`, `refactor`, `test`, `build`, `ci`, `chore`, `perf`,
+`revert`; `!` before the colon for breaking changes. Scopes are what you touched —
+`pollers`, `api`, `web`, `db`, `shared`, `schema`, `compose`, `ci`, `docs`,
+`streaming`, `tools`.
+
+Branches follow the same types: `feat/poller-framework`, `fix/standings-migration`.
+
+Commit bodies explain **why** and say what you verified. The diff already shows what
+changed; the reasoning is the part that gets lost.
+
+See [`AGENTS.md`](AGENTS.md) for the full conventions, including which rules are
+enforced in code rather than by review.
+
 ## Pull requests
 
-Everything goes through a PR, including from maintainers.
+Everything goes through a PR, including from maintainers. Never push to `main`.
 
 **Reviews are the mentoring channel — write them like it.** Explain the *why*, not just
 the *what*. If you're reviewing someone with less experience in an area, a review that
