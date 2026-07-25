@@ -76,7 +76,12 @@ enforced in code rather than trusted to review:
 7. **Secrets never enter the repo.** `.env` is gitignored; `.env.example` holds
    placeholders. APIfootball.com accounts are individual per their terms — no
    shared key in CI, deploys, or between contributors.
-8. **Scope guard: FUTVE Primera División only.** Segunda, Copa Venezuela, the
+8. **Only deployed instances fetch from real sources.** Tests and CI replay
+   committed fixtures from `docs/samples/` through a local server — never the
+   live API. Real sources are other people's infrastructure, and hitting them on
+   every push is both impolite and a source of flaky builds. A one-off audit run
+   from a dev machine is a deliberate exception, not the habit.
+9. **Scope guard: FUTVE Primera División only.** Segunda, Copa Venezuela, the
    women's league, futsal and beach football are `future` issues. Several
    sources return them from the same endpoints, so filtering is active work.
 

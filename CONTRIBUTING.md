@@ -73,7 +73,10 @@ These exist because breaking them quietly corrupts the project's credibility:
    `robots.txt`, cache aggressively, never re-fetch to fix a parser.
 5. **Raw payload first** ([ADR 0005](docs/adr/0005-raw-first-ingestion.md)). Parsers read
    from stored bytes, never from a live response.
-6. **Secrets stay out of the repo.** `.env` is gitignored; `.env.example` carries
+6. **Only deployed instances hit real sources.** Tests and CI use fixtures from
+   `docs/samples/`, served locally. Every push should not cost a small
+   federation bandwidth.
+7. **Secrets stay out of the repo.** `.env` is gitignored; `.env.example` carries
    placeholders only. Note that APIfootball.com accounts are individual — get your own key
    rather than reusing someone else's.
 
