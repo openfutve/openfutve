@@ -177,6 +177,40 @@ Consequence to keep in mind: a query joining `match_event_observations.player_id
 squad list and grouping by `team_id` will look inconsistent for own goals. That is correct
 behaviour, not a bug.
 
+## `team_season_observations`
+
+**Which division a club played in, for a given season, as claimed by one source.**
+Added by [ADR 0009](adr/0009-team-season-membership.md).
+
+Clubs are promoted and relegated, so division membership is a fact about a
+**(club, season)** pair, never about a club alone. Aragua FC is Primera in
+2021–2023 and Segunda in 2026, and both are correct.
+
+| Column | Type | Definition |
+|--------|------|------------|
+| `id` | `uuid` PK | |
+| `team_id` | `uuid` FK → `teams` | |
+| `season` | `text` | Season label in the canonical form above (`2021`, `2024-A`). Membership is **per tournament** where a split exists — a club can be admitted or excluded between Apertura and Clausura. |
+| `division` | `division` | `primera`, `segunda`, `other` (cup/reserve/youth), `unknown` (the source did not say — do not assume). |
+| `source_ref` | `text` | The source's own handle on this membership: a season term id, a league id. |
+| + provenance columns | | |
+
+**What it is for.** Scope filtering — "is this fixture a Primera match?" — is a
+join against this table, not a guess. A fixture is in scope when **both** clubs
+were `primera` for that season. Before this existed, scope rested on a static
+club list that was wrong the moment anyone was promoted, and on the alias table
+failing to recognise out-of-scope clubs, which is not a filter so much as an
+accident.
+
+**Not deduplicated across sources**, per ADR 0008 — sources can disagree about
+who was in a division, particularly around administrative relegations, and we
+want that visible. The `UNIQUE (source, team_id, season)` constraint only stops a
+single source contradicting itself.
+
+**Derived, not curated.** ligafutve.org season terms name the division outright
+(`Liga FUTVE` vs `Liga FUTVE 2`); standings snapshots are a per-season roster by
+construction; Wikipedia extends the record back to 1932.
+
 ## `standings_snapshots`
 
 Standings as observed at a point in time — a snapshot, not a derived view. We keep the
@@ -217,5 +251,6 @@ Tracked here so they don't get decided implicitly in code.
 | ~~Own goal attribution~~ | **Decided 2026-07-25** — beneficiary, see above | Salvador | ✅ |
 | Club identity | Renames vs mergers vs relocations | Edder | Phase 2 |
 | Match identity | The `match_key` natural key and its ±1 day window (ADR 0008) | Salvador + Edder | Phase 2 |
+| Division for cups | Whether Copa Venezuela participation is `other` or simply absent from membership | Edder | Phase 2 |
 | License basis | How a canonical row's publication pool is derived when observations come from both `odbl-eligible` and `cc-by-sa` sources | Salvador | Phase 2 |
 | Form | Rolling window definition for live standings | Edder | Phase 3 |
