@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsc -p .",
     "typecheck": "tsc -p . --noEmit",
-    "test": "node --test --experimental-strip-types src/*.test.ts"
+    "test": "node --test --experimental-strip-types $(find src -name '*.test.ts')"
   },
   "devDependencies": {
     "@types/node": "^22.7.5",

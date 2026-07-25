@@ -2,10 +2,11 @@ import { runPoller } from "./framework/runner.ts";
 import { logger } from "./framework/logger.ts";
 import { SourceGuardError } from "./framework/guards.ts";
 import { selfcheckPoller } from "./pollers/selfcheck.ts";
+import { apifootballPoller } from "./pollers/apifootball/index.ts";
 import type { Poller } from "./framework/context.ts";
 
 /** Every poller the CLI can run. New sources register here. */
-const REGISTRY: Poller[] = [selfcheckPoller];
+const REGISTRY: Poller[] = [selfcheckPoller, apifootballPoller];
 
 function usage(): string {
   const rows = REGISTRY.map((p) => `  ${p.key.padEnd(14)} ${p.describe}`).join("\n");
