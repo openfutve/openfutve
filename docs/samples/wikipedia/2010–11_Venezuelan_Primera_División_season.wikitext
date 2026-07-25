@@ -1,0 +1,1293 @@
+{{Infobox football league season
+| competition        = [[Venezuelan Primera División|Copa Movilnet]]
+| season             = 2010–11
+| winners            = [[Deportivo Táchira]] (7th title)
+| relegated          = [[Atlético Venezuela]]<br>[[Caroní FC|Caroní]]
+| continentalcup1    = [[2012 Copa Libertadores]]
+| continentalcup1 qualifiers = [[Deportivo Táchira]]<br>[[Zamora FC|Zamora]]<br>[[Caracas FC|Caracas]]
+| continentalcup2    = [[2011 Copa Sudamericana]]
+| continentalcup2 qualifiers = [[Deportivo Anzoátegui]]<br>[[Yaracuyanos FC|Yaracuyanos]]
+| matches            = 
+| total goals        = 
+| league topscorer   = {{nowrap|[[Daniel Arismendi]] (19 goals)}}
+| biggest home win   = 
+| biggest away win   = 
+| highest scoring    = 
+| longest wins       = 
+| longest unbeaten   = 
+| longest losses     = 
+| highest attendance = 
+| lowest attendance  = 
+| average attendance = 
+| prevseason         = [[2009–10 Venezuelan Primera División season|2009–10]]
+| nextseason         = [[2011–12 Venezuelan Primera División season|2011–12]]
+}}
+The '''2010–11 [[Venezuelan Primera División|Primera División]] season''' (officially the '''2010–11 Copa [[CANTV#Movilnet|Movilnet]]''' for sponsorship reasons) is the 29th professional season of [[Venezuela]]'s top-flight football league.
+
+==Teams==
+Eighteen teams will participate this season, sixteen of whom remain from the previous season. [[SD Centro Italo Venezolano|Centro Italo Venezolano]] and [[Llaneros de Guanare|Llaneros]] were relegated after accumulating the fewest points in the 2009–10 season aggregate table. They were replaced by [[Atlético Venezuela]] and [[Caroní FC|Caroní]], the 2009 Segunda División Apertura runner-up and 2010 Segunda División Clausura winner, respectively. In addition, Deportivo Italia changed their name to [[Deportivo Petare]] in the off-season. 
+{| class="wikitable sortable"
+! Team
+! City
+! Stadium
+|-
+| [[Aragua Fútbol Club|Aragua]] || [[Maracay]] || [[Estadio Olímpico Hermanos Ghersi Páez|Olímpico Hermanos Ghersi Páez]]
+|-
+| [[Atlético Venezuela]] || [[Maiquetía]] || [[Polideportivo José María Vargas]]
+|-
+| [[Carabobo Fútbol Club|Carabobo]] || [[Valencia, Carabobo|Valencia]] || [[Estadio Misael Delgado|Misael Delgado]]
+|-
+| [[Caracas FC|Caracas]] || [[Caracas]] || [[Estadio Olímpico (Caracas)|Olímpico de la UCV]]
+|-
+| [[Caroní FC|Caroní]] || [[Ciudad Guayana]] || [[Polideportivo Cachamay]]
+|-
+| [[Deportivo Anzoátegui S.C.|Deportivo Anzoátegui]] || [[Puerto La Cruz]] || [[Estadio Olímpico Luis Ramos|José Antonio Anzoátegui]]
+|-
+| [[Deportivo Lara]] || [[Barquisimeto]] || [[Estadio Metropolitano de Fútbol de Lara|Metropolitano de Barquisimeto]]
+|-
+| [[Deportivo Petare]] || [[Caracas]] || [[Estadio Olímpico (Caracas)|Olímpico de la UCV]]
+|-
+| [[Deportivo Táchira Fútbol Club|Deportivo Táchira]] || [[San Cristóbal, Táchira|San Cristóbal]] || [[Estadio Polideportivo de Pueblo Nuevo|Polideportivo de Pueblo Nuevo]]
+|-
+| [[Atlético El Vigía Fútbol Club|El Vigía]] || [[El Vigía]] || [[Estadio 12 de Febrero|Ramón "Gato" Hernández]]
+|-
+| [[Estudiantes de Mérida Fútbol Club|Estudiantes]] || [[Mérida, Mérida|Mérida]] || [[Estadio Metropolitano de Mérida|Metropolitano de Mérida]]
+|-
+| [[Atlético Club Mineros de Guayana|Mineros]] || [[Ciudad Guayana]] || [[Polideportivo Cachamay]]
+|-
+| [[Monagas Sport Club|Monagas]] || [[Maturín]] || [[Estadio Monumental de Maturín|Monumental de Maturín]]
+|-
+| [[Real Esppor Club|Real Esppor]] || [[Caracas]] || [[Estadio Brígido Iriarte|Brígido Iriarte]]
+|-
+| [[Trujillanos Fútbol Club|Trujillanos]] ||[[Valera]] || [[Estadio Luis Loreto Lira|Luis Loreto Lira]]
+|-
+| [[Yaracuyanos Fútbol Club|Yaracuyanos]] || [[San Felipe, Venezuela|San Felipe]] || [[Estadio Florentino Oropeza|Florentino Oropeza]]
+|-
+| [[Zamora Fútbol Club|Zamora]] || [[Barinas, Barinas|Barinas]] || [[Estadio Agustín Tovar|Agustín Tovar]]
+|-
+| [[Zulia Fútbol Club|Zulia]] || [[Maracaibo]] || [[Estadio José Pachencho Romero|José "Pachencho" Romero]]
+|}
+{{clear}}
+
+==Torneo Apertura==
+The '''Torneo Apertura''' is the first tournament of the season. It began on August 8, 2010 and ended on December 12, 2010.
+
+===Standings===
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=DTA|name_DTA=[[Deportivo Táchira]]
+|team2=RES|name_RES=[[Real Esppor Club|Real Esppor]]
+|team3=CRC|name_CRC=[[Caracas FC|Caracas]]
+|team4=DPE|name_DPE=[[Deportivo Petare]]
+|team5=TRU|name_TRU=[[Trujillanos FC|Trujillanos]]
+|team6=ARA|name_ARA=[[Aragua FC|Aragua]]
+|team7=DAN|name_DAN=[[Deportivo Anzoátegui]]
+|team8=YAR|name_YAR=[[Yaracuyanos FC|Yaracuyanos]]
+|team9=EME|name_EME=[[Estudiantes de Mérida]]
+|team10=ZUL|name_ZUL=[[Zulia FC|Zulia]]
+|team11=MGU|name_MGU=[[Mineros de Guayana]]
+|team12=MON|name_MON=[[Monagas Sport Club|Monagas]]
+|team13=ZAM|name_ZAM=[[Zamora FC|Zamora]]
+|team14=AVE|name_AVE=[[Atlético Venezuela]]
+|team15=DLA|name_DLA=[[Deportivo Lara]]
+|team16=CBO|name_CBO=[[Carabobo FC|Carabobo]]
+|team17=ATV|name_ATV=[[Atlético El Vigía]]
+|team18=CRN|name_CRN=[[Caroní FC|Caroní]]
+|win_DTA=10|draw_DTA=6|loss_DTA=1|gf_DTA=31|ga_DTA=11
+|win_RES=11|draw_RES=3|loss_RES=3|gf_RES=30|ga_RES=11
+|win_CRC=11|draw_CRC=2|loss_CRC=4|gf_CRC=24|ga_CRC=15
+|win_DPE=9|draw_DPE=6|loss_DPE=2|gf_DPE=25|ga_DPE=17
+|win_TRU=7|draw_TRU=6|loss_TRU=4|gf_TRU=22|ga_TRU=15
+|win_ARA=8|draw_ARA=3|loss_ARA=6|gf_ARA=22|ga_ARA=20
+|win_DAN=7|draw_DAN=5|loss_DAN=5|gf_DAN=35|ga_DAN=30
+|win_YAR=6|draw_YAR=8|loss_YAR=3|gf_YAR=20|ga_YAR=17
+|win_EME=6|draw_EME=4|loss_EME=7|gf_EME=18|ga_EME=22
+|win_ZUL=6|draw_ZUL=3|loss_ZUL=8|gf_ZUL=25|ga_ZUL=27
+|win_MGU=4|draw_MGU=8|loss_MGU=5|gf_MGU=20|ga_MGU=20
+|win_MON=4|draw_MON=5|loss_MON=8|gf_MON=25|ga_MON=25
+|win_ZAM=4|draw_ZAM=5|loss_ZAM=8|gf_ZAM=20|ga_ZAM=27
+|win_AVE=4|draw_AVE=4|loss_AVE=9|gf_AVE=22|ga_AVE=33
+|win_DLA=3|draw_DLA=7|loss_DLA=7|gf_DLA=23|ga_DLA=28
+|win_CBO=3|draw_CBO=7|loss_CBO=7|gf_CBO=15|ga_CBO=21
+|win_ATV=2|draw_ATV=8|loss_ATV=7|gf_ATV=18|ga_ATV=25
+|win_CRN=2|draw_CRN=2|loss_CRN=13|gf_CRN=7|ga_CRN=38
+
+|col_CLSS=#ACE1AF|text_CLSS=[[#Serie Final|Serie Final]] and the [[2012 Copa Libertadores#Second stage|2012 Copa Libertadores Second Stage]]
+|result1=CLSS
+|class_rules=1st points; 2nd goal difference; 3rd goals scored.
+|update=complete|source=<ref name=Standings/>
+}}
+
+===Results===
+{{#invoke:sports results|main
+|matches_style=FBR|solid_cell=grey
+|team1=ARA|team2=ATV|team3=AVE|team4=CBO|team5=CRC
+|team6=CRN|team7=DAN|team8=DLA|team9=DPE|team10=DTA
+|team11=EME|team12=MGU|team13=MON|team14=RES|team15=TRU
+|team16=YAR|team17=ZAM|team18=ZUL
+
+|name_ARA=[[Aragua FC|Aragua]]
+|match_ARA_ATV=null
+|match_ARA_AVE=1–2
+|match_ARA_CBO=1–0
+|match_ARA_CRC=null
+|match_ARA_CRN=null
+|match_ARA_DAN=null
+|match_ARA_DLA=2–2
+|match_ARA_DPE=2–1
+|match_ARA_DTA=0–1
+|match_ARA_EME=3–1
+|match_ARA_MGU=1–0
+|match_ARA_MON=null
+|match_ARA_RES=null
+|match_ARA_TRU=null
+|match_ARA_YAR=null
+|match_ARA_ZAM=null
+|match_ARA_ZUL=0–1
+
+|name_ATV=[[Atlético El Vigía]]
+|match_ATV_ARA=0–0
+|match_ATV_AVE=null
+|match_ATV_CBO=3–1
+|match_ATV_CRC=null
+|match_ATV_CRN=null
+|match_ATV_DAN=null
+|match_ATV_DLA=1–1
+|match_ATV_DPE=3–3
+|match_ATV_DTA=0–0
+|match_ATV_EME=0–0
+|match_ATV_MGU=null
+|match_ATV_MON=2–1
+|match_ATV_RES=null
+|match_ATV_TRU=null
+|match_ATV_YAR=null
+|match_ATV_ZAM=null
+|match_ATV_ZUL=null
+
+|name_AVE=[[Atlético Venezuela]]
+|match_AVE_ARA=null
+|match_AVE_ATV=1–1
+|match_AVE_CBO=null
+|match_AVE_CRC=2–3
+|match_AVE_CRN=1–0
+|match_AVE_DAN=1–2
+|match_AVE_DLA=null
+|match_AVE_DPE=null
+|match_AVE_DTA=null
+|match_AVE_EME=null
+|match_AVE_MGU=null
+|match_AVE_MON=null
+|match_AVE_RES=0–1
+|match_AVE_TRU=1–4
+|match_AVE_YAR=1–2
+|match_AVE_ZAM=2–1
+|match_AVE_ZUL=1–1
+
+|name_CBO=[[Carabobo FC|Carabobo]]
+|match_CBO_ARA=null
+|match_CBO_ATV=null
+|match_CBO_AVE=0–2
+|match_CBO_CRC=null
+|match_CBO_CRN=3–1
+|match_CBO_DAN=1–0
+|match_CBO_DLA=2–2
+|match_CBO_DPE=null
+|match_CBO_DTA=null
+|match_CBO_EME=null
+|match_CBO_MGU=null
+|match_CBO_MON=null
+|match_CBO_RES=0–0
+|match_CBO_TRU=0–0
+|match_CBO_YAR=1–1
+|match_CBO_ZAM=1–1
+|match_CBO_ZUL=2–3
+
+|name_CRC=[[Caracas FC|Caracas]]
+|match_CRC_ARA=1–2
+|match_CRC_ATV=2–1
+|match_CRC_AVE=null
+|match_CRC_CBO=1–0
+|match_CRC_CRN=null
+|match_CRC_DAN=null
+|match_CRC_DLA=null
+|match_CRC_DPE=2–2
+|match_CRC_DTA=0–0
+|match_CRC_EME=1–0
+|match_CRC_MGU=1–0
+|match_CRC_MON=3–0
+|match_CRC_RES=null
+|match_CRC_TRU=null
+|match_CRC_YAR=null
+|match_CRC_ZAM=null
+|match_CRC_ZUL=null
+
+|name_CRN=[[Caroní FC|Caroní]]
+|match_CRN_ARA=0–2
+|match_CRN_ATV=1–0
+|match_CRN_AVE=null
+|match_CRN_CBO=null
+|match_CRN_CRC=0–1
+|match_CRN_DAN=1–7
+|match_CRN_DLA=null
+|match_CRN_DPE=null
+|match_CRN_DTA=null
+|match_CRN_EME=null
+|match_CRN_MGU=null
+|match_CRN_MON=0–3
+|match_CRN_RES=0–1
+|match_CRN_TRU=1–0
+|match_CRN_YAR=1–1
+|match_CRN_ZAM=null
+|match_CRN_ZUL=null
+
+|name_DAN=[[Deportivo Anzoátegui]]
+|match_DAN_ARA=2–4
+|match_DAN_ATV=2–2
+|match_DAN_AVE=null
+|match_DAN_CBO=null
+|match_DAN_CRC=3–0
+|match_DAN_CRN=null
+|match_DAN_DLA=null
+|match_DAN_DPE=2–2
+|match_DAN_DTA=null
+|match_DAN_EME=2–1
+|match_DAN_MGU=null
+|match_DAN_MON=3–1
+|match_DAN_RES=null
+|match_DAN_TRU=3–3
+|match_DAN_YAR=null
+|match_DAN_ZAM=3–2
+|match_DAN_ZUL=null
+
+|name_DLA=[[Deportivo Lara]]
+|match_DLA_ARA=null
+|match_DLA_ATV=null
+|match_DLA_AVE=3–2
+|match_DLA_CBO=null
+|match_DLA_CRC=1–3
+|match_DLA_CRN=4–0
+|match_DLA_DAN=1–1
+|match_DLA_DPE=null
+|match_DLA_DTA=null
+|match_DLA_EME=null
+|match_DLA_MGU=null
+|match_DLA_MON=null
+|match_DLA_RES=1–3
+|match_DLA_TRU=0–1
+|match_DLA_YAR=1–3
+|match_DLA_ZAM=2–2
+|match_DLA_ZUL=0–1
+
+|name_DPE=[[Deportivo Petare]]
+|match_DPE_ARA=null
+|match_DPE_ATV=null
+|match_DPE_AVE=2–1
+|match_DPE_CBO=1–0
+|match_DPE_CRC=null
+|match_DPE_CRN=0–0
+|match_DPE_DAN=null
+|match_DPE_DLA=1–2
+|match_DPE_DTA=0–0
+|match_DPE_EME=null
+|match_DPE_MGU=2–1
+|match_DPE_MON=null
+|match_DPE_RES=0–0
+|match_DPE_TRU=null
+|match_DPE_YAR=2–1
+|match_DPE_ZAM=null
+|match_DPE_ZUL=1–0
+
+|name_DTA=[[Deportivo Táchira]]
+|match_DTA_ARA=null
+|match_DTA_ATV=null
+|match_DTA_AVE=4–1
+|match_DTA_CBO=3–1
+|match_DTA_CRC=null
+|match_DTA_CRN=3–0
+|match_DTA_DAN=3–1
+|match_DTA_DLA=3–1
+|match_DTA_DPE=null
+|match_DTA_EME=null
+|match_DTA_MGU=1–1
+|match_DTA_MON=null
+|match_DTA_RES=2–0
+|match_DTA_TRU=null
+|match_DTA_YAR=1–0
+|match_DTA_ZAM=null
+|match_DTA_ZUL=4–0
+
+|name_EME=[[Estudiantes de Mérida]]
+|match_EME_ARA=null
+|match_EME_ATV=null
+|match_EME_AVE=4–0
+|match_EME_CBO=1–1
+|match_EME_CRC=null
+|match_EME_CRN=2–1
+|match_EME_DAN=null
+|match_EME_DLA=1–0
+|match_EME_DPE=1–2
+|match_EME_DTA=2–2
+|match_EME_MGU=0–1
+|match_EME_MON=null
+|match_EME_RES=1–0
+|match_EME_TRU=null
+|match_EME_YAR=null
+|match_EME_ZAM=null
+|match_EME_ZUL=2–1
+
+|name_MGU=[[Mineros de Guayana]]
+|match_MGU_ARA=null
+|match_MGU_ATV=1–0
+|match_MGU_AVE=2–2
+|match_MGU_CBO=1–1
+|match_MGU_CRC=null
+|match_MGU_CRN=2–0
+|match_MGU_DAN=3–1
+|match_MGU_DLA=1–1
+|match_MGU_DPE=null
+|match_MGU_DTA=null
+|match_MGU_EME=null
+|match_MGU_MON=null
+|match_MGU_RES=1–3
+|match_MGU_TRU=null
+|match_MGU_YAR=1–1
+|match_MGU_ZAM=null
+|match_MGU_ZUL=2–3
+
+|name_MON=[[Monagas Sport Club|Monagas]]
+|match_MON_ARA=2–2
+|match_MON_ATV=null
+|match_MON_AVE=2–2
+|match_MON_CBO=0–1
+|match_MON_CRC=null
+|match_MON_CRN=null
+|match_MON_DAN=null
+|match_MON_DLA=1–1
+|match_MON_DPE=2–4
+|match_MON_DTA=2–0
+|match_MON_EME=6–0
+|match_MON_MGU=0–0
+|match_MON_RES=null
+|match_MON_TRU=null
+|match_MON_YAR=null
+|match_MON_ZAM=null
+|match_MON_ZUL=3–2
+
+|name_RES=[[Real Esppor Club|Real Esppor]]
+|match_RES_ARA=3–0
+|match_RES_ATV=2–0
+|match_RES_AVE=null
+|match_RES_CBO=null
+|match_RES_CRC=1–2
+|match_RES_CRN=null
+|match_RES_DAN=3–0
+|match_RES_DLA=null
+|match_RES_DPE=null
+|match_RES_DTA=null
+|match_RES_EME=null
+|match_RES_MGU=null
+|match_RES_MON=2–1
+|match_RES_TRU=1–1
+|match_RES_YAR=2–0
+|match_RES_ZAM=3–0
+|match_RES_ZUL=null
+
+|name_TRU=[[Trujillanos FC|Trujillanos]]
+|match_TRU_ARA=2–0
+|match_TRU_ATV=3–2
+|match_TRU_AVE=null
+|match_TRU_CBO=null
+|match_TRU_CRC=2–0
+|match_TRU_CRN=null
+|match_TRU_DAN=null
+|match_TRU_DLA=null
+|match_TRU_DPE=0–1
+|match_TRU_DTA=1–3
+|match_TRU_EME=0–1
+|match_TRU_MGU=1–1
+|match_TRU_MON=1–0
+|match_TRU_RES=null
+|match_TRU_YAR=null
+|match_TRU_ZAM=2–0
+|match_TRU_ZUL=null
+
+|name_YAR=[[Yaracuyanos FC|Yaracuyanos]]
+|match_YAR_ARA=1–0
+|match_YAR_ATV=1–1
+|match_YAR_AVE=null
+|match_YAR_CBO=null
+|match_YAR_CRC=1–0
+|match_YAR_CRN=null
+|match_YAR_DAN=1–1
+|match_YAR_DLA=null
+|match_YAR_DPE=null
+|match_YAR_DTA=null
+|match_YAR_EME=1–1
+|match_YAR_MGU=null
+|match_YAR_MON=0–0
+|match_YAR_RES=null
+|match_YAR_TRU=1–1
+|match_YAR_ZAM=2–1
+|match_YAR_ZUL=null
+
+|name_ZAM=[[Zamora FC|Zamora]]
+|match_ZAM_ARA=1–2
+|match_ZAM_ATV=2–1
+|match_ZAM_AVE=null
+|match_ZAM_CBO=null
+|match_ZAM_CRC=0–3
+|match_ZAM_CRN=1–4
+|match_ZAM_DAN=null
+|match_ZAM_DLA=null
+|match_ZAM_DPE=0–1
+|match_ZAM_DTA=1–1
+|match_ZAM_EME=1–0
+|match_ZAM_MGU=2–2
+|match_ZAM_MON=2–1
+|match_ZAM_RES=null
+|match_ZAM_TRU=null
+|match_ZAM_YAR=null
+|match_ZAM_ZUL=null
+
+|name_ZUL=[[Zulia FC|Zulia]]
+|match_ZUL_ARA=null
+|match_ZUL_ATV=4–1
+|match_ZUL_AVE=null
+|match_ZUL_CBO=null
+|match_ZUL_CRC=0–1
+|match_ZUL_CRN=4–0
+|match_ZUL_DAN=1–2
+|match_ZUL_DLA=null
+|match_ZUL_DPE=null
+|match_ZUL_DTA=null
+|match_ZUL_EME=null
+|match_ZUL_MGU=null
+|match_ZUL_MON=null
+|match_ZUL_RES=2–5
+|match_ZUL_TRU=0–0
+|match_ZUL_YAR=2–3
+|match_ZUL_ZAM=0–0
+
+|update=December 12, 2010 
+|source=[https://int.soccerway.com/national/venezuela/primera-division/2010-2011/apertura/ Soccerway] 
+}}
+
+==Torneo Clausura==
+The '''Torneo Clausura''' will be the second and final tournament of the season. It began on January 16 and ended on May 15.
+
+===Standings===
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=ZAM|name_ZAM=[[Zamora FC|Zamora]]
+|team2=CRC|name_CRC=[[Caracas FC|Caracas]]
+|team3=DAN|name_DAN=[[Deportivo Anzoátegui]]
+|team4=MGU|name_MGU=[[Mineros de Guayana]]
+|team5=RES|name_RES=[[Real Esppor Club|Real Esppor]]
+|team6=MON|name_MON=[[Monagas Sport Club|Monagas]]
+|team7=DPE|name_DPE=[[Deportivo Petare]]
+|team8=TRU|name_TRU=[[Trujillanos FC|Trujillanos]]
+|team9=CBO|name_CBO=[[Carabobo FC|Carabobo]]
+|team10=ARA|name_ARA=[[Aragua FC|Aragua]]
+|team11=YAR|name_YAR=[[Yaracuyanos FC|Yaracuyanos]]
+|team12=ATV|name_ATV=[[Atlético El Vigía]]
+|team13=DLA|name_DLA=[[Deportivo Lara]]
+|team14=DTA|name_DTA=[[Deportivo Táchira]]
+|team15=ZUL|name_ZUL=[[Zulia FC|Zulia]]
+|team16=EME|name_EME=[[Estudiantes de Mérida]]
+|team17=CRN|name_CRN=[[Caroní FC|Caroní]]
+|team18=AVE|name_AVE=[[Atlético Venezuela]]
+|win_ZAM=13|draw_ZAM=3|loss_ZAM=1|gf_ZAM=37|ga_ZAM=10
+|win_CRC=12|draw_CRC=2|loss_CRC=3|gf_CRC=32|ga_CRC=12
+|win_DAN=8|draw_DAN=5|loss_DAN=4|gf_DAN=27|ga_DAN=17
+|win_MGU=9|draw_MGU=2|loss_MGU=6|gf_MGU=27|ga_MGU=17
+|win_RES=8|draw_RES=4|loss_RES=5|gf_RES=16|ga_RES=13
+|win_MON=7|draw_MON=6|loss_MON=4|gf_MON=22|ga_MON=12
+|win_DPE=7|draw_DPE=6|loss_DPE=4|gf_DPE=21|ga_DPE=14
+|win_TRU=7|draw_TRU=4|loss_TRU=6|gf_TRU=18|ga_TRU=16
+|win_CBO=6|draw_CBO=6|loss_CBO=5|gf_CBO=26|ga_CBO=18
+|win_ARA=6|draw_ARA=6|loss_ARA=5|gf_ARA=16|ga_ARA=13
+|win_YAR=6|draw_YAR=6|loss_YAR=5|gf_YAR=18|ga_YAR=20
+|win_ATV=7|draw_ATV=2|loss_ATV=8|gf_ATV=35|ga_ATV=22
+|win_DLA=6|draw_DLA=5|loss_DLA=6|gf_DLA=24|ga_DLA=19
+|win_DTA=6|draw_DTA=2|loss_DTA=9|gf_DTA=22|ga_DTA=21
+|win_ZUL=5|draw_ZUL=1|loss_ZUL=10|gf_ZUL=14|ga_ZUL=34
+|win_EME=1|draw_EME=5|loss_EME=11|gf_EME=12|ga_EME=32
+|win_CRN=1|draw_CRN=4|loss_CRN=11|gf_CRN=9|ga_CRN=44
+|win_AVE=2|draw_AVE=1|loss_AVE=14|gf_AVE=8|ga_AVE=50
+
+|col_CLSS=#ACE1AF|text_CLSS=[[#Serie Final|Serie Final]] and the [[2012 Copa Libertadores#Second stage|2012 Copa Libertadores Second Stage]]
+|result1=CLSS
+|class_rules=1st points; 2nd goal difference; 3rd goals scored.
+|update=complete|source=<ref name=Standings/>
+}}
+
+===Results===
+{{#invoke:sports results|main
+|matches_style=FBR|solid_cell=grey
+|team1=ARA|team2=ATV|team3=AVE|team4=CBO|team5=CRC
+|team6=CRN|team7=DAN|team8=DLA|team9=DPE|team10=DTA
+|team11=EME|team12=MGU|team13=MON|team14=RES|team15=TRU
+|team16=YAR|team17=ZAM|team18=ZUL
+
+|name_ARA=[[Aragua FC|Aragua]]
+|match_ARA_ATV=1–0
+|match_ARA_AVE=null
+|match_ARA_CBO=null
+|match_ARA_CRC=0–1
+|match_ARA_CRN=2–1
+|match_ARA_DAN=0–0
+|match_ARA_DLA=null
+|match_ARA_DPE=null
+|match_ARA_DTA=null
+|match_ARA_EME=null
+|match_ARA_MGU=null
+|match_ARA_MON=0–0
+|match_ARA_RES=0–1
+|match_ARA_TRU=2–1
+|match_ARA_YAR=2–2
+|match_ARA_ZAM=0–1
+|match_ARA_ZUL=null
+
+|name_ATV=[[Atlético El Vigía]]
+|match_ATV_ARA=null
+|match_ATV_AVE=4–0
+|match_ATV_CBO=null
+|match_ATV_CRC=1–0
+|match_ATV_CRN=3–0
+|match_ATV_DAN=1–1
+|match_ATV_DLA=null
+|match_ATV_DPE=null
+|match_ATV_DTA=null
+|match_ATV_EME=null
+|match_ATV_MGU=1–3
+|match_ATV_MON=null
+|match_ATV_RES=1–0
+|match_ATV_TRU=0–2
+|match_ATV_YAR=3–1
+|match_ATV_ZAM=0–3
+|match_ATV_ZUL=5–1
+
+|name_AVE=[[Atlético Venezuela]]
+|match_AVE_ARA=0–1
+|match_AVE_ATV=null
+|match_AVE_CBO=1–5
+|match_AVE_CRC=null
+|match_AVE_CRN=null
+|match_AVE_DAN=null
+|match_AVE_DLA=0–4
+|match_AVE_DPE=0–2
+|match_AVE_DTA=3–2
+|match_AVE_EME=3–0
+|match_AVE_MGU=0–3
+|match_AVE_MON=0–2
+|match_AVE_RES=null
+|match_AVE_TRU=null
+|match_AVE_YAR=null
+|match_AVE_ZAM=null
+|match_AVE_ZUL=null
+
+|name_CBO=[[Carabobo FC|Carabobo]]
+|match_CBO_ARA=1–1
+|match_CBO_ATV=2–0
+|match_CBO_AVE=null
+|match_CBO_CRC=2–2
+|match_CBO_CRN=null
+|match_CBO_DAN=null
+|match_CBO_DLA=null
+|match_CBO_DPE=0–1
+|match_CBO_DTA=0–2
+|match_CBO_EME=3–1
+|match_CBO_MGU=0–2
+|match_CBO_MON=0–0
+|match_CBO_RES=null
+|match_CBO_TRU=null
+|match_CBO_YAR=null
+|match_CBO_ZAM=null
+|match_CBO_ZUL=null
+
+|name_CRC=[[Caracas FC|Caracas]]
+|match_CRC_ARA=null
+|match_CRC_ATV=null
+|match_CRC_AVE=4–0
+|match_CRC_CBO=null
+|match_CRC_CRN=2–2
+|match_CRC_DAN=5–1
+|match_CRC_DLA=1–0
+|match_CRC_DPE=null
+|match_CRC_DTA=null
+|match_CRC_EME=null
+|match_CRC_MGU=null
+|match_CRC_MON=null
+|match_CRC_RES=3–0
+|match_CRC_TRU=1–0
+|match_CRC_YAR=0–1
+|match_CRC_ZAM=0–1
+|match_CRC_ZUL=5–1
+
+|name_CRN=[[Caroní FC|Caroní]]
+|match_CRN_ARA=null
+|match_CRN_ATV=null
+|match_CRN_AVE=0–0
+|match_CRN_CBO=1–3
+|match_CRN_CRC=null
+|match_CRN_DAN=null
+|match_CRN_DLA=0–3
+|match_CRN_DPE=0–3
+|match_CRN_DTA=2–1
+|match_CRN_EME=1–1
+|match_CRN_MGU=0–2
+|match_CRN_MON=null
+|match_CRN_RES=null
+|match_CRN_TRU=null
+|match_CRN_YAR=null
+|match_CRN_ZAM=0–1
+|match_CRN_ZUL=–
+
+|name_DAN=[[Deportivo Anzoátegui]]
+|match_DAN_ARA=null
+|match_DAN_ATV=null
+|match_DAN_AVE=10–0
+|match_DAN_CBO=1–1
+|match_DAN_CRC=null
+|match_DAN_CRN=2–1
+|match_DAN_DLA=2–1
+|match_DAN_DPE=null
+|match_DAN_DTA=1–0
+|match_DAN_EME=null
+|match_DAN_MGU=1–0
+|match_DAN_MON=null
+|match_DAN_RES=2–1
+|match_DAN_TRU=null
+|match_DAN_YAR=0–1
+|match_DAN_ZAM=null
+|match_DAN_ZUL=1–0
+
+|name_DLA=[[Deportivo Lara]]
+|match_DLA_ARA=1–0
+|match_DLA_ATV=1–1
+|match_DLA_AVE=null
+|match_DLA_CBO=0–3
+|match_DLA_CRC=null
+|match_DLA_CRN=null
+|match_DLA_DAN=null
+|match_DLA_DPE=3–0
+|match_DLA_DTA=2–2
+|match_DLA_EME=1–0
+|match_DLA_MGU=2–2
+|match_DLA_MON=1–3
+|match_DLA_RES=null
+|match_DLA_TRU=null
+|match_DLA_YAR=null
+|match_DLA_ZAM=null
+|match_DLA_ZUL=null
+
+|name_DPE=[[Deportivo Petare]]
+|match_DPE_ARA=1–1
+|match_DPE_ATV=1–0
+|match_DPE_AVE=null
+|match_DPE_CBO=null
+|match_DPE_CRC=2–3
+|match_DPE_CRN=null
+|match_DPE_DAN=0–0
+|match_DPE_DLA=null
+|match_DPE_DTA=null
+|match_DPE_EME=5–1
+|match_DPE_MGU=null
+|match_DPE_MON=1–1
+|match_DPE_RES=null
+|match_DPE_TRU=1–0
+|match_DPE_YAR=null
+|match_DPE_ZAM=0–0
+|match_DPE_ZUL=null
+
+|name_DTA=[[Deportivo Táchira]]
+|match_DTA_ARA=3–1
+|match_DTA_ATV=3–1
+|match_DTA_AVE=null
+|match_DTA_CBO=null
+|match_DTA_CRC=0–1
+|match_DTA_CRN=null
+|match_DTA_DAN=null
+|match_DTA_DLA=null
+|match_DTA_DPE=1–2
+|match_DTA_EME=3–1
+|match_DTA_MGU=null
+|match_DTA_MON=1–0
+|match_DTA_RES=null
+|match_DTA_TRU=1–0
+|match_DTA_YAR=null
+|match_DTA_ZAM=1–2
+|match_DTA_ZUL=null
+
+|name_EME=[[Estudiantes de Mérida]]
+|match_EME_ARA=0–0
+|match_EME_ATV=0–1
+|match_EME_AVE=null
+|match_EME_CBO=null
+|match_EME_CRC=1–2
+|match_EME_CRN=null
+|match_EME_DAN=2–4
+|match_EME_DLA=null
+|match_EME_DPE=null
+|match_EME_DTA=null
+|match_EME_MGU=null
+|match_EME_MON=0–0
+|match_EME_RES=null
+|match_EME_TRU=1–2
+|match_EME_YAR=0–0
+|match_EME_ZAM=0–4
+|match_EME_ZUL=null
+
+|name_MGU=[[Mineros de Guayana]]
+|match_MGU_ARA=0–1
+|match_MGU_ATV=null
+|match_MGU_AVE=null
+|match_MGU_CBO=null
+|match_MGU_CRC=0–1
+|match_MGU_CRN=null
+|match_MGU_DAN=null
+|match_MGU_DLA=null
+|match_MGU_DPE=2–1
+|match_MGU_DTA=1–0
+|match_MGU_EME=1–1
+|match_MGU_MON=1–0
+|match_MGU_RES=null
+|match_MGU_TRU=3–1
+|match_MGU_YAR=null
+|match_MGU_ZAM=3–1
+|match_MGU_ZUL=null
+
+|name_MON=[[Monagas Sport Club|Monagas]]
+|match_MON_ARA=null
+|match_MON_ATV=3–1
+|match_MON_AVE=null
+|match_MON_CBO=null
+|match_MON_CRC=0–1
+|match_MON_CRN=4–0
+|match_MON_DAN=1–0
+|match_MON_DLA=null
+|match_MON_DPE=null
+|match_MON_DTA=null
+|match_MON_EME=null
+|match_MON_MGU=null
+|match_MON_RES=1–0
+|match_MON_TRU=1–1
+|match_MON_YAR=4–1
+|match_MON_ZAM=1–3
+|match_MON_ZUL=null
+
+|name_RES=[[Real Esppor Club|Real Esppor]]
+|match_RES_ARA=null
+|match_RES_ATV=null
+|match_RES_AVE=1–0
+|match_RES_CBO=1–0
+|match_RES_CRC=null
+|match_RES_CRN=3–0
+|match_RES_DAN=null
+|match_RES_DLA=0–0
+|match_RES_DPE=0–0
+|match_RES_DTA=2–2
+|match_RES_EME=1–0
+|match_RES_MGU=3–2
+|match_RES_MON=null
+|match_RES_TRU=null
+|match_RES_YAR=null
+|match_RES_ZAM=null
+|match_RES_ZUL=1–0
+
+|name_TRU=[[Trujillanos FC|Trujillanos]]
+|match_TRU_ARA=null
+|match_TRU_ATV=null
+|match_TRU_AVE=3–0
+|match_TRU_CBO=1–0
+|match_TRU_CRC=null
+|match_TRU_CRN=2–1
+|match_TRU_DAN=2–0
+|match_TRU_DLA=0–0
+|match_TRU_DPE=null
+|match_TRU_DTA=null
+|match_TRU_EME=null
+|match_TRU_MGU=null
+|match_TRU_MON=null
+|match_TRU_RES=0–0
+|match_TRU_YAR=1–1
+|match_TRU_ZAM=null
+|match_TRU_ZUL=2–1
+
+|name_YAR=[[Yaracuyanos FC|Yaracuyanos]]
+|match_YAR_ARA=null
+|match_YAR_ATV=null
+|match_YAR_AVE=2–0
+|match_YAR_CBO=1–1
+|match_YAR_CRC=null
+|match_YAR_CRN=0–0
+|match_YAR_DAN=null
+|match_YAR_DLA=1–4
+|match_YAR_DPE=1–1
+|match_YAR_DTA=1–0
+|match_YAR_EME=null
+|match_YAR_MGU=2–1
+|match_YAR_MON=null
+|match_YAR_RES=1–2
+|match_YAR_TRU=null
+|match_YAR_ZAM=null
+|match_YAR_ZUL=2–0
+
+|name_ZAM=[[Zamora FC|Zamora]]
+|match_ZAM_ARA=null
+|match_ZAM_ATV=null
+|match_ZAM_AVE=5–0
+|match_ZAM_CBO=2–2
+|match_ZAM_CRC=null
+|match_ZAM_CRN=null
+|match_ZAM_DAN=1–1
+|match_ZAM_DLA=3–1
+|match_ZAM_DPE=null
+|match_ZAM_DTA=null
+|match_ZAM_EME=null
+|match_ZAM_MGU=null
+|match_ZAM_MON=null
+|match_ZAM_RES=1–0
+|match_ZAM_TRU=3–0
+|match_ZAM_YAR=1–0
+|match_ZAM_ZUL=5–1
+
+|name_ZUL=[[Zulia FC|Zulia]]
+|match_ZUL_ARA=0–4
+|match_ZUL_ATV=null
+|match_ZUL_AVE=2–1
+|match_ZUL_CBO=1–3
+|match_ZUL_CRC=null
+|match_ZUL_CRN=null
+|match_ZUL_DAN=null
+|match_ZUL_DLA=1–0
+|match_ZUL_DPE=1–0
+|match_ZUL_DTA=1–0
+|match_ZUL_EME=1–3
+|match_ZUL_MGU=2–1
+|match_ZUL_MON=1–1
+|match_ZUL_RES=null
+|match_ZUL_TRU=null
+|match_ZUL_YAR=null
+|match_ZUL_ZAM=null
+
+|match_CRN_ZUL_note=Match cancelled
+
+|update=May 15, 2011
+|source=[https://int.soccerway.com/national/venezuela/primera-division/2010-2011/clausura/ Soccerway] 
+}}
+
+==Aggregate table==
+{{#invoke:sports table|main|style=WDL
+|res_col_header=QR
+
+|team1=CRC|name_CRC=[[Caracas FC|Caracas]]
+|team2=RES|name_RES=[[Real Esppor Club|Real Esppor]]
+|team3=DPE|name_DPE=[[Deportivo Petare]]
+|team4=DTA|name_DTA=[[Deportivo Táchira]]
+|team5=ZAM|name_ZAM=[[Zamora FC|Zamora]]
+|team6=DAN|name_DAN=[[Deportivo Anzoátegui]]
+|team7=TRU|name_TRU=[[Trujillanos FC|Trujillanos]]
+|team8=ARA|name_ARA=[[Aragua FC|Aragua]]
+|team9=YAR|name_YAR=[[Yaracuyanos FC|Yaracuyanos]]
+|team10=MGU|name_MGU=[[Mineros de Guayana]]
+|team11=MON|name_MON=[[Monagas Sport Club|Monagas]]
+|team12=CBO|name_CBO=[[Carabobo FC|Carabobo]]
+|team13=DLA|name_DLA=[[Deportivo Lara]]
+|team14=ZUL|name_ZUL=[[Zulia FC|Zulia]]
+|team15=ATV|name_ATV=[[Atlético El Vigía]]
+|team16=EME|name_EME=[[Estudiantes de Mérida]]
+|team17=AVE|name_AVE=[[Atlético Venezuela]]
+|team18=CRN|name_CRN=[[Caroní FC|Caroní]]
+|win_CRC=23|draw_CRC=4|loss_CRC=7|gf_CRC=56|ga_CRC=27
+|win_RES=19|draw_RES=7|loss_RES=8|gf_RES=46|ga_RES=23
+|win_DPE=16|draw_DPE=12|loss_DPE=6|gf_DPE=46|ga_DPE=31
+|win_DTA=16|draw_DTA=8|loss_DTA=10|gf_DTA=53|ga_DTA=32
+|win_ZAM=16|draw_ZAM=8|loss_ZAM=10|gf_ZAM=53|ga_ZAM=40
+|win_DAN=15|draw_DAN=10|loss_DAN=9|gf_DAN=62|ga_DAN=47
+|win_TRU=14|draw_TRU=10|loss_TRU=10|gf_TRU=40|ga_TRU=31
+|win_ARA=14|draw_ARA=10|loss_ARA=10|gf_ARA=38|ga_ARA=33
+|win_YAR=12|draw_YAR=14|loss_YAR=8|gf_YAR=36|ga_YAR=38
+|win_MGU=13|draw_MGU=10|loss_MGU=11|gf_MGU=47|ga_MGU=37
+|win_MON=11|draw_MON=11|loss_MON=12|gf_MON=47|ga_MON=37
+|win_CBO=9|draw_CBO=13|loss_CBO=12|gf_CBO=41|ga_CBO=39
+|win_DLA=9|draw_DLA=12|loss_DLA=13|gf_DLA=46|ga_DLA=48
+|win_ZUL=11|draw_ZUL=4|loss_ZUL=18|gf_ZUL=39|ga_ZUL=62
+|win_ATV=9|draw_ATV=10|loss_ATV=15|gf_ATV=41|ga_ATV=47
+|win_EME=7|draw_EME=9|loss_EME=18|gf_EME=28|ga_EME=52
+|win_AVE=6|draw_AVE=5|loss_AVE=23|gf_AVE=30|ga_AVE=83
+|win_CRN=4|draw_CRN=6|loss_CRN=23|gf_CRN=19|ga_CRN=67
+
+|col_CLFS=#D0F0C0|text_CLFS=[[2012 Copa Libertadores#First stage|2012 Copa Libertadores First Stage]]
+|result1=CLFS
+|col_SS=#DDFDFF|text_SS=Qualified to the [[#Serie Sudamericana|Serie Sudamericana]]
+|result2=SS|result3=SS|result6=SS|result8=SS|result9=SS|result10=SS|result11=SS|result12=SS
+|col_CLSS=#ACE1AF|text_CLSS=[[2012 Copa Libertadores#Second stage|2012 Copa Libertadores Second Stage]] 
+|note_res_CLSS=Deportivo Táchira and Zamora are qualified for the 2011 Copa Libertadores Second Stage as the Apertura and Clausura champions, respectively.
+|result4=CLSS|result5=CLSS
+|col_CSSS=#97DEFF|text_CSSS=[[2011 Copa Sudamericana#Second stage|2011 Copa Sudamericana Second Stage]] 
+|note_res_CSSS=Trujillanos qualified to the 2011 Copa Sudamericana Second Stage as the [[2010 Copa Venezuela]] champion.
+|result7=CSSS
+|col_R=#FFCCCC|text_R=Relegated to the [[Venezuelan Segunda División|Segunda División]]
+|result17=R|result18=R
+|class_rules= 1st points; 2nd goal difference; 3rd goals scored.
+|update=complete|source=<ref name=Standings>{{cite web |url=http://www.federacionvenezolanadefutbol.org/estadisticas.php?subaction=showfull&id=1294018737&archive=&start_from=&ucat=6& |title=Clasificación |trans-title=Standings |language=es |publisher=[[Venezuelan Football Federation]] |access-date=May 20, 2011 }}</ref>
+}}
+
+==Season top goalscorers==
+{|class="wikitable" border="1"
+|-
+!Rank
+!Player
+!Nationality
+!Club
+!Goals
+|-
+|align=center| 1 || [[Daniel Arismendi]] || {{flag|VEN|name=Venezuelan}} || [[Deportivo Anzoátegui]] ||align=center|19
+|-
+|align=center| 2 || [[Wilmar Jordán Gil]] || {{flag|COL|name=Colombian}} || [[Monagas Sport Club|Monagas]] ||align=center| 17
+|-
+|align=center| 3 || [[Marcelo Refresquini]] || {{flag|URU|name=Uruguayan}} || [[Atlético Venezuela]]/[[Yaracuyanos FC|Yaracuyanos]] ||align=center| 13 <sup>1</sup>
+|-
+|align=center rowspan=4| 4 || [[Luis Carlos Cabezas]] || {{flag|COL|name=Colombian}} || [[Caracas FC|Caracas]] ||align=center| 12
+|-
+| [[Jonathan Copete]] || {{flag|COL|name=Colombian}} || [[Zamora FC|Zamora]] ||align=center| 12
+|-
+| [[Alejandro Guerra]] || {{flag|VEN|name=Venezuelan}} || [[Deportivo Anzoátegui]] ||align=center| 12
+|-
+| [[Sergio Herrera (footballer, born 1981)|Sergio Herrera]] || {{flag|COL|name=Colombian}} || [[Deportivo Táchira]] ||align=center| 12
+|-
+|align=center rowspan=2| 8 || [[Heiber Díaz]] || {{flag|VEN|name=Venezuelan}} || [[Estudiantes de Mérida]]/[[Carabobo FC|Carabobo]] ||align=center| 11 <sup>2</sup>
+|-
+| [[Genlys Piñero]] || {{flag|VEN|name=Venezuelan}} || [[Atlético El Vigía]] ||align=center| 11
+|-
+|align=center| 10 || [[Roberto Armúa]] || {{flag|ARG|name=Argentine}} || [[Trujillanos FC|Trujillanos]] ||align=center| 10
+|-
+|}
+<small>Source:<ref>{{cite web |url=http://www.federacionvenezolanadefutbol.org/estadisticas.php?subaction=showfull&id=1294019064&archive=&start_from=&ucat=15& |title=Estadisticas |trans-title=Statistics |language=es |access-date=May 20, 2011 |publisher=[[Venezuelan Football Federation]] }}</ref><br><sup>1</sup> Refresquini scored 12 goals for Atlético Venezuela and 1 goal for Yaracuyanos.<br><sup>2</sup> Díaz scored 5 goals for Estudiantes de Mérida and 6 goals for Carabobo.</small>
+
+==Serie Final==
+[[Deportivo Táchira]] and [[Zamora FC|Zamora]] qualified to the Serie Final, which was contested on a home and away basis.
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=DTA|name_DTA=[[Deportivo Táchira]]
+|team2=ZAM|name_ZAM=[[Zamora FC|Zamora]]
+|win_DTA=1|draw_DTA=1|loss_DTA=0|gf_DTA=1|ga_DTA=0
+|win_ZAM=0|draw_ZAM=1|loss_ZAM=1|gf_ZAM=0|ga_ZAM=1
+
+|col_C=gold|text_C=
+|result1=C
+|class_rules=1st points; 2nd goals scored; 3rd away goals; 4th penalty shoot-out.
+|update=complete|source=
+}}
+
+{{football box
+| date       = May 22, 2011
+| time       = 18:00 [[UTC−04:30]]
+| team1      = [[Zamora FC|Zamora]]
+| score      = 0–1
+| report     = [http://www.federacionvenezolanadefutbol.org/noticias.php?subaction=showfull&id=1306122123&archive=&start_from=&ucat=1& Report]
+| team2      = [[Deportivo Táchira]]
+| goals1     = 
+| goals2     = [[Edgar Pérez Greco|Pérez Greco]] {{goal|40}}
+| stadium    = [[Estadio Agustín Tovar]], [[Barinas, Barinas|Barinas]]
+| attendance = 20,480
+| referee    = Giovanni Perluzzo (Sucre)}}
+----
+{{football box
+| date       = May 29, 2011
+| time       = 16:00 [[UTC−04:30]]
+| team1      = [[Deportivo Táchira]]
+| score      = 0–0
+| report     = [http://www.federacionvenezolanadefutbol.org/noticias.php?subaction=showfull&id=1306712465&archive=&start_from=&ucat=1& Report]
+| team2      = [[Zamora FC|Zamora]]
+| goals1     = 
+| goals2     = 
+| stadium    = [[Estadio Polideportivo de Pueblo Nuevo]], [[San Cristóbal, Táchira|San Cristóbal]]
+| attendance = 37,789
+| referee    = José Luis Hoyos (Trujillo)}}
+
+{{winners||Primera División<br />2010–11 champion|[[Deportivo Táchira]]|7th}}
+
+==Serie Sudamericana==
+Other than the teams which already qualify for the Copa Libertadores (Apertura and Clausura champions and the best-placed team in the aggregate table) and the Copa Sudamericana (Copa Venezuela champion), the eight best-placed teams in the aggregate table will contest in the Serie Sudamericana for the remaining two berths to the Copa Sudamericana, which qualify the two winners to the First Stage.
+
+In the first round, the matchups are:
+*Match A (1 vs. 8)
+*Match B (2 vs. 7)
+*Match C (3 vs. 6)
+*Match D (4 vs. 5)
+In the second round, the matchups are:
+*Winner A vs. Winner C
+*Winner B vs. Winner D
+For the two second round winners, the team with the better record in the aggregate table will receive the ''Venezuela 2'' berth, while the other team will receive the ''Venezuela 3'' berth.
+
+===First round===
+
+====Match A====
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=RES|name_RES=[[Real Esppor Club|Real Esppor]]
+|team2=CBO|name_CBO=[[Carabobo FC|Carabobo]]
+|win_RES=2|draw_RES=0|loss_RES=0|gf_RES=4|ga_RES=0
+|win_CBO=0|draw_CBO=0|loss_CBO=2|gf_CBO=0|ga_CBO=4
+
+|col_SR=#FFFFCC|text_SR=[[#Second round|Second Round]]
+|result1=SR
+|class_rules=1st points; 2nd goals scored; 3rd away goals; 4th penalty shoot-out.
+|update=complete|source=
+}}
+
+{{football box
+| date       = May 22, 2011
+| time       = 16:00 [[UTC−04:30]]
+| team1      = [[Carabobo FC|Carabobo]]
+| score      = 0–1
+| report     = [https://int.soccerway.com/matches/2011/05/22/venezuela/primera-division/carabobo-fc/real-esppor-club/1110846/ Report]
+| team2      = [[Real Esppor Club|Real Esppor]]
+| goals1     = 
+| goals2     = [[Charlys Ortiz|Ortiz]] {{goal|61}}
+| stadium    = [[Estadio Misael Delgado]], [[Valencia, Carabobo|Valencia]]
+| attendance = 7,762
+| referee    = Marlon Escalante (Táchira)}}
+----
+{{football box
+| date       = May 25, 2011
+| time       = 16:00 [[UTC−04:30]]
+| team1      = [[Real Esppor Club|Real Esppor]]
+| score      = 3–0
+| report     = [https://int.soccerway.com/matches/2011/05/25/venezuela/primera-division/real-esppor-club/carabobo-fc/1110850/ Report]
+| team2      = [[Carabobo FC|Carabobo]]
+| goals1     = [[Darío Figueroa|Figueroa]] {{goal|2|pen.}}<br>[[Jose Manrique|Manrique]] {{goal|58}}<br>[[Rafael Castellín|Castellín]] {{goal|82}}
+| goals2     = 
+| stadium    = [[Brígido Iriarte Stadium|Estadio Brígido Iriarte]], [[Caracas]]
+| attendance = 
+| referee    = Rafael López (Cojedes)}}
+
+====Match B====
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=DPE|name_DPE=[[Deportivo Petare]]
+|team2=MON|name_MON=[[Monagas Sport Club|Monagas]]
+|win_DPE=1|draw_DPE=0|loss_DPE=1|gf_DPE=3|ga_DPE=2
+|win_MON=1|draw_MON=0|loss_MON=1|gf_MON=2|ga_MON=3
+
+|col_SR=#FFFFCC|text_SR=[[#Second round|Second Round]]
+|result1=SR
+|class_rules=1st points; 2nd goals scored; 3rd away goals; 4th penalty shoot-out.
+|update=complete|source=
+}}
+
+{{football box
+| date       = May 22, 2011
+| time       = 16:00 [[UTC−04:30]]
+| team1      = [[Monagas Sport Club|Monagas]]
+| score      = 2–0
+| report     = [https://int.soccerway.com/matches/2011/05/22/venezuela/primera-division/monagas-sc/deportivo-italia/1110847/ Report]
+| team2      = [[Deportivo Petare]]
+| goals1     = [[Wilmar Jordán Gil|Gil]] {{goal|44|pen.}}<br>[[Guillermo Octavio|Octavio]] {{goal|88}}
+| goals2     = 
+| stadium    = [[Estadio Monumental de Maturín]], [[Maturín]]
+| attendance = 2,906
+| referee    = Luis Márquez (Portuguesa)}}
+----
+{{football box
+| date       = May 25, 2011
+| time       = 19:30 [[UTC−04:30]]
+| team1      = [[Deportivo Petare]]
+| score      = 3–0
+| report     = [https://int.soccerway.com/matches/2011/05/26/venezuela/primera-division/deportivo-italia/monagas-sc/1110851/ Report]
+| team2      = [[Monagas Sport Club|Monagas]]
+| goals1     = [[Víctor Guazá|Guazá]] {{goal|27}}<br>[[Bladimir Morales|Morales]] {{goal|49}}<br>[[Alex Sinisterra|Sinisterra]] {{goal|73}}
+| goals2     = 
+| stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico de la UCV]], [[Caracas]]
+| attendance = 
+| referee    = Marlon Escalante (Táchira)}}
+
+====Match C====
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=DAN|name_DAN=[[Deportivo Anzoátegui]]
+|team2=MGU|name_MGU=[[Mineros de Guayana]]
+|win_DAN=1|draw_DAN=1|loss_DAN=0|gf_DAN=4|ga_DAN=1
+|win_MGU=0|draw_MGU=1|loss_MGU=1|gf_MGU=1|ga_MGU=4
+
+|col_SR=#FFFFCC|text_SR=[[#Second round|Second Round]]
+|result1=SR
+|class_rules=1st points; 2nd goals scored; 3rd away goals; 4th penalty shoot-out.
+|update=complete|source=
+}}
+
+{{football box
+| date       = May 22, 2011
+| time       = 17:00 [[UTC−04:30]]
+| team1      = [[Atlético Club Mineros de Guayana|Mineros de Guayana]]
+| score      = 1–1
+| report     = [https://int.soccerway.com/matches/2011/05/22/venezuela/primera-division/ac-mineros-de-guayana/deportivo-anzoategui-sc/1110848/ Report]
+| team2      = [[Deportivo Anzoátegui]]
+| goals1     = [[Johny González|González]] {{goal|78}}
+| goals2     = [[Daniel Arismendi|Arismendi]] {{goal|55}}
+| stadium    = [[Polideportivo Cachamay]], [[Puerto Ordaz and San Felix|Puerto Ordaz]]
+| attendance = 18,841
+| referee    = Rafael López (Cojedes)}}
+----
+{{football box
+| date       = May 25, 2011
+| time       = 19:00 [[UTC−04:30]]
+| team1      = [[Deportivo Anzoátegui]]
+| score      = 3–0
+| report     = [https://int.soccerway.com/matches/2011/05/26/venezuela/primera-division/deportivo-anzoategui-sc/ac-mineros-de-guayana/1110852/ Report]
+| team2      = [[Atlético Club Mineros de Guayana|Mineros de Guayana]]
+| goals1     = [[Alejandro Guerra|Guerra]] {{goal|13}}<br>[[Daniel Arismendi|Arismendi]] {{goal|81,90}}
+| goals2     = 
+| stadium    = [[Estadio José Antonio Anzoátegui]], [[Puerto La Cruz]]
+| attendance = 
+| referee    = Giovanny Perluzzo (Monagas)}}
+
+====Match D====
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=YAR|name_YAR=[[Yaracuyanos FC|Yaracuyanos]]
+|team2=ARA|name_ARA=[[Aragua FC|Aragua]]
+|win_YAR=1|draw_YAR=1|loss_YAR=0|gf_YAR=3|ga_YAR=0
+|win_ARA=0|draw_ARA=1|loss_ARA=1|gf_ARA=0|ga_ARA=3
+
+|col_SR=#FFFFCC|text_SR=[[#Second round|Second Round]]
+|result1=SR
+|class_rules=1st points; 2nd goals scored; 3rd away goals; 4th penalty shoot-out.
+|update=complete|source=
+}}
+
+{{football box
+| date       = May 22, 2011
+| time       = 16:00 [[UTC−04:30]]
+| team1      = [[Yaracuyanos FC|Yaracuyanos]]
+| score      = 3–0
+| report     = [https://int.soccerway.com/matches/2011/05/22/venezuela/primera-division/yaracuyanos-fc/aragua-futbol-club/1110849/ Report]
+| team2      = [[Aragua FC|Aragua]]
+| goals1     = [[Johan Moreno|Moreno]] {{goal|46}}<br>[[Angel Osorio|Osorio]] {{goal|67}}<br>[[Roberto Carlos Bolívar|Bolívar]] {{goal|78}}
+| goals2     = 
+| stadium    = [[Estadio Florentino Oropeza]], [[San Felipe, Yaracuy|San Felipe]]
+| attendance = 3,226
+| referee    = Juan Soto (Distrito Capital)}}
+----
+{{football box
+| date       = May 25, 2011
+| time       = 16:00 [[UTC−04:30]]
+| team1      = [[Aragua FC|Aragua]]
+| score      = 0–0
+| report     = [https://int.soccerway.com/matches/2011/05/26/venezuela/primera-division/aragua-futbol-club/yaracuyanos-fc/1110853/ Report]
+| team2      = [[Yaracuyanos FC|Yaracuyanos]]
+| goals1     = 
+| goals2     = 
+| stadium    = [[Estadio Giuseppe Antonelli]], [[Maracay]]
+| attendance = 
+| referee    = Mayker Gómez (Distrito Capital)}}
+
+===Second round===
+
+====Winner A vs. Winner C====
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=DAN|name_DAN=[[Deportivo Anzoátegui]]
+|team2=RES|name_RES=[[Real Esppor Club|Real Esppor]]
+|win_DAN=2|draw_DAN=0|loss_DAN=0|gf_DAN=2|ga_DAN=0
+|win_RES=0|draw_RES=0|loss_RES=2|gf_RES=0|ga_RES=2
+
+|col_CSFS=#BBEBFF|text_CSFS=[[2011 Copa Sudamericana#First stage|2011 Copa Sudamericana First Stage]]
+|result1=CSFS
+|class_rules=1st points; 2nd goals scored; 3rd away goals; 4th penalty shoot-out.
+|update=complete|source=
+}}
+
+{{football box
+| date       = May 29, 2011
+| time       = 17:00 [[UTC−04:30]]
+| team1      = [[Deportivo Anzoátegui]]
+| score      = 1–0
+| report     = [https://int.soccerway.com/matches/2011/05/29/venezuela/primera-division/deportivo-anzoategui-sc/real-esppor-club/1110854/ Report]
+| team2      = [[Real Esppor Club|Real Esppor]]
+| goals1     = [[Oswaldo Vizcarrondo|Vizcarrondo]] {{goal|60}}
+| goals2     = 
+| stadium    = [[Estadio José Antonio Anzoátegui]], [[Puerto La Cruz]]
+| attendance = 
+| referee    = José Argote (Zulia)}}
+----
+{{football box
+| date       = June 2, 2011
+| time       = 16:10 [[UTC−04:30]]
+| team1      = [[Real Esppor Club|Real Esppor]]
+| score      = 0–1
+| report     = [https://int.soccerway.com/matches/2011/06/02/venezuela/primera-division/real-esppor-club/deportivo-anzoategui-sc/1110855/ Report]
+| team2      = [[Deportivo Anzoátegui]]
+| goals1     = 
+| goals2     = [[Daniel Arismendi|Arismendi]] {{goal|46}}
+| stadium    = [[Estadio Brígido Iriarte]], [[Caracas]]
+| attendance = 
+| referee    = Luis Márquez (Portuguesa)}}
+
+====Winner B vs. Winner D====
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+
+|team1=YAR|name_YAR=[[Yaracuyanos FC|Yaracuyanos]]
+|team2=DPE|name_DPE=[[Deportivo Petare]]
+|win_YAR=1|draw_YAR=1|loss_YAR=0|gf_YAR=2|ga_YAR=1
+|win_DPE=0|draw_DPE=1|loss_DPE=1|gf_DPE=1|ga_DPE=2
+
+|col_CSFS=#BBEBFF|text_CSFS=[[2011 Copa Sudamericana#First stage|2011 Copa Sudamericana First Stage]]
+|result1=CSFS
+|class_rules=1st points; 2nd goals scored; 3rd away goals; 4th penalty shoot-out.
+|update=complete|source=
+}}
+
+{{football box
+| date       = May 29, 2011
+| time       = 16:00 [[UTC−04:30]]
+| team1      = [[Yaracuyanos FC|Yaracuyanos]]
+| score      = 2–1
+| report     = [https://int.soccerway.com/matches/2011/05/29/venezuela/primera-division/yaracuyanos-fc/deportivo-italia/1110856/ Report]
+| team2      = [[Deportivo Petare]]
+| goals1     = [[Johan Moreno|Moreno]] {{goal|58}}<br>[[Marcelo Refresquini|Refresquini]] {{goal|67}}
+| goals2     = [[Evelio Hernández (footballer)|Hernández]] {{goal|86}}
+| stadium    = [[Estadio Florentino Oropeza]], [[San Felipe, Yaracuy|San Felipe]]
+| attendance = 
+| referee    = Candelario Andarcia (Nueva Esparta)}}
+----
+{{football box
+| date       = June 1, 2011
+| time       = 19:30 [[UTC−04:30]]
+| team1      = [[Deportivo Petare]]
+| score      = 0–0
+| report     = [https://int.soccerway.com/matches/2011/06/02/venezuela/primera-division/deportivo-italia/yaracuyanos-fc/1110857/ Report]
+| team2      = [[Yaracuyanos FC|Yaracuyanos]]
+| goals1     = 
+| goals2     = 
+| stadium    = [[Estadio Olímpico (Caracas)|Estadio Olímpico]], [[Caracas]]
+| attendance = 
+| referee    = Rafael López (Cojedes)}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|http://www.federacionvenezolanadefutbol.org}} of the [[Venezuelan Football Federation]] {{in lang|es}}
+**[https://web.archive.org/web/20120309123743/http://federacionvenezolanadefutbol.org/pdf/Normas_Reguladoras_2010.pdf Season regulations] {{in lang|es}}
+
+{{Venezuelan Primera División}}
+{{2010 in South American Football (CONMEBOL)}}
+{{2011 in South American Football (CONMEBOL)}}
+
+{{DEFAULTSORT:Venezuelan Primera Division 2010-11}}
+[[Category:Venezuelan Primera División seasons|2010-11]]
+[[Category:2011 in South American football leagues]]
+[[Category:2010 in South American football leagues]]
+[[Category:2010–11 in Venezuelan football]]

@@ -1,0 +1,1381 @@
+{{Short description|Venezuelan Primera División season}}
+{{Infobox football league season
+|competition=[[Venezuelan Primera División|Liga FUTVE]]
+|season=2024
+|dates= {{nowrap|2 February – 8 December 2024}}
+|winners= [[Deportivo Táchira F.C.|Deportivo Táchira]] (11th title)
+|relegated= [[Inter de Barinas]]<br/>[[Angostura F.C.|Angostura]]
+|continentalcup1=[[2025 Copa Libertadores|Copa Libertadores]]
+|continentalcup1 qualifiers= Deportivo Táchira<br/>[[Carabobo F.C.|Carabobo]]<br/>[[Universidad Central de Venezuela F.C.|Universidad Central]]<br/>[[Monagas S.C.|Monagas]]
+|continentalcup2=[[2025 Copa Sudamericana|Copa Sudamericana]]
+|continentalcup2 qualifiers= [[Metropolitanos F.C.|Metropolitanos]]<br/>[[Deportivo La Guaira F.C.|Deportivo La Guaira]]<br/>[[Academia Puerto Cabello]]<br/>[[Caracas F.C.|Caracas]]
+|matches= 234
+|total goals= 562
+|league topscorer= [[Juan Camilo Zapata]]<br/>[[Tomás Rodríguez (footballer)|Tomás Rodríguez]]<br/>(16 goals each)
+|biggest home win= Dep. Táchira 5–1 [[Estudiantes de Mérida|Est. Mérida]]<br/>(4 February)<br/>UCV 4–0 Inter de Barinas<br/>(11 May)<br/>Est. Mérida 4–0 Metropolitanos<br/>(2 September)
+|biggest away win= Inter de Barinas 0–4 Carabobo<br/>(23 July)<br/>Caracas 0–4 Dep. Táchira<br/>(12 November)
+|highest scoring= Angostura 3–4 [[Portuguesa F.C.|Portuguesa]]<br/>(12 May)<br/>Metropolitanos 5–2 UCV<br/>(18 May)
+|longest wins =
+|longest unbeaten =
+|longest losses =
+|highest attendance =
+|lowest attendance =
+|average attendance =
+|prevseason=[[2023 Venezuelan Primera División season|2023]]
+|nextseason=[[2025 Venezuelan Primera División season|2025]]
+}}
+
+The '''2024 Primera División season''', officially '''Liga de Fútbol Profesional Venezolano''' or '''''Liga FUTVE''''', was the 68th season of the [[Venezuelan Primera División]], the top-flight [[Association football|football]] league in Venezuela, and the 43rd season since the start of the professional era. The season began on 2 February 2024, being pushed back from its original date of 19 January 2024 to avoid a clash with the [[2024 CONMEBOL Pre-Olympic Tournament]] held in Venezuela,<ref>{{cite web|url=https://www.lavinotinto.com/inicio-del-torneo-apertura-de-la-liga-futve-postergado-para-el-2-de-febrero/|title=Inicio del torneo Apertura de la Liga Futve postergado para el 2 de febrero|trans-title=Start of the ''Liga Futve''′s Apertura tournament postponed to 2 February|publisher=La Vinotinto|language=es|date=16 January 2024|access-date=16 January 2024}}</ref> and ended on 8 December 2024.
+
+The defending champions [[Deportivo Táchira F.C.|Deportivo Táchira]] won a second league championship in a row and their eleventh overall after defeating [[Carabobo F.C.|Carabobo]] on kicks from the penalty mark in the season's grand final, following a 1–1 draw on aggregate.<ref>{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/deportivo-tachira-es-nuevamente-monarca-del-futve/|title=Deportivo Táchira es nuevamente monarca del FUTVE|trans-title=Deportivo Táchira is FUTVE's monarch again|publisher=Líder en Deportes|language=es|date=8 December 2024|access-date=8 December 2024}}</ref>
+
+==Competition format==
+The 2024 season saw a return to the [[Apertura and Clausura]] format in the competition, which was used for the last time in [[2019 Venezuelan Primera División season|2019]]. Both the Apertura and Clausura tournaments featured a first stage in which the participating teams played each other on a single round-robin fashion, with the top eight teams advancing to a semi-final stage in which they were divided into two groups of four teams each in which the qualified teams played against the other rivals in their group twice. The winners of each group contested a single-match final, with the Apertura and Clausura winners facing each other in the season's grand final (''Final Absoluta'') to decide the league champions. In the finals of both short tournaments, the finalist with the better performance was entitled to host the match.
+
+The season champions as well as the best-placed team in the aggregate table qualified for the group stage of the [[2025 Copa Libertadores]], while the season runners-up and the second best-placed team in the aggregate table qualified for the preliminary stages of that competition, with the former entering the second stage and the latter entering the first stage. The runners-up of both of the season's short tournaments as well as the next two best teams in the aggregate table that did not qualify for the Copa Libertadores qualified for the [[2025 Copa Sudamericana]].<ref>{{cite web|url=https://www.balonazos.com/la-liga-futve-presento-la-gala-de-los-mejores-2023-y-la-temporada-2024/|title=La Liga FutVe presentó la Gala de los Mejores 2023 y la Temporada 2024|trans-title=Liga FutVe presented the Best of 2023 Gala and the 2024 Season|publisher=Balonazos|language=es|date=13 December 2023|access-date=23 December 2023}}</ref>
+
+==Teams==
+15 teams were expected to compete in the 2024 season, subject to the fulfillment of club licensing requirements: the top 14 teams in the first stage of the 2023 season as well as the 2023 [[Venezuelan Segunda División|Segunda División]] champions [[Ureña S.C.|Ureña]].<ref>{{cite web|url=https://www.balonazos.com/urena-sc-campeon-2023-de-la-liga-futve-2-y-aseguro-el-ascenso-a-primera-division/|title=Ureña SC Campeón 2023 de la Liga FutVe 2 y aseguró el ascenso a Primera División|trans-title=Ureña SC champion of the 2023 Liga FutVe 2 and assured promotion to the Primera División|publisher=Balonazos|language=es|date=30 November 2023|accessdate=30 November 2023}}</ref> Ureña would replace [[A.C.C.D. Mineros de Guayana|Mineros de Guayana]], relegated at the end of the previous season.
+
+Prior to the start of the season, it was reported that [[C.D. Hermanos Colmenarez|Hermanos Colmenarez]] would change its name to Inter de Barinas,<ref>{{cite web|url=https://www.lapatilla.com/2023/12/15/inter-de-barinas-el-nuevo-equipo-del-futve-para-la-proxima-temporada-que-causo-furor-en-redes/|title=Inter de Barinas, el nuevo equipo del FutVe para la próxima temporada que causó furor en redes|trans-title=Inter de Barinas, the new team of the ''FutVe'' for the following season which caused havoc in the media|publisher=La Patilla|language=es|date=15 December 2023|accessdate=16 December 2023}}</ref> which was confirmed on 30 January 2024.<ref>{{cite web|url=https://www.lavinotinto.com/hermanos-colmenarez-paso-a-llamarse-inter-de-barinas/|title=Hermanos Colmenárez pasó a llamarse Inter de Barinas|trans-title=Hermanos Colmenárez was renamed Inter de Barinas|publisher=La Vinotinto|language=es|date=30 January 2024|access-date=31 January 2024}}</ref> It was also announced that Ureña had resigned from playing in the top tier due to economic problems and would sell their spot to third-placed side [[C.S. Marítimo de La Guaira|Marítimo de La Guaira]].<ref>{{cite web|url=https://www.balonazos.com/liga-futve-2024-adios-hermanos-colmenarez-y-urena-hola-inter-y-maritimo/|title=Liga FutVe 2024: Adiós Hermanos Colmenárez y Ureña, Hola Inter y Marítimo|trans-title=2024 Liga FutVe: Goodbye Hermanos Colmenarez and Ureña, hello Inter and Marítimo|publisher=Balonazos|language=es|date=16 December 2023|accessdate=16 December 2023}}</ref> Although on 9 January 2024 the league announced the first matchday with Ureña receiving a bye,<ref>{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/liga-futve/|title=Definida primera jornada de Liga FUTVE 2024|trans-title=2024 Liga FUTVE's first matchday was set|publisher=Líder en Deportes|language=es|date=9 January 2024|access-date=9 January 2024}}</ref> the club's final withdrawal from the competition was announced on 31 January 2024.<ref>{{cite web|url=https://www.balonazos.com/el-urena-sc-definitivamente-no-jugara-la-temporada-2024-de-la-liga-futve/|title=El Ureña SC definitivamente no jugará la Temporada 2024 de la Liga FutVe|trans-title=Ureña SC will definitely not play the Liga FutVe's 2024 Season|publisher=Balonazos|language=es|date=31 January 2024|access-date=31 January 2024}}</ref> As a result of this, the season was played by 14 clubs.
+
+{{Location map+ |Venezuela |float=right |width=450 |caption=Locations of the 2024 Primera División teams |places=
+{{Location map~ |Venezuela |lat=10.46840 |long=-68.0100 |label=<div style="font-size:80%;position:relative;right:-1px;top:0px">{{nowrap|[[Academia Puerto Cabello|Pto. Cabello]]}}</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{Location map~ |Venezuela |lat=8.07972 |long=-63.5172 |label=<div style="font-size:80%;position:relative;left:1px;top:1px">[[Angostura F.C.|Angostura]]</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{Location map~ |Venezuela |lat=8.624302 |long=-70.207310 |label=<div style="font-size:80%;position:relative;right:2px;top:-3px">'''Barinas'''</div> |position=right |mark=Arrows 12x12 sw.svg}}
+{{Location map~ |Venezuela |lat=10.223403 |long=-68.0115 |label=<div style="font-size:80%;position:relative;right:4px;top:7px">[[Carabobo F.C.|Carabobo]]</div> |position=right |mark=Arrows 12x12 nw.svg}}
+{{Location map~ |Venezuela |lat=10.496053 |long=-66.898281 |label=<div style="font-size:80%;position:relative;right:2px;top:1px">'''Caracas'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{Location map~ |Venezuela |lat=7.786541 |long=-72.197743 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">[[Deportivo Táchira F.C.|Deportivo&nbsp;Táchira]]</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{Location map~ |Venezuela |lat=8.556439 |long=-71.216681 |label=<div style="font-size:80%;position:relative;left:2px;top:0px">[[Estudiantes de Mérida F.C.|Est. Mérida]]</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{Location map~ |Venezuela |lat=9.559722 |long=-69.201944 |label=<div style="font-size:80%;position:relative;right:1px;top:2px">[[Portuguesa F.C.|Portuguesa]]</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{Location map~ |Venezuela |lat=9.750000 |long=-63.183000 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">[[Monagas S.C.|Monagas]]</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{Location map~ |Venezuela |lat=10.674056 |long=-71.644999 |label=<div style="font-size:80%;position:relative;right:4px;bottom:5px">{{nowrap|[[Deportivo Rayo Zuliano|Rayo Zuliano]]}}</div> |position=right |mark=Arrows 12x12 sw.svg}}
+}}
+{{Location map+ |Venezuela Barinas |float=right |width=300 |caption=Locations of the 2024 Primera División teams – [[Barinas (state)|Barinas state]] |places=
+{{Location map~ |Venezuela Barinas |lat=8.62443 |long=-70.207401 |label=<div style="font-size:80%;position:relative;left:1px;top:1px">{{nowrap|[[Inter de Barinas]]}}</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{Location map~ |Venezuela Barinas |lat=8.62443 |long=-70.207401 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">[[Zamora F.C.|Zamora]]</div> |position=right |mark=Arrows 12x12 w.svg}}
+}}
+{{Location map+ |Venezuela Vargas |float=right |width=300 |caption=Locations of the 2024 Primera División teams – Caracas |places=
+{{Location map~ |Venezuela Vargas |lat=10.491278 |long=-66.885492 |label=<div style="font-size:80%;position:relative;left:1px;top:1px">[[Caracas F.C.|Caracas]]<br/>{{nowrap|[[Deportivo La Guaira F.C.|Deportivo La Guaira]]}}</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{Location map~ |Venezuela Vargas |lat=10.491278 |long=-66.885492 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">[[Metropolitanos F.C.|Metropolitanos]]<br/>{{nowrap|[[Universidad Central de Venezuela F.C.|Universidad Central]]}}</div> |position=right |mark=Arrows 12x12 w.svg}}
+}}
+{|
+<td valign="top">
+{|class="wikitable"
+!colspan=3|Relegated to 2024 Segunda División
+|- bgcolor=#FFBBBB
+|width=28 align=center|15
+|[[A.C.C.D. Mineros de Guayana|Mineros de Guayana]]
+|}
+<td valign="top">
+{|class="wikitable"
+!colspan=2|Promoted to 2024 Primera División
+|-
+|align=center|''None'' ([[Ureña S.C.|Ureña]] withdrew)
+|}
+|}
+
+===Stadia and locations===
+{| class="wikitable sortable"
+! Team
+! City
+! Stadium
+! Capacity
+|-
+| [[Academia Puerto Cabello]] || [[Puerto Cabello]] || [[Complejo Deportivo Socialista|La Bombonerita]] ||align=center|7,500
+|-
+| [[Angostura F.C.|Angostura]] || [[Ciudad Bolívar]] || [[Estadio Ricardo Tulio Maya|Ricardo Tulio Maya]] ||align=center|2,500
+|-
+| [[Carabobo F.C.|Carabobo]] || [[Valencia, Carabobo|Valencia]] || [[Estadio Misael Delgado|Misael Delgado]] ||align=center|10,400
+|-
+|rowspan=2| [[Caracas F.C.|Caracas]] ||rowspan=2| [[Caracas]] || [[Olympic Stadium (Caracas)|Olímpico de la UCV]] ||align=center|23,940
+|-
+| [[Brígido Iriarte Stadium|Brígido Iriarte]]<ref>{{cite web|url=https://www.lavinotinto.com/caracas-fc-se-mudara-al-brigido-iriarte-a-partir-del-clausura/|title=Caracas FC se mudará al Brígido Iriarte a partir del Clausura|trans-title=Caracas FC will move to the Brígido Iriarte starting from the Clausura|publisher=La Vinotinto|language=es|date=10 July 2024|access-date=17 July 2024}}</ref> ||align=center|10,000
+|-
+| [[Deportivo La Guaira F.C.|Deportivo La Guaira]] || [[Caracas]] || [[Olympic Stadium (Caracas)|Olímpico de la UCV]] ||align=center|23,940
+|-
+| [[Deportivo Táchira F.C.|Deportivo Táchira]] || [[San Cristóbal, Táchira|San Cristóbal]] || [[Estadio Polideportivo de Pueblo Nuevo|Polideportivo de Pueblo Nuevo]] ||align=center|38,755
+|-
+| [[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] || [[Mérida, Mérida|Mérida]] || [[Estadio Metropolitano de Mérida|Metropolitano de Mérida]] ||align=center|42,200
+|-
+| [[Inter de Barinas]] || [[Barinas, Barinas|Barinas]] || [[Estadio Agustín Tovar|Agustín Tovar]] ||align=center|29,800
+|-
+| [[Metropolitanos F.C.|Metropolitanos]] || [[Caracas]] || [[Olympic Stadium (Caracas)|Olímpico de la UCV]] ||align=center|23,940
+|-
+| [[Monagas S.C.|Monagas]] || [[Maturín]] || [[Estadio Monumental de Maturín|Monumental de Maturín]] ||align=center|51,796
+|-
+| [[Portuguesa F.C.|Portuguesa]] || [[Acarigua]] || [[Estadio General José Antonio Paez|General José Antonio Páez]] ||align=center|18,000
+|-
+| [[Deportivo Rayo Zuliano|Rayo Zuliano]] || [[Maracaibo]] || [[Estadio José Pachencho Romero|José Pachencho Romero]] ||align=center|40,800
+|-
+| [[Universidad Central de Venezuela F.C.|Universidad Central]] || [[Caracas]] || [[Olympic Stadium (Caracas)|Olímpico de la UCV]] ||align=center|23,940
+|-
+| [[Zamora F.C.|Zamora]] || [[Barinas, Barinas|Barinas]] || [[Estadio Agustín Tovar|Agustín Tovar]] ||align=center|29,800
+|}
+
+===Personnel and kits===
+{| class="wikitable sortable" style="text-align: left;"
+|-
+! Team
+! Manager
+! Kit manufacturer
+! Main shirt sponsors
+|-
+| Academia Puerto Cabello
+| {{flagicon|ESP}} [[Iván Fernández Álvarez|Iván Fernández]]
+| [[Givova]]
+| CLX Samsung
+|-
+| Angostura
+| {{flagicon|URU}} [[Saúl Maldonado]]
+| RS
+| Genpar
+|-
+| Carabobo
+| {{flagicon|ESP}} [[Diego Merino (footballer)|Diego Merino]]
+| New Arrival
+| Fospuca, El Maizal, Juega En Línea
+|-
+| Caracas
+| {{flagicon|VEN|football}} [[Fernando Aristeguieta]]
+| RS
+| [[Empresas Polar|Maltín Polar]], SellaTuParley
+|-
+| Deportivo La Guaira
+| {{flagicon|VEN|football}} [[Juan Domingo Tolisano]]
+| RS
+| Traki
+|-
+| Deportivo Táchira
+| {{flagicon|VEN|football}} [[Edgar Pérez Greco]]
+| Boman
+| Juega En Línea, [[RUTACA Airlines|Rutaca Airlines]], Grupo JHS
+|-
+| Estudiantes de Mérida
+| {{flagicon|VEN|football}} [[Daniel Farías]]
+| Econtex
+| Cordialito.la, Frigilux, Daka, Ivon
+|-
+| Inter de Barinas
+| {{flagicon|VEN|football}} [[Kike García (Venezuelan footballer)|Enrique García]]
+| Attle
+| Corporation CSA
+|-
+| Metropolitanos
+| {{flagicon|VEN|football}} [[José María Morr]]
+| RS
+| [[Aerolíneas Estelar]]
+|-
+| Monagas
+| {{flagicon|VEN|football}} [[Carlojavier Fuhrman]] (caretaker)
+| RS
+| Banplus
+|-
+| Portuguesa
+| {{flagicon|VEN|football}} [[Giancarlo Maldonado]]
+| Attle
+| Bet77, Alimentos Fina Ideal
+|-
+| Rayo Zuliano
+| {{flagicon|VEN|football}} [[José Javier Villafráz Quintero|Javier Villafráz]]
+| Attle
+| San Simón, Javitour
+|-
+| Universidad Central
+| {{flagicon|VEN|football}} [[Daniel Sasso]]
+| New Arrival
+| CFMoto Venezuela, SoyTechno
+|-
+| Zamora
+| {{flagicon|VEN|football}} [[Alí Cañas]]
+| RS
+| Thundernet
+|}
+
+====Managerial changes====
+{| class="wikitable sortable"
+|-
+!Team
+!Outgoing manager
+!Manner of departure
+!Date of vacancy
+!Position in table
+!Incoming manager
+!Date of appointment
+|-
+!colspan=7|Torneo Apertura
+|-
+|Carabobo
+|{{flagicon|VEN|football}} [[Juan Domingo Tolisano]]
+|rowspan=2|End of contract
+|13 October 2023<ref>{{cite web|url=https://www.balonazos.com/el-carabobo-fc-le-dijo-adios-a-juan-domingo-tolisano-al-quedar-fuera-del-g4-y-libertadores/|title=El Carabobo FC le dijo adiós a Juan Domingo Tolisano al quedar fuera del G4 y Libertadores|trans-title=Carabobo FC bid farewell to Juan Domingo Tolisano after being out of the ''G4'' and the Libertadores|publisher=Balonazos|language=es|date=13 October 2023|accessdate=24 November 2023}}</ref>
+|rowspan=2|''Pre-season''
+|{{flagicon|ESP}} [[Diego Merino (footballer)|Diego Merino]]
+|22 November 2023<ref>{{cite web|url=https://www.balonazos.com/el-carabobo-futbol-club-presento-al-director-tecnico-espanol-diego-merino-para-el-2024/|title=El Carabobo Fútbol Club presentó al director técnico español Diego Merino para el 2024|trans-title=Carabobo Fútbol Club presented the Spanish manager Diego Merino for 2024|publisher=Balonazos|language=es|date=22 November 2023|accessdate=24 November 2023}}</ref>
+|-
+|Monagas
+|{{flagicon|VEN|football}} [[Tony Franco]]
+|19 October 2023<ref>{{cite web|url=https://www.balonazos.com/el-entrenador-tony-franco-no-seguira-con-el-monagas-sc-anuncio-el-equipo-oriental/|title=El entrenador Tony Franco no seguirá con el Monagas SC anunció el equipo oriental|trans-title=Manager Tony Franco will not continue with Monagas SC, the oriental team announced|publisher=Balonazos|language=es|date=19 October 2023|accessdate=24 November 2023}}</ref>
+|{{flagicon|VEN|football}} [[Daniel Blanco (Venezuelan footballer)|Daniel Blanco]]
+|20 October 2023<ref>{{cite web|url=https://www.balonazos.com/monagas-sc-no-perdio-tiempo-y-anuncio-al-entrenador-daniel-blanco-como-su-nuevo-dt/|title=Monagas SC no perdió tiempo y anunció al entrenador Daniel Blanco como su nuevo DT|trans-title=Monagas SC did not waste time and announced coach Daniel Blanco as their new manager|publisher=Balonazos|language=es|date=20 October 2023|accessdate=24 November 2023}}</ref>
+|-
+|Estudiantes de Mérida
+|{{flagicon|VEN|football}} [[Franklin Lucena]]
+|Sacked
+|13 February 2024<ref>{{cite web|url=https://www.lavinotinto.com/franklin-lucena-dejo-de-ser-el-tecnico-de-estudiantes-de-merida/|title=Franklin Lucena dejó de ser el técnico de Estudiantes de Mérida|trans-title=Franklin Lucena ceased to be the manager of Estudiantes de Mérida|publisher=La Vinotinto|language=es|date=13 February 2024|access-date=17 February 2024}}</ref>
+|14th
+|{{flagicon|VEN|football}} [[Daniel Farías]]
+|15 February 2024<ref>{{cite web|url=https://www.lavinotinto.com/daniel-farias-es-el-nuevo-tecnico-de-estudiantes-de-merida/|title=Daniel Farías es el nuevo técnico de Estudiantes de Mérida|trans-title=Daniel Farías is the new manager of Estudiantes de Mérida|publisher=La Vinotinto|language=es|date=15 February 2024|access-date=17 February 2024}}</ref>
+|-
+|Deportivo La Guaira
+|{{flagicon|VEN|football}} [[Kike García (Venezuelan footballer)|Enrique García]]
+|Mutual agreement
+|21 March 2024<ref>{{cite web|url=https://www.lavinotinto.com/deportivo-la-guaira-anuncio-la-salida-de-enrique-garcia/|title=Deportivo La Guaira anunció la salida de Enrique García|trans-title=Deportivo La Guaira announced the departure of Enrique García|publisher=La Vinotinto|language=es|date=21 March 2024|access-date=24 March 2024}}</ref>
+|10th
+|{{flagicon|VEN|football}} [[Juan Domingo Tolisano]]
+|23 March 2024<ref>{{cite web|url=https://www.lavinotinto.com/juan-domingo-tolisano-dirigira-al-deportivo-la-guaira/|title=Juan Domingo Tolisano dirigirá al Deportivo La Guaira|trans-title=Juan Domingo Tolisano will manage Deportivo La Guaira|publisher=La Vinotinto|language=es|date=23 March 2024|access-date=24 March 2024}}</ref>
+|-
+|Monagas
+|{{flagicon|VEN|football}} [[Daniel Blanco (Venezuelan footballer)|Daniel Blanco]]
+|Sacked
+|26 March 2024<ref>{{cite web|url=https://www.lavinotinto.com/daniel-blanco-dejo-de-ser-el-tecnico-del-monagas/|title=Daniel Blanco dejó de ser el técnico del Monagas|trans-title=Daniel Blanco ceased to be the manager of Monagas|publisher=La Vinotinto|language=es|date=26 March 2024|access-date=1 April 2024}}</ref>
+|9th
+|{{flagicon|VEN|football}} [[Grenddy Perozo]]{{efn-lr|Originally as a caretaker manager, appointed on a permanent basis at the end of the Torneo Apertura.<ref>{{cite web|url=https://www.balonazos.com/monagas-sc-anuncio-dos-jugadores-de-bajas-y-su-goleador-se-va-a-jugar-en-espana/|title=Monagas SC anunció dos jugadores de bajas y su goleador se va a jugar en España|trans-title=Monagas SC announced two players as exits and their top scorer leaves to play in Spain|publisher=Balonazos|language=es|date=22 May 2024|access-date=23 May 2024}}</ref>}}
+|26 March 2024<ref>{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/grenddy-perozo-toma-las-riendas-de-monagas-sc/|title=Grenddy Perozo toma las riendas de Monagas SC|trans-title=Grenddy Perozo takes the reins of Monagas SC|publisher=Líder en Deportes|language=es|date=27 March 2024|access-date=1 April 2024}}</ref>
+|-
+|Caracas
+|{{flagicon|VEN|football}} [[Leonardo González (Venezuelan footballer)|Leonardo González]]
+|rowspan=2|Mutual agreement
+|31 March 2024<ref>{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/leo-gonzalez-es-destituido-del-caracas-fc/|title=Leo González es destituido del Caracas FC|trans-title=Leo González is dismissed from Caracas FC|publisher=Líder en Deportes|language=es|date=31 March 2024|access-date=1 April 2024}}</ref>
+|11th
+|{{flagicon|VEN|football}} [[Henry Meléndez]]
+|31 March 2024<ref>{{cite web|url=https://www.lavinotinto.com/henry-melendez-reemplazo-a-leonardo-gonzalez-en-el-banquillo-del-caracas/|title=Henry Meléndez reemplazó a Leonardo González en el banquillo del Caracas|trans-title=Henry Meléndez replaced Leonardo González on Caracas's bench|publisher=La Vinotinto|language=es|date=31 March 2024|access-date=1 April 2024}}</ref>
+|-
+|Zamora
+|{{flagicon|VEN|football}} [[Enrique Maggiolo]]
+|1 April 2024<ref>{{cite web|url=https://www.lavinotinto.com/zamora-anuncio-la-salida-de-enrique-maggiolo/|title=Zamora anunció la salida de Enrique Maggiolo|trans-title=Zamora announced the departure of Enrique Maggiolo|publisher=La Vinotinto|language=es|date=1 April 2024|access-date=1 April 2024}}</ref>
+|13th
+|{{flagicon|VEN|football}} [[Alí Cañas]]
+|1 April 2024<ref>{{cite web|url=https://www.balonazos.com/se-fue-enrique-maggiolo-del-zamora-fc-y-regresa-jose-ali-canas-como-nuevo-director-tecnico/|title=Se fue Enrique Maggiolo del Zamora y regresa José Ali Cañas como nuevo Director Técnico|trans-title=Enrique Maggiolo has left Zamora and José Ali Cañas returns as new manager|publisher=Balonazos|language=es|date=1 April 2024|accessdate=2 April 2024}}</ref>
+|-
+!colspan=7|Torneo Clausura
+|-
+|Caracas
+|{{flagicon|VEN|football}} [[Henry Meléndez]]
+|Demoted to the youth setup
+|6 July 2024<ref name=CCS>{{cite web|url=https://www.balonazos.com/caracas-fc-anuncio-la-salida-del-entrenador-henry-melendez-y-la-llegada-de-fernando-aristeguieta/|title=Caracas FC anunció la salida del entrenador Henry Meléndez y la llegada de Fernando Aristeguieta|trans-title=Caracas FC announced the exit of coach Henry Meléndez and the arrival of Fernando Aristeguieta|publisher=Balonazos|language=es|date=6 July 2024|access-date=7 July 2024}}</ref>
+|rowspan=2|''Pre-tournament''
+|{{flagicon|VEN|football}} [[Fernando Aristeguieta]]
+|6 July 2024<ref name=CCS/>
+|-
+|rowspan=2|Portuguesa
+|{{flagicon|VEN|football}} [[Jesús Ortiz (football manager)|Jesús Ortiz]]
+|Mutual agreement
+|11 July 2024<ref>{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/jesus-ortiz-no-continuara-en-el-portuguesa/|title=Jesús Ortíz no continuará en el Portuguesa|trans-title=Jesús Ortíz will not continue at Portuguesa|publisher=Líder en Deportes|language=es|date=11 July 2024|access-date=17 July 2024}}</ref>
+|{{flagicon|VEN|football}} [[Roberts Rivas]]{{efn-lr|name=CM|Caretaker manager.}}
+|11 July 2024<ref name="Portuguesa"/>
+|-
+|{{flagicon|VEN|football}} [[Roberts Rivas]]
+|End of caretaker spell
+|18 July 2024
+|11th
+|{{flagicon|VEN|football}} [[Giancarlo Maldonado]]
+|18 July 2024<ref name="Portuguesa">{{cite web|url=https://www.lavinotinto.com/giancarlo-maldonado-dirigira-al-portuguesa-fc/|title=Giancarlo Maldonado dirigirá al Portuguesa FC|trans-title=Giancarlo Maldonado will manage Portuguesa FC|publisher=La Vinotinto|language=es|date=18 July 2024|access-date=18 July 2024}}</ref>
+|-
+|rowspan=2|Academia Puerto Cabello
+|{{flagicon|VEN|football}} [[Noel Sanvicente]]
+|Mutual agreement
+|22 July 2024<ref name="PtoCabello">{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/noel-sanvicente-no-sigue-en-puerto-cabello/|title=Noel Sanvicente no sigue en Puerto Cabello|trans-title=Noel Sanvicente does not continue at Puerto Cabello|publisher=Líder en Deportes|language=es|date=22 July 2024|access-date=22 July 2024}}</ref>
+|10th
+|{{flagicon|VEN|football}} [[Bladimir Morales]]{{efn-lr|name=CM}}
+|22 July 2024<ref name="PtoCabello"/>
+|-
+|{{flagicon|VEN|football}} [[Bladimir Morales]]
+|End of caretaker spell
+|23 July 2024
+|9th
+|{{flagicon|ESP}} [[Iván Fernández Álvarez|Iván Fernández]]
+|23 July 2024<ref>{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/puerto-cabello-se-arma-con-un-dt-espanol/|title=Puerto Cabello se arma con un DT español|trans-title=Puerto Cabello assemble themselves with a Spanish manager|publisher=Líder en Deportes|language=es|date=23 July 2024|access-date=23 July 2024}}</ref>
+|-
+|Inter de Barinas
+|{{flagicon|VEN|football}} [[Leonel Vielma]]
+|rowspan="2"|Sacked
+|23 August 2024<ref>{{cite web|url=https://www.balonazos.com/el-tecnico-leonel-vielma-no-sigue-como-director-tecnico-del-equipo-inter-de-barinas/|title=El técnico Leonel Vielma no sigue como Director Técnico del equipo Inter de Barinas|trans-title=Manager Leonel Vielma does not continue as manager of the team Inter de Barinas|publisher=Balonazos|language=es|date=23 August 2024|accessdate=13 September 2024}}</ref>
+|14th
+|{{flagicon|VEN|football}} [[Alfarabi Romero]]{{efn-lr|name=CM}}
+|26 August 2024<ref name=Bal_2608>{{cite web|url=https://www.balonazos.com/la-jornada-6-de-liga-futve-arranca-este-lunes-con-encuentros-en-ciudad-bolivar-y-barinas/|title=La Jornada 6 de Liga FutVe arranca este lunes con encuentros en Ciudad Bolívar y Barinas|trans-title=The Liga FutVe's round 6 starts this Monday with matches in Ciudad Bolívar and Barinas|publisher=Balonazos|language=es|date=26 August 2024|accessdate=13 September 2024}}</ref>
+|-
+|Rayo Zuliano
+|{{flagicon|VEN|football}} [[Elvis Martínez (footballer)|Elvis Martínez]]
+|23 August 2024<ref>{{cite web|url=https://www.balonazos.com/el-tecnico-elvis-martinez-no-sigue-como-director-tecnico-del-deportivo-rayo-zuliano/|title=El técnico Elvis Martínez no sigue como director técnico del Deportivo Rayo Zuliano|trans-title=Manager Elvis Martínez does not continue as manager of Deportivo Rayo Zuliano|publisher=Balonazos|language=es|date=23 August 2024|accessdate=13 September 2024}}</ref>
+|4th
+|{{flagicon|VEN|football}} [[Javier Villafráz]]
+|26 August 2024<ref name=Bal_2608/>
+|-
+|Inter de Barinas
+|{{flagicon|VEN|football}} [[Alfarabi Romero]]
+|End of caretaker spell
+|3 September 2024
+|14th
+|{{flagicon|VEN|football}} [[Kike García (Venezuelan footballer)|Enrique García]]
+|3 September 2024<ref>{{cite web|url=https://www.balonazos.com/el-tecnico-enrique-kike-garcia-presentado-como-el-nuevo-dt-del-inter-de-barinas/|title=El técnico Enrique "Kike" García presentado como el nuevo DT del Inter de Barinas|trans-title=The manager Enrique "Kike" García presented as new manager of Inter de Barinas|publisher=Balonazos|language=es|date=3 September 2024|accessdate=13 September 2024}}</ref>
+|-
+|Angostura
+|{{flagicon|VEN|football}} [[Osmar Castillo]]
+|Mutual agreement
+|6 September 2024<ref>{{cite web|url=https://primicia.com.ve/deportes/osmar-castillo-no-continua-como-dt-de-angostura/|title=Osmar Castillo no continúa como DT de Angostura|trans-title=Osmar Castillo does not continue as manager of Angostura|publisher=Primicia|language=es|date=6 September 2024|accessdate=13 September 2024}}</ref>
+|13th
+|{{flagicon|VEN|football}} [[Adrián Sánchez (football manager)|Adrián Sánchez]]{{efn-lr|name=CM}}
+|6 September 2024{{efn-lr|[[Ariel Guevara]] was appointed manager on 6 September,<ref>{{cite web|url=https://www.lavinotinto.com/ariel-guevara-reemplazo-a-osmar-castillo-en-el-banquillo-de-angostura/|title=Ariel Guevara reemplazó a Osmar Castillo en el banquillo de Angostura|trans-title=Ariel Guevara replaced Omar Castillo on the bench of Angostura|publisher=La Vinotinto|language=es|date=6 September 2024|accessdate=13 September 2024}}</ref> but registration issues prevented him from managing the club, and Angostura ultimately announced he would not manage the club on 26 September.<ref>{{cite web|url=https://www.lavinotinto.com/ariel-guevara-no-dirigira-al-angostura-fc/|title=Ariel Guevara no se unirá al Angostura FC|trans-title=Ariel Guevara will not join Angostura FC|publisher=La Vinotinto|language=es|date=26 September 2024|accessdate=27 September 2024}}</ref>}}
+|-
+|Monagas
+|{{flagicon|VEN|football}} [[Grenddy Perozo]]
+|Resigned
+|22 September 2024<ref>{{cite web|url=https://www.liderendeportes.com/noticias/futbol/futve/grenddy-perozo-se-despide-del-monagas-sc/|title=Grenddy Perozo se despide del Monagas SC|trans-title=Grenddy Perozo bids farewell to Monagas SC|publisher=Líder en Deportes|language=es|date=22 September 2024|access-date=24 September 2024}}</ref>
+|7th
+|{{flagicon|VEN|football}} [[Carlojavier Fuhrman]]{{efn-lr|name=CM}}
+|26 September 2024
+|-
+|Angostura
+|{{flagicon|VEN|football}} [[Adrián Sánchez (football manager)|Adrián Sánchez]]
+|End of caretaker spell
+|26 September 2024
+|13th
+|{{flagicon|URU}} [[Saúl Maldonado]]
+|26 September 2024<ref>{{cite web|url=https://www.lavinotinto.com/saul-maldonado-dirigira-al-angostura/|title=Saúl Maldonado dirigirá al Angostura|trans-title=Saúl Maldonado will manage Angostura|publisher=La Vinotinto|language=es|date=26 September 2024|accessdate=27 September 2024}}</ref>
+|-
+|Deportivo Táchira
+|{{flagicon|VEN|football}} [[Eduardo Saragó]]
+|Resigned
+|30 October 2024<ref>{{cite web|url=https://www.elnacional.com/deportes/eduardo-sarago-renuncio-como-entrenador-del-deportivo-tachira/|title=Eduardo Saragó renunció como entrenador del Deportivo Táchira|trans-title=Eduardo Saragó resigned as manager of Deportivo Táchira|publisher=[[El Nacional (Venezuela)|El Nacional]]|language=es|date=30 October 2024|access-date=30 October 2024}}</ref>
+|1st, Group A
+|{{flagicon|VEN|football}} [[Edgar Pérez Greco]]
+|31 October 2024<ref>{{cite web|url=https://meridiano.net/futbol/futbol-venezolano/liga-futve-deportivo-tachira-hace-oficial-la-llegada-de-su-nuevo-entrenador--2024103112450|title=Liga FUTVE: Deportivo Táchira hace oficial la llegada de su nuevo entrenador|trans-title=Liga FUTVE: Deportivo Táchira make official the arrival of their new manager|publisher=[[Diario Meridiano|Meridiano]]|language=es|date=31 October 2024|access-date=31 October 2024}}</ref>
+|}
+;Notes
+{{notelist-lr}}
+
+==Torneo Apertura==
+The Torneo Apertura was the first tournament of the 2024 season. It began on 2 February and ended on 2 June 2024.
+
+===First stage===
+====Standings====
+{{#invoke:Sports table|main|style=WDL
+|source=[https://ligafutve.org/clasificacion-liga-futve/ Liga FUTVE], [https://int.soccerway.com/national/venezuela/primera-division/2024/regular-season/r79809/tables/ Soccerway]
+
+<!--Update team positions here-->
+|team_order=UCV, ANG, INT, POR, CBO, MET, APC, DLG, TAC, MON, CAR, ESM, RAY, ZAM
+
+<!--Update team qualifications here (defined below)-->
+|result1=SF |result2=SF |result3=SF |result4=SF |result5=SF |result6=SF |result7=SF |result8=SF
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter)-->
+|update=complete
+|win_APC=5 |draw_APC=5 |loss_APC=3 |gf_APC=15|ga_APC=11
+|win_ANG=7 |draw_ANG=3 |loss_ANG=3 |gf_ANG=16|ga_ANG=13
+|win_CBO=5 |draw_CBO=6 |loss_CBO=2 |gf_CBO=13|ga_CBO=9
+|win_CAR=2 |draw_CAR=6 |loss_CAR=5 |gf_CAR=10|ga_CAR=13
+|win_DLG=5 |draw_DLG=5 |loss_DLG=3 |gf_DLG=14|ga_DLG=14
+|win_TAC=5 |draw_TAC=4 |loss_TAC=4 |gf_TAC=13|ga_TAC=10
+|win_ESM=2 |draw_ESM=2 |loss_ESM=9 |gf_ESM=14|ga_ESM=24
+|win_INT=7 |draw_INT=1 |loss_INT=5 |gf_INT=14|ga_INT=12
+|win_MET=6 |draw_MET=3 |loss_MET=4 |gf_MET=19|ga_MET=18
+|win_MON=5 |draw_MON=4 |loss_MON=4 |gf_MON=19|ga_MON=18
+|win_POR=6 |draw_POR=3 |loss_POR=4 |gf_POR=17|ga_POR=12
+|win_RAY=1 |draw_RAY=4 |loss_RAY=8 |gf_RAY=16|ga_RAY=23
+|win_UCV=6 |draw_UCV=7 |loss_UCV=0 |gf_UCV=17|ga_UCV=8
+|win_ZAM=0 |draw_ZAM=5 |loss_ZAM=8 |gf_ZAM=10|ga_ZAM=22
+
+<!--Team definitions (wikilinks in table)-->
+|name_APC=[[Academia Puerto Cabello]]
+|name_ANG=[[Angostura F.C.|Angostura]]
+|name_CBO=[[Carabobo F.C.|Carabobo]]
+|name_CAR=[[Caracas F.C.|Caracas]]
+|name_DLG=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|name_TAC=[[Deportivo Táchira F.C.|Deportivo Táchira]]
+|name_ESM=[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|name_INT=[[Inter de Barinas]]
+|name_MET=[[Metropolitanos F.C.|Metropolitanos]]
+|name_MON=[[Monagas S.C.|Monagas]]
+|name_POR=[[Portuguesa F.C.|Portuguesa]]
+|name_RAY=[[Deportivo Rayo Zuliano|Rayo Zuliano]]
+|name_UCV=[[Universidad Central de Venezuela F.C.|Universidad Central]]
+|name_ZAM=[[Zamora F.C.|Zamora]]
+
+<!--Table settings and rules-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Head-to-head results; 5) Drawing of lots.
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|col_SF=yellow1 |text_SF={{nowrap|Advance to the [[#Semi-finals|semi-finals]]}}
+}}
+
+====Results====
+{{#invoke:Sports results|main
+|source=[https://ligafutve.org/resultados/ Liga FUTVE], [https://int.soccerway.com/national/venezuela/primera-division/2024/regular-season/r79809/matches/ Soccerway]
+|update=complete
+|matches_style=FBR
+
+|team1=APC |team2=ANG |team3=CBO |team4=CAR |team5=DLG |team6=TAC |team7=ESM |team8=INT |team9=MET |team10=MON |team11=POR |team12=RAY |team13=UCV |team14=ZAM
+
+|name_APC={{nowrap|[[Academia Puerto Cabello]]}}
+|name_ANG=[[Angostura F.C.|Angostura]]
+|name_CBO=[[Carabobo F.C.|Carabobo]]
+|name_CAR=[[Caracas F.C.|Caracas]]
+|name_DLG=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|name_TAC=[[Deportivo Táchira F.C.|Deportivo Táchira]]
+|name_ESM=[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|name_INT=[[Inter de Barinas]]
+|name_MET=[[Metropolitanos F.C.|Metropolitanos]]
+|name_MON=[[Monagas S.C.|Monagas]]
+|name_POR=[[Portuguesa F.C.|Portuguesa]]
+|name_RAY=[[Deportivo Rayo Zuliano|Rayo Zuliano]]
+|name_UCV=[[Universidad Central de Venezuela F.C.|Universidad Central]]
+|name_ZAM=[[Zamora F.C.|Zamora]]
+
+|match_APC_ANG= —
+|match_APC_CBO=2–2
+|match_APC_CAR=2–0
+|match_APC_DLG= —
+|match_APC_TAC= —
+|match_APC_ESM=2–1
+|match_APC_INT= —
+|match_APC_MET=2–3
+|match_APC_MON=2–2
+|match_APC_POR= —
+|match_APC_RAY=3–1
+|match_APC_UCV= —
+|match_APC_ZAM= —
+
+|match_ANG_APC=1–0
+|match_ANG_CBO= —
+|match_ANG_CAR= —
+|match_ANG_DLG=1–1
+|match_ANG_TAC=2–0
+|match_ANG_ESM= —
+|match_ANG_INT=2–1
+|match_ANG_MET= —
+|match_ANG_MON= —
+|match_ANG_POR=0–0
+|match_ANG_RAY= —
+|match_ANG_UCV=0–0
+|match_ANG_ZAM= —
+
+|match_CBO_APC= —
+|match_CBO_ANG=2–1
+|match_CBO_CAR=1–0
+|match_CBO_DLG= —
+|match_CBO_TAC= —
+|match_CBO_ESM=1–0
+|match_CBO_INT=1–0
+|match_CBO_MET= —
+|match_CBO_MON= —
+|match_CBO_POR= —
+|match_CBO_RAY=2–2
+|match_CBO_UCV=0–1
+|match_CBO_ZAM=3–1
+
+|match_CAR_APC= —
+|match_CAR_ANG=0–1
+|match_CAR_CBO= —
+|match_CAR_DLG=2–0
+|match_CAR_TAC=0–0
+|match_CAR_ESM= —
+|match_CAR_INT=1–2
+|match_CAR_MET= —
+|match_CAR_MON= —
+|match_CAR_POR=0–1
+|match_CAR_RAY= —
+|match_CAR_UCV=2–2
+|match_CAR_ZAM= —
+
+|match_DLG_APC=0–0
+|match_DLG_ANG= —
+|match_DLG_CBO=0–0
+|match_DLG_CAR= —
+|match_DLG_TAC=1–0
+|match_DLG_ESM= —
+|match_DLG_INT= —
+|match_DLG_MET=1–2
+|match_DLG_MON=2–1
+|match_DLG_POR=0–2
+|match_DLG_RAY= —
+|match_DLG_UCV= —
+|match_DLG_ZAM=2–1
+
+|match_TAC_APC=0–1
+|match_TAC_ANG= —
+|match_TAC_CBO=1–0
+|match_TAC_CAR= —
+|match_TAC_DLG= —
+|match_TAC_ESM=5–1
+|match_TAC_INT= —
+|match_TAC_MET=2–0
+|match_TAC_MON=1–0
+|match_TAC_POR= —
+|match_TAC_RAY=2–1
+|match_TAC_UCV= —
+|match_TAC_ZAM= —
+
+|match_ESM_APC= —
+|match_ESM_ANG=0–1
+|match_ESM_CBO= —
+|match_ESM_CAR=1–1
+|match_ESM_DLG=1–2
+|match_ESM_TAC= —
+|match_ESM_INT=0–2
+|match_ESM_MET= —
+|match_ESM_MON= —
+|match_ESM_POR= —
+|match_ESM_RAY=2–1
+|match_ESM_UCV=0–1
+|match_ESM_ZAM=3–1
+
+|match_INT_APC=1–0
+|match_INT_ANG= —
+|match_INT_CBO= —
+|match_INT_CAR= —
+|match_INT_DLG=1–2
+|match_INT_TAC=1–1
+|match_INT_ESM= —
+|match_INT_MET= —
+|match_INT_MON=1–0
+|match_INT_POR=1–3
+|match_INT_RAY= —
+|match_INT_UCV=0–1
+|match_INT_ZAM=1–0
+
+|match_MET_APC= —
+|match_MET_ANG=2–0
+|match_MET_CBO=1–1
+|match_MET_CAR=0–0
+|match_MET_DLG= —
+|match_MET_TAC= —
+|match_MET_ESM=1–1
+|match_MET_INT=1–2
+|match_MET_MON= —
+|match_MET_POR= —
+|match_MET_RAY=1–0
+|match_MET_UCV= —
+|match_MET_ZAM=3–1
+
+|match_MON_APC= —
+|match_MON_ANG=4–2
+|match_MON_CBO=0–0
+|match_MON_CAR=1–1
+|match_MON_DLG= —
+|match_MON_TAC= —
+|match_MON_ESM=3–2
+|match_MON_INT= —
+|match_MON_MET=2–4
+|match_MON_POR= —
+|match_MON_RAY=2–1
+|match_MON_UCV= —
+|match_MON_ZAM=1–0
+
+|match_POR_APC=0–1
+|match_POR_ANG= —
+|match_POR_CBO=0–0
+|match_POR_CAR= —
+|match_POR_DLG= —
+|match_POR_TAC=1–1
+|match_POR_ESM=3–2
+|match_POR_INT= —
+|match_POR_MET=3–1
+|match_POR_MON=1–2
+|match_POR_RAY= —
+|match_POR_UCV= —
+|match_POR_ZAM= —
+
+|match_RAY_APC= —
+|match_RAY_ANG=2–3
+|match_RAY_CBO= —
+|match_RAY_CAR=0–1
+|match_RAY_DLG=2–2
+|match_RAY_TAC= —
+|match_RAY_ESM= —
+|match_RAY_INT=0–1
+|match_RAY_MET= —
+|match_RAY_MON= —
+|match_RAY_POR=3–1
+|match_RAY_UCV=2–2
+|match_RAY_ZAM= —
+
+|match_UCV_APC=0–0
+|match_UCV_ANG= —
+|match_UCV_CBO= —
+|match_UCV_CAR= —
+|match_UCV_DLG=1–1
+|match_UCV_TAC=2–0
+|match_UCV_ESM= —
+|match_UCV_INT= —
+|match_UCV_MET=3–0
+|match_UCV_MON=1–1
+|match_UCV_POR=1–0
+|match_UCV_RAY= —
+|match_UCV_ZAM=2–2
+
+|match_ZAM_APC=0–0
+|match_ZAM_ANG=1–2
+|match_ZAM_CBO= —
+|match_ZAM_CAR=2–2
+|match_ZAM_DLG= —
+|match_ZAM_TAC=0–0
+|match_ZAM_ESM= —
+|match_ZAM_INT= —
+|match_ZAM_MET= —
+|match_ZAM_MON= —
+|match_ZAM_POR=0–2
+|match_ZAM_RAY=1–1
+|match_ZAM_UCV= —
+}}
+
+===Semi-finals===
+The eight teams that advanced to the semi-finals were drawn into two groups of four teams. The two group winners advanced to the final.
+
+====Group A====
+{{#invoke:Sports table|main|style=WDL
+|section=Group A
+|source=[https://int.soccerway.com/national/venezuela/primera-division/2024/copa-libertadores-play-off/r79808/ Soccerway]
+|show_matches=true |matches_style=FBR
+
+<!--Update team positions here-->
+|team_order=MET, DLG, UCV, INT
+
+<!--Update team qualifications here (defined below)-->
+|result1=F
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter)-->
+|update=complete
+|win_UCV=2 |draw_UCV=2 |loss_UCV=2 |gf_UCV=9 |ga_UCV=8
+|win_INT=0 |draw_INT=2 |loss_INT=4 |gf_INT=5 |ga_INT=13
+|win_MET=4 |draw_MET=2 |loss_MET=0 |gf_MET=13|ga_MET=6
+|win_DLG=3 |draw_DLG=0 |loss_DLG=3 |gf_DLG=8 |ga_DLG=8
+
+<!--Team definitions (wikilinks in table)-->
+|name_UCV=[[Universidad Central de Venezuela F.C.|Universidad Central]] |short_UCV=[[Universidad Central de Venezuela F.C.|UCV]]
+|name_INT=[[Inter de Barinas]]                             |short_INT=[[Inter de Barinas|INT]]
+|name_MET=[[Metropolitanos F.C.|Metropolitanos]]           |short_MET=[[Metropolitanos F.C.|MET]]
+|name_DLG=[[Deportivo La Guaira F.C.|Deportivo La Guaira]] |short_DLG=[[Deportivo La Guaira F.C.|DLG]]
+
+<!--Table settings and rules-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Head-to-head results; 5) Drawing of lots.
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|col_F=yellow1 |text_F={{nowrap|Advance to the [[#Final|Final]]}}
+
+|match_UCV_INT=4–0
+|match_UCV_MET=0–0
+|match_UCV_DLG=0–2
+
+|match_INT_UCV=1–1
+|match_INT_MET=2–2
+|match_INT_DLG=1–2
+
+|match_MET_UCV=5–2
+|match_MET_INT=2–0
+|match_MET_DLG=2–1
+
+|match_DLG_UCV=0–2
+|match_DLG_INT=2–1
+|match_DLG_MET=1–2
+}}
+
+====Group B====
+{{#invoke:Sports table|main|style=WDL
+|section=Group B
+|source=[https://int.soccerway.com/national/venezuela/primera-division/2024/copa-libertadores-play-off/r79808/ Soccerway]
+|show_matches=true |matches_style=FBR
+
+<!--Update team positions here-->
+|team_order=CBO, POR, APC, ANG
+
+<!--Update team qualifications here (defined below)-->
+|result1=F
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter)-->
+|update=complete
+|win_ANG=1 |draw_ANG=3 |loss_ANG=2 |gf_ANG=9 |ga_ANG=12
+|win_POR=2 |draw_POR=2 |loss_POR=2 |gf_POR=10|ga_POR=10
+|win_CBO=3 |draw_CBO=2 |loss_CBO=1 |gf_CBO=10|ga_CBO=5
+|win_APC=1 |draw_APC=3 |loss_APC=2 |gf_APC=5 |ga_APC=7
+
+<!--Team definitions (wikilinks in table)-->
+|name_ANG=[[Angostura F.C.|Angostura]]   |short_ANG=[[Angostura F.C.|ANG]]
+|name_POR=[[Portuguesa F.C.|Portuguesa]] |short_POR=[[Portuguesa F.C.|POR]]
+|name_CBO=[[Carabobo F.C.|Carabobo]]     |short_CBO=[[Carabobo F.C.|CBO]]
+|name_APC=[[Academia Puerto Cabello]]    |short_APC=[[Academia Puerto Cabello|APC]]
+
+<!--Table settings and rules-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Head-to-head results; 5) Drawing of lots.
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|col_F=yellow1 |text_F={{nowrap|Advance to the [[#Final|Final]]}}
+
+|match_ANG_POR=3–4
+|match_ANG_CBO=1–1
+|match_ANG_APC=2–1
+
+|match_POR_ANG=2–2
+|match_POR_CBO=2–1
+|match_POR_APC=1–1
+
+|match_CBO_ANG=3–0
+|match_CBO_POR=2–1
+|match_CBO_APC=1–1
+
+|match_APC_ANG=1–1
+|match_APC_POR=1–0
+|match_APC_CBO=0–2
+}}
+
+===Final===
+{{football box
+|date = {{Start date|2024|6|2|df=y}}
+|time = {{UTZ|17:00|-4}}
+|team1 = [[Carabobo F.C.|Carabobo]]
+|team2 = [[Metropolitanos F.C.|Metropolitanos]]
+|score = 3–0
+|report = https://int.soccerway.com/matches/2024/06/02/venezuela/primera-division/carabobo-fc/metropolitanos-fc/4359474/
+|goals1 =
+*[[Leonardo Aponte|Aponte]] {{goal|75}}
+*[[Juan Carlos Ortiz (footballer, born 1993)|Ortiz]] {{goal|82}}
+*[[Franner López|López]] {{goal|90+7}}
+|goals2 =
+|stadium = [[Estadio Misael Delgado]]
+|location = [[Valencia, Carabobo|Valencia]]
+|attendance = 
+|referee = Yender Herrera
+}}
+
+==Torneo Clausura==
+The Torneo Clausura was the second and last tournament of the 2024 season. It began on 16 July and ended on 24 November 2024.<ref>{{cite web |url=https://www.balonazos.com/el-torneo-clausura-2024-de-la-liga-futve-tiene-programado-su-inicio-el-martes-16-de-julio/ |title=El Torneo Clausura 2024 de la Liga FutVe tiene programado su inicio el martes 16 de julio |trans-title=The Liga FutVe's 2024 Torneo Clausura has its start scheduled for Tuesday 16 July |publisher=Balonazos |language=es |date=11 June 2024 |access-date=11 June 2024}}</ref>
+
+===First stage===
+====Standings====
+{{#invoke:Sports table|main|style=WDL
+|source=[https://ligafutve.org/clasificacion-liga-futve/ Liga FUTVE], [https://int.soccerway.com/national/venezuela/primera-division/2024/clausura/r80062/tables/ Soccerway]
+
+<!--Update team positions here-->
+|team_order=TAC, MON, RAY, ESM, CBO, CAR, DLG, ZAM, UCV, MET, APC, POR, ANG, INT
+
+<!--Update team qualifications here (defined below)-->
+|result1=SF |result2=SF |result3=SF |result4=SF |result5=SF |result6=SF |result7=SF |result8=SF
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter)-->
+|update=complete
+|win_APC=2 |draw_APC=6 |loss_APC=5 |gf_APC=13|ga_APC=15
+|win_ANG=1 |draw_ANG=3 |loss_ANG=9 |gf_ANG=9 |ga_ANG=20
+|win_CBO=5 |draw_CBO=5 |loss_CBO=3 |gf_CBO=17|ga_CBO=13
+|win_CAR=5 |draw_CAR=5 |loss_CAR=3 |gf_CAR=15|ga_CAR=12
+|win_DLG=5 |draw_DLG=5 |loss_DLG=3 |gf_DLG=13|ga_DLG=11
+|win_TAC=7 |draw_TAC=6 |loss_TAC=0 |gf_TAC=17|ga_TAC=5
+|win_ESM=6 |draw_ESM=4 |loss_ESM=3 |gf_ESM=20|ga_ESM=14
+|win_INT=0 |draw_INT=2 |loss_INT=11|gf_INT=8 |ga_INT=26
+|win_MET=4 |draw_MET=6 |loss_MET=3 |gf_MET=16|ga_MET=16
+|win_MON=7 |draw_MON=4 |loss_MON=2 |gf_MON=22|ga_MON=14
+|win_POR=3 |draw_POR=2 |loss_POR=8 |gf_POR=12|ga_POR=21
+|win_RAY=7 |draw_RAY=2 |loss_RAY=4 |gf_RAY=18|ga_RAY=15
+|win_UCV=5 |draw_UCV=4 |loss_UCV=4 |gf_UCV=18|ga_UCV=17
+|win_ZAM=6 |draw_ZAM=2 |loss_ZAM=5 |gf_ZAM=15|ga_ZAM=14
+
+<!--Team definitions (wikilinks in table)-->
+|name_APC=[[Academia Puerto Cabello]]
+|name_ANG=[[Angostura F.C.|Angostura]]
+|name_CBO=[[Carabobo F.C.|Carabobo]]
+|name_CAR=[[Caracas F.C.|Caracas]]
+|name_DLG=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|name_TAC=[[Deportivo Táchira F.C.|Deportivo Táchira]]
+|name_ESM=[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|name_INT=[[Inter de Barinas]]
+|name_MET=[[Metropolitanos F.C.|Metropolitanos]]
+|name_MON=[[Monagas S.C.|Monagas]]
+|name_POR=[[Portuguesa F.C.|Portuguesa]]
+|name_RAY=[[Deportivo Rayo Zuliano|Rayo Zuliano]]
+|name_UCV=[[Universidad Central de Venezuela F.C.|Universidad Central]]
+|name_ZAM=[[Zamora F.C.|Zamora]]
+
+<!--Table settings and rules-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Head-to-head results; 5) Drawing of lots.
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|col_SF=yellow1 |text_SF={{nowrap|Advance to the [[#Semi-finals_2|semi-finals]]}}
+}}
+
+====Results====
+{{#invoke:Sports results|main
+|source=[https://ligafutve.org/resultados/ Liga FUTVE], [https://int.soccerway.com/national/venezuela/primera-division/2024/clausura/r80062/matches/ Soccerway]
+|update=complete
+|matches_style=FBR
+
+|team1=APC |team2=ANG |team3=CBO |team4=CAR |team5=DLG |team6=TAC |team7=ESM |team8=INT |team9=MET |team10=MON |team11=POR |team12=RAY |team13=UCV |team14=ZAM
+
+|name_APC={{nowrap|[[Academia Puerto Cabello]]}}
+|name_ANG=[[Angostura F.C.|Angostura]]
+|name_CBO=[[Carabobo F.C.|Carabobo]]
+|name_CAR=[[Caracas F.C.|Caracas]]
+|name_DLG=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|name_TAC=[[Deportivo Táchira F.C.|Deportivo Táchira]]
+|name_ESM=[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|name_INT=[[Inter de Barinas]]
+|name_MET=[[Metropolitanos F.C.|Metropolitanos]]
+|name_MON=[[Monagas S.C.|Monagas]]
+|name_POR=[[Portuguesa F.C.|Portuguesa]]
+|name_RAY=[[Deportivo Rayo Zuliano|Rayo Zuliano]]
+|name_UCV=[[Universidad Central de Venezuela F.C.|Universidad Central]]
+|name_ZAM=[[Zamora F.C.|Zamora]]
+
+|match_APC_ANG=1–1
+|match_APC_CBO= —
+|match_APC_CAR= —
+|match_APC_DLG=0–1
+|match_APC_TAC=0–0
+|match_APC_ESM= —
+|match_APC_INT=2–0
+|match_APC_MET= —
+|match_APC_MON= —
+|match_APC_POR=0–0
+|match_APC_RAY= —
+|match_APC_UCV=3–3
+|match_APC_ZAM=1–0
+
+|match_ANG_APC= —
+|match_ANG_CBO=1–2
+|match_ANG_CAR=0–0
+|match_ANG_DLG= —
+|match_ANG_TAC= —
+|match_ANG_ESM=1–1
+|match_ANG_INT= —
+|match_ANG_MET=0–2
+|match_ANG_MON=0–2
+|match_ANG_POR= —
+|match_ANG_RAY=0–1
+|match_ANG_UCV= —
+|match_ANG_ZAM=1–2
+
+|match_CBO_APC=2–1
+|match_CBO_ANG= —
+|match_CBO_CAR= —
+|match_CBO_DLG=3–1
+|match_CBO_TAC=1–1
+|match_CBO_ESM= —
+|match_CBO_INT= —
+|match_CBO_MET=2–2
+|match_CBO_MON=0–0
+|match_CBO_POR=1–0
+|match_CBO_RAY= —
+|match_CBO_UCV= —
+|match_CBO_ZAM= —
+
+|match_CAR_APC=0–0
+|match_CAR_ANG= —
+|match_CAR_CBO=0–0
+|match_CAR_DLG= —
+|match_CAR_TAC= —
+|match_CAR_ESM=2–3
+|match_CAR_INT= —
+|match_CAR_MET=2–1
+|match_CAR_MON=1–2
+|match_CAR_POR= —
+|match_CAR_RAY=1–2
+|match_CAR_UCV= —
+|match_CAR_ZAM=2–1
+
+|match_DLG_APC= —
+|match_DLG_ANG=3–2
+|match_DLG_CBO= —
+|match_DLG_CAR=0–0
+|match_DLG_TAC= —
+|match_DLG_ESM=1–1
+|match_DLG_INT=1–0
+|match_DLG_MET= —
+|match_DLG_MON= —
+|match_DLG_POR= —
+|match_DLG_RAY=3–2
+|match_DLG_UCV=2–0
+|match_DLG_ZAM= —
+
+|match_TAC_APC= —
+|match_TAC_ANG=2–0
+|match_TAC_CBO= —
+|match_TAC_CAR=1–1
+|match_TAC_DLG=1–0
+|match_TAC_ESM= —
+|match_TAC_INT=4–1
+|match_TAC_MET= —
+|match_TAC_MON= —
+|match_TAC_POR=2–0
+|match_TAC_RAY= —
+|match_TAC_UCV=2–0
+|match_TAC_ZAM=1–0
+
+|match_ESM_APC=2–1
+|match_ESM_ANG= —
+|match_ESM_CBO=0–0
+|match_ESM_CAR= —
+|match_ESM_DLG= —
+|match_ESM_TAC=1–1
+|match_ESM_INT= —
+|match_ESM_MET=4–0
+|match_ESM_MON=2–1
+|match_ESM_POR=2–0
+|match_ESM_RAY= —
+|match_ESM_UCV= —
+|match_ESM_ZAM= —
+
+|match_INT_APC= —
+|match_INT_ANG=1–2
+|match_INT_CBO=0–4
+|match_INT_CAR=1–2
+|match_INT_DLG= —
+|match_INT_TAC= —
+|match_INT_ESM=1–2
+|match_INT_MET=1–3
+|match_INT_MON= —
+|match_INT_POR= —
+|match_INT_RAY=0–1
+|match_INT_UCV= —
+|match_INT_ZAM= —
+
+|match_MET_APC=1–1
+|match_MET_ANG= —
+|match_MET_CBO= —
+|match_MET_CAR= —
+|match_MET_DLG=0–0
+|match_MET_TAC=1–1
+|match_MET_ESM= —
+|match_MET_INT= —
+|match_MET_MON=1–2
+|match_MET_POR=2–1
+|match_MET_RAY= —
+|match_MET_UCV=0–0
+|match_MET_ZAM= —
+
+|match_MON_APC=2–1
+|match_MON_ANG= —
+|match_MON_CBO= —
+|match_MON_CAR= —
+|match_MON_DLG=0–0
+|match_MON_TAC=0–0
+|match_MON_ESM= —
+|match_MON_INT=2–2
+|match_MON_MET= —
+|match_MON_POR=4–1
+|match_MON_RAY= —
+|match_MON_UCV=1–3
+|match_MON_ZAM= —
+
+|match_POR_APC= —
+|match_POR_ANG=2–1
+|match_POR_CBO= —
+|match_POR_CAR=0–1
+|match_POR_DLG=2–1
+|match_POR_TAC= —
+|match_POR_ESM= —
+|match_POR_INT=2–1
+|match_POR_MET= —
+|match_POR_MON= —
+|match_POR_RAY=1–2
+|match_POR_UCV=1–1
+|match_POR_ZAM=2–3
+
+|match_RAY_APC=3–2
+|match_RAY_ANG= —
+|match_RAY_CBO=2–1
+|match_RAY_CAR= —
+|match_RAY_DLG= —
+|match_RAY_TAC=0–1
+|match_RAY_ESM=2–1
+|match_RAY_INT= —
+|match_RAY_MET=2–2
+|match_RAY_MON=1–2
+|match_RAY_POR= —
+|match_RAY_UCV= —
+|match_RAY_ZAM=0–0
+
+|match_UCV_APC= —
+|match_UCV_ANG=1–0
+|match_UCV_CBO=3–1
+|match_UCV_CAR=1–3
+|match_UCV_DLG= —
+|match_UCV_TAC= —
+|match_UCV_ESM=3–1
+|match_UCV_INT=0–0
+|match_UCV_MET= —
+|match_UCV_MON= —
+|match_UCV_POR= —
+|match_UCV_RAY=1–0
+|match_UCV_ZAM= —
+
+|match_ZAM_APC= —
+|match_ZAM_ANG= —
+|match_ZAM_CBO=2–0
+|match_ZAM_CAR= —
+|match_ZAM_DLG=0–0
+|match_ZAM_TAC= —
+|match_ZAM_ESM=1–0
+|match_ZAM_INT=1–0
+|match_ZAM_MET=0–1
+|match_ZAM_MON=2–4
+|match_ZAM_POR= —
+|match_ZAM_RAY= —
+|match_ZAM_UCV=3–2
+}}
+
+===Semi-finals===
+The eight teams that advanced to the semi-finals were drawn into two groups of four teams. The two group winners advanced to the final.
+
+====Group A====
+{{#invoke:Sports table|main|style=WDL
+|section=Group A
+|source=[https://int.soccerway.com/national/venezuela/primera-division/2024/clausura---quadrangular/r80063/ Soccerway]
+|show_matches=true |matches_style=FBR
+
+<!--Update team positions here-->
+|team_order=TAC, RAY, CAR, ZAM
+
+<!--Update team qualifications here (defined below)-->
+|result1=F
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter)-->
+|update=complete
+|win_TAC=5 |draw_TAC=1 |loss_TAC=0 |gf_TAC=14|ga_TAC=3
+|win_RAY=2 |draw_RAY=1 |loss_RAY=3 |gf_RAY=9 |ga_RAY=11
+|win_CAR=2 |draw_CAR=0 |loss_CAR=4 |gf_CAR=7 |ga_CAR=10
+|win_ZAM=1 |draw_ZAM=2 |loss_ZAM=3 |gf_ZAM=7 |ga_ZAM=13
+
+<!--Team definitions (wikilinks in table)-->
+|name_TAC=[[Deportivo Táchira F.C.|Deportivo Táchira]] |short_TAC=[[Deportivo Táchira F.C.|TAC]]
+|name_RAY=[[Deportivo Rayo Zuliano|Rayo Zuliano]]      |short_RAY=[[Deportivo Rayo Zuliano|RAY]]
+|name_CAR=[[Caracas F.C.|Caracas]]                     |short_CAR=[[Caracas F.C.|CAR]]
+|name_ZAM=[[Zamora F.C.|Zamora]]                       |short_ZAM=[[Zamora F.C.|ZAM]]
+
+<!--Table settings and rules-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Head-to-head results; 5) Drawing of lots.
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|col_F=yellow1 |text_F={{nowrap|Advance to the [[#Final_2|Final]]}}
+
+|match_TAC_RAY=3–1
+|match_TAC_CAR=2–0
+|match_TAC_ZAM=1–1
+
+|match_RAY_TAC=1–2
+|match_RAY_CAR=0–3
+|match_RAY_ZAM=3–0
+
+|match_CAR_TAC=0–4
+|match_CAR_RAY=0–1
+|match_CAR_ZAM=3–1
+
+|match_ZAM_TAC=0–2
+|match_ZAM_RAY=3–3
+|match_ZAM_CAR=2–1
+}}
+
+====Group B====
+{{#invoke:Sports table|main|style=WDL
+|section=Group B
+|source=[https://int.soccerway.com/national/venezuela/primera-division/2024/clausura---quadrangular/r80063/ Soccerway]
+|show_matches=true |matches_style=FBR
+
+<!--Update team positions here-->
+|team_order=CBO, DLG, ESM, MON
+
+<!--Update team qualifications here (defined below)-->
+|result1=F
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter)-->
+|update=complete
+|win_MON=0 |draw_MON=1 |loss_MON=5 |gf_MON=4 |ga_MON=12
+|win_ESM=2 |draw_ESM=0 |loss_ESM=4 |gf_ESM=6 |ga_ESM=11
+|win_CBO=4 |draw_CBO=2 |loss_CBO=0 |gf_CBO=9 |ga_CBO=2
+|win_DLG=4 |draw_DLG=1 |loss_DLG=1 |gf_DLG=10|ga_DLG=4
+
+<!--Team definitions (wikilinks in table)-->
+|name_MON=[[Monagas S.C.|Monagas]]                             |short_MON=[[Monagas S.C.|MON]]
+|name_ESM=[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]] |short_ESM=[[Estudiantes de Mérida F.C.|ESM]]
+|name_CBO=[[Carabobo F.C.|Carabobo]]                           |short_CBO=[[Carabobo F.C.|CBO]]
+|name_DLG=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]     |short_DLG=[[Deportivo La Guaira F.C.|DLG]]
+
+<!--Table settings and rules-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Head-to-head results; 5) Drawing of lots.
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|col_F=yellow1 |text_F={{nowrap|Advance to the [[#Final_2|Final]]}}
+
+|match_MON_ESM=2–3
+|match_MON_CBO=1–1
+|match_MON_DLG=0–2
+
+|match_ESM_MON=2–0
+|match_ESM_CBO=0–3
+|match_ESM_DLG=0–1
+
+|match_CBO_MON=1–0
+|match_CBO_ESM=2–0
+|match_CBO_DLG=1–1
+
+|match_DLG_MON=3–1
+|match_DLG_ESM=3–1
+|match_DLG_CBO=0–1
+}}
+
+===Final===
+{{football box
+|date = {{Start date|2024|11|24|df=y}}
+|time = {{UTZ|19:00|-4}}
+|team1 = [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|team2 = [[Carabobo F.C.|Carabobo]]
+|score = 4–1
+|report = https://int.soccerway.com/matches/2024/11/25/venezuela/primera-division/deportivo-tachira-fc/carabobo-fc/4556130/
+|goals1 =
+*[[Bryan Castillo|Castillo]] {{goal|45}}
+*[[Maurice Cova|Cova]] {{goal|66}}
+*[[Anthony Uribe|Uribe]] {{goal|90+4}}
+*[[Leandro Fioravanti|Fioravanti]] {{goal|90+8}}
+|goals2 =
+*[[Gustavo González (footballer, born 1996)|González]] {{goal|29}}
+|stadium = [[Estadio Polideportivo de Pueblo Nuevo]]
+|location = [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 
+|referee = [[Jesús Valenzuela]]
+}}
+
+==''Final Absoluta''==
+The winners of the Apertura ([[Carabobo F.C.|Carabobo]]) and Clausura ([[Deportivo Táchira F.C.|Deportivo Táchira]]) tournaments played a two-legged series to decide the season champions (''Campeón Absoluto''). The second leg was hosted by the Apertura winners, Carabobo.
+
+{{football box
+|date = {{Start date|2024|12|1|df=y}}
+|time = {{UTZ|19:00|-4}}
+|team1 = [[Deportivo Táchira F.C.|Deportivo Táchira]]
+|team2 = [[Carabobo F.C.|Carabobo]]
+|score = 1–1
+|report = https://int.soccerway.com/matches/2024/12/02/venezuela/primera-division/deportivo-tachira-fc/carabobo-fc/4557446/
+|goals1 =
+*[[Gleiker Mendoza|Mendoza]] {{goal|58}}
+|goals2 =
+*[[Gustavo González (footballer, born 1996)|González]] {{goal|41}}
+|stadium = [[Estadio Polideportivo de Pueblo Nuevo]]
+|location = [[San Cristóbal, Táchira|San Cristóbal]]
+|attendance = 
+|referee = José Uzcátegui
+}}
+----
+{{football box
+|date = {{Start date|2024|12|8|df=y}}
+|time = {{UTZ|17:00|-4}}
+|team1 = Carabobo
+|team2 = Deportivo Táchira
+|score = 0–0
+|report = https://int.soccerway.com/matches/2024/12/08/venezuela/primera-division/carabobo-fc/deportivo-tachira-fc/4557447/
+|goals1 =
+|goals2 =
+|penaltyscore = 2–4
+|penalties1=
+*[[Richard Blanco (footballer)|Blanco]] {{penmiss}}
+*[[Gustavo González (footballer, born 1996)|González]] {{pengoal}}
+*[[Erickson Gallardo|Gallardo]] {{pengoal}}
+*[[Marcel Guaramato|Guaramato]] {{penmiss}}
+|penalties2=
+*{{pengoal}} [[Maurice Cova|Cova]]
+*{{penmiss}} [[Carlos Sosa (footballer, born 1995)|Sosa]]
+*{{pengoal}} [[Felipe Pardo|Pardo]]
+*{{pengoal}} [[Carlos Vivas|Vivas]]
+*{{pengoal}} [[Pablo Camacho|Camacho]]
+|stadium = [[Estadio Misael Delgado]]
+|location = [[Valencia, Carabobo|Valencia]]
+|attendance = 
+|referee = Yender Herrera
+}}
+''Tied 1–1 on aggregate. Deportivo Táchira won on penalties.''
+
+{{winners||Liga FUTVE<br>2024 champions|[[Deportivo Táchira F.C.|Deportivo Táchira]]|11th}}
+
+==Aggregate table==
+{{#invoke:Sports table|main|style=WDL
+|source=[https://ligafutve.org/clasificacion-liga-futve/ Liga FUTVE]
+
+<!--Update team positions here-->
+|team_order=TAC, UCV, MON, CBO, DLG, MET, APC, CAR, POR, ESM, RAY, ANG, ZAM, INT
+
+<!--Update team qualifications here (defined below)-->
+|result1=CLGS |result2=CL2S |result3=CL1S |result4=CLGS |result5=CS |result6=CS |result7=CS |result8=CS |result12=RL |result14=R
+
+<!--Update team results here and then (if needed) positions above. Don't forget to update the date (update parameter)-->
+|update=complete
+|win_APC=7 |draw_APC=11|loss_APC=8 |gf_APC=28|ga_APC=26
+|win_ANG=8 |draw_ANG=6 |loss_ANG=12|gf_ANG=25|ga_ANG=33|status_ANG=R
+|win_CBO=10|draw_CBO=11|loss_CBO=5 |gf_CBO=30|ga_CBO=22
+|win_CAR=7 |draw_CAR=11|loss_CAR=8 |gf_CAR=25|ga_CAR=25
+|win_DLG=10|draw_DLG=10|loss_DLG=6 |gf_DLG=27|ga_DLG=25
+|win_TAC=12|draw_TAC=10|loss_TAC=4 |gf_TAC=30|ga_TAC=15|status_TAC=C
+|win_ESM=8 |draw_ESM=6 |loss_ESM=12|gf_ESM=34|ga_ESM=38
+|win_INT=7 |draw_INT=3 |loss_INT=16|gf_INT=22|ga_INT=38|status_INT=R
+|win_MET=10|draw_MET=9 |loss_MET=7 |gf_MET=35|ga_MET=34
+|win_MON=12|draw_MON=8 |loss_MON=6 |gf_MON=41|ga_MON=32
+|win_POR=9 |draw_POR=5 |loss_POR=12|gf_POR=29|ga_POR=33
+|win_RAY=8 |draw_RAY=6 |loss_RAY=12|gf_RAY=34|ga_RAY=38
+|win_UCV=11|draw_UCV=11|loss_UCV=4 |gf_UCV=35|ga_UCV=25
+|win_ZAM=6 |draw_ZAM=7 |loss_ZAM=13|gf_ZAM=25|ga_ZAM=36
+
+<!--Team definitions (wikilinks in table)-->
+|name_APC=[[Academia Puerto Cabello]]
+|name_ANG=[[Angostura F.C.|Angostura]]
+|name_CBO=[[Carabobo F.C.|Carabobo]]
+|name_CAR=[[Caracas F.C.|Caracas]]
+|name_DLG=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+|name_TAC=[[Deportivo Táchira F.C.|Deportivo Táchira]]
+|name_ESM=[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]
+|name_INT=[[Inter de Barinas]]
+|name_MET=[[Metropolitanos F.C.|Metropolitanos]]
+|name_MON=[[Monagas S.C.|Monagas]]
+|name_POR=[[Portuguesa F.C.|Portuguesa]]
+|name_RAY=[[Deportivo Rayo Zuliano|Rayo Zuliano]]
+|name_UCV=[[Universidad Central de Venezuela F.C.|Universidad Central]]
+|name_ZAM=[[Zamora F.C.|Zamora]]
+
+<!--Table settings and rules-->
+|class_rules=1) Points; 2) Goal difference; 3) Goals scored; 4) Head-to-head results; 5) Drawing of lots.
+
+<!--Qualification column definitions-->
+|res_col_header=QR
+|col_CLGS=green1 |text_CLGS={{nowrap|Qualification for [[2025 Copa Libertadores#Group stage|Copa Libertadores group stage]]}}
+|col_CL2S=green2 |text_CL2S={{nowrap|Qualification for [[2025 Copa Libertadores#Second stage|Copa Libertadores second stage]]}}
+|col_CL1S=green3 |text_CL1S=Qualification for [[2025 Copa Libertadores#First stage|Copa Libertadores first stage]]
+|col_CS=blue1    |text_CS=Qualification for [[2025 Copa Sudamericana#First stage|Copa Sudamericana first stage]]
+|col_R=red1      |text_R=Relegation to [[Venezuelan Segunda División|Segunda División]]
+|col_RL=red1     |text_RL=Relegation to [[Venezuelan Segunda División|Segunda División]]
+|status_text_X=Assured of Copa Sudamericana, but may still qualify for Copa Libertadores
+|note_res_CS=Metropolitanos qualified for the Copa Sudamericana first stage as 2024 Apertura runners-up.
+|note_res_RL=Angostura were relegated to Segunda División for failing to comply with club licensing requirements.<ref>{{cite web|url=https://www.lavinotinto.com/angostura-fc-perdio-la-categoria-por-no-cumplir-con-la-licencia-de-clubes/|title=Angostura FC perdió la categoría por no cumplir con la Licencia de Clubes|trans-title=Angostura FC were relegated for not fulfilling the Clubs License|publisher=La Vinotinto|language=es|date=18 January 2025|access-date=10 July 2025}}</ref>
+}}
+
+==Top goalscorers==
+{| class="wikitable" style="text-align:center"
+! Rank
+! Player
+! Club
+! Goals
+|-
+|rowspan=2|1
+|align="left"|{{flagicon|COL}} [[Juan Camilo Zapata]]
+|align="left"|Inter de Barinas / Universidad Central
+|rowspan=2|16
+|-
+|align="left"|{{flagicon|PAN}} [[Tomás Rodríguez (footballer)|Tomás Rodríguez]]
+|align="left"|Monagas
+|-
+|3
+|align="left"|{{flagicon|VEN|football}} [[Edwuin Pernía]]
+|align="left"|Caracas
+|14
+|-
+|rowspan=2|4
+|align="left"|{{flagicon|VEN|football}} [[Edson Tortolero (footballer, born 1998)|Edson Tortolero]]
+|align="left"|Carabobo
+|rowspan=2|13
+|-
+|align="left"|{{flagicon|ARG}} [[Elías Alderete]]
+|align="left"|Estudiantes de Mérida
+|-
+|6
+|align="left"|{{flagicon|VEN|football}} [[Andrés Montero]]
+|align="left"|Portuguesa / Rayo Zuliano
+|12
+|-
+|rowspan=2|7
+|align="left"|{{flagicon|VEN|football}} [[Charlis Ortiz]]
+|align="left"|Metropolitanos / Universidad Central
+|rowspan=2|11
+|-
+|align="left"|{{flagicon|VEN|football}} [[Johan Moreno]]
+|align="left"|Portuguesa
+|-
+|rowspan=2|9
+|align="left"|{{flagicon|VEN|football}} [[José Balza]]
+|align="left"|Carabobo
+|rowspan=2|10
+|-
+|align="left"|{{flagicon|VEN|football}} [[Maurice Cova]]
+|align="left"|Deportivo Táchira
+|}
+<small>Source: [https://www.balonazos.com/goleadores-de-la-liga-futve-2024/ Balonazos]</small>
+
+==Season awards==
+On 11 December 2024, the Liga FUTVE held a ceremony in [[Caracas]] to announce the winners of the season awards.<ref name="Awards">{{Cite web |last=Kleberg |first=Iván |url=https://www.liderendeportes.com/noticias/futbol/futve/liga-futve-reconocio-a-los-mas-destacados-del-ano/ |title=Liga FUTVE reconoció a los más destacados del año |trans-title=Liga FUTVE recognized the year's most outstanding ones |publisher=Líder en Deportes |language=es |date=11 December 2024 |access-date=23 December 2024}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+!Award
+!Winner
+!Club
+|-
+|'''Most Valuable Player'''
+|{{flagicon|VEN|football}} [[Carlos Vivas]]
+|Deportivo Táchira
+|-
+|'''Best Goalkeeper'''
+|{{flagicon|VEN|football}} [[Jesús Camargo]]
+|Deportivo Táchira
+|-
+|'''Best Youth Player'''
+|{{flagicon|VEN|football}} [[Keiber Lamadrid]]
+|Deportivo La Guaira
+|-
+|'''Assists Leader'''
+|{{flagicon|VEN|football}} [[Juan Carlos Castellanos]]
+|Angostura / Deportivo La Guaira
+|-
+|'''Manager of the Year'''
+|{{flagicon|ESP}} [[Diego Merino (footballer)|Diego Merino]]
+|Carabobo
+|-
+|'''Best Goal'''
+|{{flagicon|VEN|football}} [[Jesús Lobo]]
+|Estudiantes de Mérida
+|-
+|'''Fair Play Award'''
+|colspan=2|Rayo Zuliano
+|-
+|'''Top Goalscorer''' 
+|{{flagicon|COL}} [[Juan Camilo Zapata]]<br/>{{flagicon|PAN}} [[Tomás Rodríguez (footballer)|Tomás Rodríguez]]
+|Inter de Barinas / Universidad Central<br/>Monagas
+|}
+
+=== Team of the Season ===
+{| class="wikitable"
+|-
+! colspan="13" | Team of the Season<ref name="Awards"/>
+|-
+!Goalkeeper
+!Defenders
+!Midfielders
+!Forwards
+|-
+|{{flagicon|VEN|football}} [[Jesús Camargo]] (Deportivo Táchira)
+|{{flagicon|VEN|football}} [[Roberto Rosales]] (Deportivo Táchira)<br />{{flagicon|VEN|football}} [[Carlos Vivas]] (Deportivo Táchira)<br />{{flagicon|VEN|football}} [[Leonardo Aponte]] (Carabobo)<br />{{flagicon|VEN|football}} [[Miguel Pernía]] (Carabobo)
+|{{flagicon|VEN|football}} [[Maurice Cova]] (Deportivo Táchira)<br/>{{flagicon|VEN|football}} [[Gustavo González (footballer, born 1996)|Gustavo González]] (Carabobo)<br/>{{flagicon|VEN|football}} [[Keiber Lamadrid]] (Deportivo La Guaira)<br />{{flagicon|VEN|football}} [[Edson Tortolero (footballer, born 1998)|Edson Tortolero]] (Carabobo)
+|{{flagicon|COL}} [[Juan Camilo Zapata]] (Inter de Barinas / Universidad Central)<br/>{{flagicon|PAN}} [[Tomás Rodríguez (footballer)|Tomás Rodríguez]] (Monagas)
+|}
+
+==See also==
+*[[2024 Copa Venezuela]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.federacionvenezolanadefutbol.org}} of the [[Venezuelan Football Federation]] {{in lang|es}}
+* [https://ligafutve.org/ Liga FUTVE]
+
+{{Venezuelan Primera División}}
+{{2024 in South American football (CONMEBOL)}}
+
+[[Category:Venezuelan Primera División seasons]]
+[[Category:2024 in Venezuelan football|1]]
+[[Category:2024 in South American football leagues|Venezuela]]

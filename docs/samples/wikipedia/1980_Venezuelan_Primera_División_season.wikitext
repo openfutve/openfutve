@@ -1,0 +1,94 @@
+{{Short description|Football league}}
+{{Infobox football league season
+|competition=[[Venezuelan Primera División]]
+|season=[[1980 in Venezuelan football|1980]]
+|winners=[[Estudiantes de Mérida]] (1st title)
+|relegated=
+|continentalcup1=
+|continentalcup1 qualifiers=
+|continentalcup2=
+|continentalcup2 qualifiers=
+|matches=
+|total goals=
+|league topscorer=
+|biggest home win=
+|biggest away win=
+|highest scoring=
+|longest wins =
+|longest unbeaten =
+|longest losses =
+|highest attendance =
+|lowest attendance =
+|average attendance =
+|prevseason=[[1979 Venezuelan Primera División season|1979]]
+|nextseason=[[1981 Venezuelan Primera División season|1981]]
+}}
+
+The '''1980 season of the [[Venezuelan Primera División]]''', the top category of [[Venezuela]]n football, was played by eleven teams. The national champions were [[Estudiantes de Mérida]].
+
+==Results==
+
+===First stage===
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+|winpoints=2
+
+|team1=POR|name_POR=[[Portuguesa FC|Portuguesa]]
+|team2=CBO|name_CBO=[[Carabobo FC|Valencia]]
+|team3=ZAM|name_ZAM=Atlético Zamora 
+|team4=ULA|name_ULA=[[Universidad de Los Andes FC|Universidad de Los Andes]]
+|team5=EME|name_EME=[[Estudiantes de Mérida]]
+|team6=LAR|name_LAR=Deportivo Lara FC
+|team7=DTA|name_DTA=[[Deportivo Táchira]]
+|team8=DGA|name_DGA=[[Deportivo Galicia]]
+|team9=DIT|name_DIT=[[Deportivo Italia]]
+|team10=AFA|name_AFA=Atlético Falcón
+|team11=DPO|name_DPO=[[Deportivo Portugués]]
+|win_POR=10|draw_POR=9|loss_POR=1|gf_POR=22|ga_POR=9
+|win_CBO=9|draw_CBO=7|loss_CBO=4|gf_CBO=26|ga_CBO=12
+|win_ZAM=7|draw_ZAM=8|loss_ZAM=5|gf_ZAM=24|ga_ZAM=15
+|win_ULA=6|draw_ULA=10|loss_ULA=4|gf_ULA=20|ga_ULA=16
+|win_EME=7|draw_EME=8|loss_EME=5|gf_EME=19|ga_EME=18
+|win_LAR=6|draw_LAR=10|loss_LAR=4|gf_LAR=16|ga_LAR=16
+|win_DTA=6|draw_DTA=9|loss_DTA=5|gf_DTA=18|ga_DTA=15
+|win_DGA=3|draw_DGA=12|loss_DGA=5|gf_DGA=17|ga_DGA=18
+|win_DIT=4|draw_DIT=9|loss_DIT=7|gf_DIT=13|ga_DIT=18
+|win_AFA=4|draw_AFA=5|loss_AFA=11|gf_AFA=20|ga_AFA=39
+|win_DPO=1|draw_DPO=7|loss_DPO=12|gf_DPO=8|ga_DPO=27
+|col_A=#FFFFCC|text_A=
+|result1=A|result2=A|result3=A|result4=A|result5=A|result6=A
+|update=complete|source=
+}}
+
+===Final Stage===
+{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+|winpoints=2
+
+|team1=EME|name_EME=[[Estudiantes de Mérida]]
+|team2=POR|name_POR=[[Portuguesa FC|Portuguesa]]
+|team3=CBO|name_CBO=[[Carabobo FC|Valencia]]
+|team4=ULA|name_ULA=[[Universidad de Los Andes FC|Universidad de Los Andes]]
+|team5=LAR|name_LAR=Deportivo Lara FC
+|team6=ZAM|name_ZAM=Atlético Zamora 
+|win_EME=8|draw_EME=1|loss_EME=1|gf_EME=19|ga_EME=7
+|win_POR=3|draw_POR=5|loss_POR=2|gf_POR=9|ga_POR=10|adjust_points_POR=2
+|win_CBO=3|draw_CBO=4|loss_CBO=3|gf_CBO=9|ga_CBO=11|adjust_points_CBO=1
+|win_ULA=3|draw_ULA=3|loss_ULA=4|gf_ULA=12|ga_ULA=11
+|win_LAR=1|draw_LAR=6|loss_LAR=3|gf_LAR=7|ga_LAR=10
+|win_ZAM=0|draw_ZAM=5|loss_ZAM=5|gf_ZAM=8|ga_ZAM=15
+|col_C=#ACE1AF|text_C=
+|result1=C
+|update=complete|source=
+}}
+
+==External links==
+*[https://www.rsssf.org/tablesv/venez80.html Venezuela 1980 season] at [[RSSSF]]
+
+{{Primera División Venezolana}}
+{{Football in Venezuela}}
+
+{{DEFAULTSORT:1980 Venezuelan Primera Division season}}
+[[Category:1980 in South American football leagues|Ven]]
+[[Category:Venezuelan Primera División seasons]]
+[[Category:1980 in Venezuelan football|Prim]]
