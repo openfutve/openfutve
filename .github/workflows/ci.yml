@@ -104,10 +104,14 @@ jobs:
       # the same reason compose has a seed service between migrate and poller.
       - name: Load seeds
         run: psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -f packages/db/db/seeds/001_sources.sql
+      # Through turbo, not `pnpm --filter ... test` directly: the latter skips
+      # the task graph, so @openfutve/shared never gets built and the parser
+      # tests fail on an unresolvable import.
+      #
       # These exercise Fetcher -> raw-store against a real Postgres, replaying a
       # committed fixture from a local server. CI never fetches from a real
       # source: only deployed instances do that. See AGENTS.md.
-      - run: pnpm --filter @openfutve/pollers test
+      - run: pnpm exec turbo run test --filter=@openfutve/pollers
 
   compose:
     name: compose stack comes up
