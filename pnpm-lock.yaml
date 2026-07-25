@@ -17,6 +17,9 @@ importers:
 
   apps/pollers:
     dependencies:
+      '@openfutve/shared':
+        specifier: workspace:*
+        version: link:../../packages/shared
       pg:
         specifier: ^8.13.0
         version: 8.22.0

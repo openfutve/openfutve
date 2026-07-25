@@ -12,6 +12,7 @@
     "test": "node --test --experimental-strip-types src/**/*.test.ts"
   },
   "dependencies": {
+    "@openfutve/shared": "workspace:*",
     "pg": "^8.13.0",
     "pino": "^9.5.0",
     "robots-parser": "^3.0.1"
