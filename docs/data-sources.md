@@ -6,9 +6,9 @@ without its entry here. Owner: whoever audits the source; Edder owns overall con
 Sample payloads live in `docs/samples/<source>/` so parsers have fixtures and reviewers can
 see the real shape.
 
-> **Audit status: first pass complete, 2026-07-25.** Every claim below was verified by
-> actually hitting the source on that date, not read from marketing copy. Two items remain
-> open and are marked **OPEN**.
+> **Audit status: complete, 2026-07-25.** Every claim below was verified by actually
+> hitting the source on that date, not read from marketing copy. Remaining gaps are marked
+> **OPEN** — chiefly unread terms of service, which gate publication but not development.
 
 ## Executive summary
 
@@ -18,13 +18,14 @@ see the real shape.
 | **Wikipedia** | ✅ Usable, uneven | Standings 1932–2026 (80 seasons); match results only 2008–09 onward (16 seasons) |
 | **TheSportsDB** | ⚠️ Free key unusable; premium unverified | Nothing yet. Re-audit if premium is bought |
 | **FVF** (fvf.com.ve) | ⚠️ News only | Context, verification, club metadata. No structured results |
-| **API-Football** | **OPEN** — needs signup | Possibly current-season + livescores |
+| **APIfootball.com** | ✅ **Solves the current-season gap** | 2026 season, standings, deep history to 2005, livescores |
+| **API-FOOTBALL** (api-sports.io) | ❌ Not pursued | Superseded by APIfootball.com — see the naming warning |
 | **Sportmonks** | ❌ **Ruled out** | Nothing — FUTVE is not on the free tier |
 
-**The headline problem: we do not yet have a confirmed source for the *current* (2026)
-season.** The official API stopped publishing a year ago, TheSportsDB's free tier is
-capped, and Sportmonks is out. Wikipedia's 2026 article carries standings but not match
-results. Resolving this is blocking for Phase 1 and doubly so for Phase 3.
+**Update 2026-07-25 (second pass): the current-season gap is closed.** APIfootball.com
+covers the 2026 season with match-level data, standings, and history back to 2005. The
+remaining unknown is whether its livescores work for FUTVE specifically, which cannot be
+tested until a FUTVE match is actually in progress.
 
 ## Confidence scale
 
@@ -243,15 +244,20 @@ livescores work. That requires an account, so it needs Salvador, not an agent.
 
 ## Recommended architecture given the audit
 
-1. **Historical match data:** ligafutve.org SportsPress API for 2021–2025 (official,
-   structured, `high` confidence) — this replaces a large chunk of the planned scraping
-   work and is far better than what was assumed.
-2. **Deep history:** Wikipedia for standings back to 1932, and match results back to
-   2008–09.
-3. **Current season:** **unresolved.** Close API-Football first; if that fails, re-check
-   whether ligafutve.org resumes publishing, and only then consider TheSportsDB premium.
+1. **Current season (2026) and live data:** APIfootball.com, league 337. The only source
+   with the current season, and the only plausible livescore feed.
+2. **Historical match data 2021–2025:** ligafutve.org SportsPress API — official,
+   structured, `high` confidence, and it overlaps APIfootball.com, which gives us two
+   independent sources to cross-check against (exactly what ADR 0008's confidence model
+   wants).
+3. **Deep history:** APIfootball.com back to 2005 for matches; Wikipedia for standings back
+   to 1932 and match results back to 2008–09.
 4. **Verification:** FVF for administrative facts that change the table (deductions,
    awarded matches) — the things a results feed will never tell us.
+
+Note the overlap this creates: 2021–2025 is covered by ligafutve.org, APIfootball.com and
+Wikipedia simultaneously. That is a feature under the observations model (ADR 0008) and a
+duplicate-row disaster without it.
 
 ## Source disagreements
 

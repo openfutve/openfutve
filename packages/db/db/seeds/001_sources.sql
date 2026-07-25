@@ -23,6 +23,14 @@ VALUES
    'Official federation source. News only — no structured results. Used for administrative facts and verification.',
    'high', 'odbl-eligible', false),
 
+  -- Current season (2026) and the only plausible livescore feed. NOT the same
+  -- company as api-football.com. Terms of service still unread, hence
+  -- license = 'unknown': usable for development, not for publication.
+  ('apifootball', 'APIfootball.com',
+   'https://apiv3.apifootball.com',
+   'ToS unread. Do not publish facts sourced here until the redistribution terms are audited.',
+   'medium', 'unknown', false),
+
   -- Free tier proven unusable (15-event cap, wrong-league team payloads).
   -- Kept registered so the audit trail has somewhere to point.
   ('thesportsdb', 'TheSportsDB',
