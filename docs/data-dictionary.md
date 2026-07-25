@@ -105,7 +105,7 @@ Phase 2.
 | Column | Type | Definition |
 |--------|------|------------|
 | `id` | `uuid` PK | |
-| `season` | `text` | Season label as the league uses it, e.g. `2025`. **TODO (Edder):** decide the canonical form for apertura/clausura seasons. |
+| `season` | `text` | Canonical season label — **our** form, not the source's. See the rule below. |
 | `stage` | `text` | Nullable — e.g. regular phase, playoff round. |
 | `matchday` | `int` | Nullable. |
 | `kickoff_at` | `timestamptz` | Nullable — unknown for many historical matches, where only the date is published. |
@@ -117,6 +117,24 @@ Phase 2.
 | `source_ref` | `text` | The source's own id for this fixture. |
 | `match_key` | `text` | **Phase 2, unused in Phase 1.** Deterministic natural key grouping observations of the same real fixture across sources: `(season, home_team_id, away_team_id, match_date)` with a ±1 day window, since sources disagree on the calendar date of a late kickoff. |
 | + provenance columns | | |
+
+### Season label — decided 2026-07-25
+
+Sources disagree wildly (`Temporada 2021 Fase Grupos`, `Torneo Apertura Temporada 2024 Fase
+Regular`, `2010–11 Venezuelan Primera División season`), so we normalise to a form that
+sorts and joins:
+
+| Case | `season` | `stage` |
+|------|----------|---------|
+| Calendar year, no split | `2021` | `Fase Regular` |
+| Apertura | `2024-A` | `Fase Regular`, `Cuadrangular A`, … |
+| Clausura | `2024-C` | as above |
+| Cross-year season (pre-2016) | `1986-87` | as published |
+
+The rule: **`season` carries the year and the tournament, nothing else. Everything more
+granular goes in `stage`.** That keeps `season` short, lexically sortable, and safe to group
+by — the thing analysis needs — while `stage` absorbs the phase names that vary by year and
+source. Cross-year labels use an ASCII hyphen, never the en-dash Wikipedia uses.
 
 **Proposed definition — pending owner review:** `home_score`/`away_score` are the score at the end of regulation
 plus any extra time, **excluding penalty shootouts**. Shootout results, when we have them,
@@ -142,9 +160,22 @@ out of scope until canonical matches exist.
 | `detail` | `jsonb` | Source-specific extras. Not queried by the API; a staging ground for fields not yet promoted to columns. |
 | + provenance columns | | |
 
-**Note:** an own goal is attributed to the team that *benefits* via `team_id`? **TODO
-(Edder): decide and state it here — this is exactly the kind of ambiguity that silently
-corrupts aggregates.**
+### Own goal attribution — decided 2026-07-25
+
+**`team_id` is the team the goal COUNTS FOR — the beneficiary, not the scorer's team.**
+
+So for an own goal, `team_id` and `player_id`'s club are **deliberately different**: the
+player belongs to the conceding side, the goal belongs to the other.
+
+Why this way round: it makes the obvious query correct. `SUM(...) GROUP BY team_id` yields
+goals-for without anyone needing to remember to invert `own_goal` rows. The alternative —
+attributing to the scorer's team — is arguably more natural to read but silently produces
+wrong aggregates the first time someone forgets the special case, and that error is
+invisible in the output.
+
+Consequence to keep in mind: a query joining `match_event_observations.player_id` to a
+squad list and grouping by `team_id` will look inconsistent for own goals. That is correct
+behaviour, not a bug.
 
 ## `standings_snapshots`
 
@@ -182,8 +213,8 @@ Tracked here so they don't get decided implicitly in code.
 
 | Term | Question | Owner | Needed by |
 |------|----------|-------|-----------|
-| Season label | Canonical form for apertura/clausura splits. Audit evidence and a proposed shape (`2024-A` / `2024-C`, everything else in `stage`) are in issue #6 | Edder | Phase 1 |
-| Own goal attribution | Which team `team_id` points at | Edder | Phase 1 |
+| ~~Season label~~ | **Decided 2026-07-25** — see above | Salvador | ✅ |
+| ~~Own goal attribution~~ | **Decided 2026-07-25** — beneficiary, see above | Salvador | ✅ |
 | Club identity | Renames vs mergers vs relocations | Edder | Phase 2 |
 | Match identity | The `match_key` natural key and its ±1 day window (ADR 0008) | Salvador + Edder | Phase 2 |
 | License basis | How a canonical row's publication pool is derived when observations come from both `odbl-eligible` and `cc-by-sa` sources | Salvador | Phase 2 |

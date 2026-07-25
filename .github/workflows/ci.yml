@@ -1,5 +1,15 @@
 # CI skeleton (Phase 0). Yuyo owns hardening this in Phase 1:
 # per-app Docker image builds, and the replay-based integration test in Phase 2.
+#
+# Runners: GitHub-hosted, decided 2026-07-25 (issue #10).
+#   - Free and unmetered for public repositories, so the usual reason to
+#     self-host (minutes) does not apply to us.
+#   - A self-hosted runner on the homelab would execute code from forked pull
+#     requests on a machine that also hosts the deployment. That is the standard
+#     way self-hosted runners get abused, and guarding it properly costs more
+#     attention than the minutes are worth at our scale.
+#   - Revisit only if build times become the bottleneck; the Turborepo remote
+#     cache (ADR 0001) is the cheaper lever to pull first.
 
 name: CI
 
