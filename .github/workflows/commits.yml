@@ -1,0 +1,39 @@
+# Conventional Commits, enforced. A convention nothing checks is a convention
+# that drifts — same reasoning as the compose preflight and the source guards.
+name: Commit convention
+
+on:
+  pull_request:
+
+jobs:
+  conventional-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check commit messages
+        run: |
+          pattern='^(feat|fix|docs|refactor|test|build|ci|chore|perf|revert)(\([a-z0-9-]+\))?!?: .+'
+          failed=0
+          while read -r sha; do
+            subject=$(git log -1 --format=%s "$sha")
+            if ! printf '%s' "$subject" | grep -qE "$pattern"; then
+              echo "::error::not a Conventional Commit: $subject"
+              failed=1
+            fi
+          done < <(git rev-list origin/${{ github.base_ref }}..HEAD --no-merges)
+          if [ "$failed" -ne 0 ]; then
+            echo "Expected e.g. 'feat(pollers): add rate limiting' — see AGENTS.md"
+            exit 1
+          fi
+          echo "all commit subjects follow Conventional Commits"
+
+      - name: Check branch name
+        run: |
+          branch='${{ github.head_ref }}'
+          if ! printf '%s' "$branch" | grep -qE '^(feat|fix|docs|refactor|test|build|ci|chore|perf|revert)/[a-z0-9._-]+$'; then
+            echo "::error::branch '$branch' should look like feat/poller-framework — see AGENTS.md"
+            exit 1
+          fi
+          echo "branch name ok: $branch"

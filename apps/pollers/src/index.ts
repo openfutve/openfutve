@@ -1,69 +1,60 @@
-// Placeholder poller (Phase 0).
-//
-// It fetches nothing. Its job is to prove the compose stack wires up: the
-// container starts, reaches Postgres, and sees a migrated schema.
-//
-// Phase 1 replaces this with the real poller framework — scheduler, per-source
-// rate limiting, retries, structured logging — and the first TheSportsDB poller.
-// Per ADR 0005, that framework writes the unparsed payload to raw_payloads
-// before anything parses it.
+import { runPoller } from "./framework/runner.ts";
+import { logger } from "./framework/logger.ts";
+import { SourceGuardError } from "./framework/guards.ts";
+import { selfcheckPoller } from "./pollers/selfcheck.ts";
+import type { Poller } from "./framework/context.ts";
 
-import pg from "pg";
+/** Every poller the CLI can run. New sources register here. */
+const REGISTRY: Poller[] = [selfcheckPoller];
 
-type LogLevel = "debug" | "info" | "warn" | "error";
-
-/** Mirrors the `confidence_level` enum in packages/db. */
-type ConfidenceLevel = "high" | "medium" | "low" | "disputed";
-
-/** One row of the `sources` registry, as far as this placeholder cares. */
-interface SourceRow {
-  key: string;
-  name: string;
-  active: boolean;
-  default_confidence: ConfidenceLevel;
+function usage(): string {
+  const rows = REGISTRY.map((p) => `  ${p.key.padEnd(14)} ${p.describe}`).join("\n");
+  return [
+    "Usage: pollers <name> [options]",
+    "",
+    "Pollers:",
+    rows,
+    "",
+    "Options:",
+    "  --dry-run           Fetch and parse, write nothing",
+    "  --force             Run a source whose audit is incomplete (active = false)",
+    "  --allow-unaudited   Run a source whose licence is unknown; raw archive only",
+    "  --min-interval=MS   Minimum gap between requests (default 1000)",
+  ].join("\n");
 }
 
-function log(level: LogLevel, msg: string, extra: Record<string, unknown> = {}): void {
-  console.log(JSON.stringify({ level, msg, ts: new Date().toISOString(), ...extra }));
-}
+async function main(): Promise<void> {
+  const [name, ...flags] = process.argv.slice(2);
 
-function requireEnv(name: string): string {
-  const value = process.env[name];
-  if (value === undefined || value === "") {
-    log("error", `${name} is not set; refusing to start`);
+  if (!name || name === "--help" || name === "-h") {
+    console.log(usage());
+    process.exit(name ? 0 : 1);
+  }
+
+  const poller = REGISTRY.find((p) => p.key === name);
+  if (!poller) {
+    console.error(`unknown poller '${name}'\n\n${usage()}`);
     process.exit(1);
   }
-  return value;
-}
 
-// Non-negotiable: we identify the bot on every outbound request. A poller that
-// can't do that doesn't get to start. See README "Scraping ethics".
-const userAgent = requireEnv("POLLER_USER_AGENT");
-const databaseUrl = requireEnv("DATABASE_URL");
+  const intervalFlag = flags.find((f) => f.startsWith("--min-interval="));
 
-const client = new pg.Client({ connectionString: databaseUrl });
-
-try {
-  await client.connect();
-
-  const { rows } = await client.query<SourceRow>(
-    "SELECT key, name, active, default_confidence FROM sources ORDER BY key",
-  );
-
-  log("info", "poller placeholder up", {
-    userAgent,
-    sourcesRegistered: rows.length,
-    sourcesActive: rows.filter((row) => row.active).length,
-  });
-
-  for (const row of rows) {
-    log("info", "source registered", { ...row });
+  try {
+    await runPoller(poller, {
+      dryRun: flags.includes("--dry-run"),
+      force: flags.includes("--force"),
+      allowUnaudited: flags.includes("--allow-unaudited"),
+      ...(intervalFlag ? { minIntervalMs: Number(intervalFlag.split("=")[1]) } : {}),
+    });
+  } catch (error) {
+    // Guard failures are the operator's problem to fix, not a stack trace.
+    if (error instanceof SourceGuardError) {
+      logger.error(error.message);
+    } else {
+      logger.error({ error: String(error) }, "poller run failed");
+    }
+    process.exit(1);
   }
-
-  log("info", "nothing to poll yet — see Phase 1 issues");
-} catch (error) {
-  log("error", "poller placeholder failed", { error: String(error) });
-  process.exitCode = 1;
-} finally {
-  await client.end().catch(() => {});
 }
+
+await main();
