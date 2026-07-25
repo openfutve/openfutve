@@ -17,6 +17,7 @@ Run it from the repo root so `.env` is picked up; paths in the file are relative
 |---------|------|
 | `postgres` | Serving database ([ADR 0002](../../docs/adr/0002-postgres-serving-db.md)) |
 | `migrate` | Runs `packages/db` migrations, then exits. Everything waits on it. |
+| `seed` | Loads `packages/db/db/seeds/*.sql` (the source registry), then exits. Idempotent. |
 | `poller` | Placeholder poller — verifies connectivity and the source registry. Does not fetch anything yet. |
 
 ## What's coming

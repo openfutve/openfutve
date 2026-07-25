@@ -38,6 +38,23 @@ services:
       - ../../packages/db/db:/db:ro
     command: ["--wait", "up"]
 
+  # Loads packages/db/db/seeds/*.sql, then exits. Safe to re-run: the seeds
+  # are written with ON CONFLICT ... DO UPDATE.
+  seed:
+    image: postgres:16-alpine
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    environment:
+      DATABASE_URL: postgres://${POSTGRES_USER:-openfutve}:${POSTGRES_PASSWORD:-openfutve}@postgres:5432/${POSTGRES_DB:-openfutve}?sslmode=disable
+    volumes:
+      - ../../packages/db/db/seeds:/seeds:ro
+    command: >
+      sh -c 'for f in /seeds/*.sql; do
+               echo "seeding $$f";
+               psql "$$DATABASE_URL" -v ON_ERROR_STOP=1 -f "$$f" || exit 1;
+             done'
+
   poller:
     build:
       context: ../..
@@ -46,7 +63,7 @@ services:
     # loop it. Phase 1 turns this into a long-running scheduler.
     restart: "no"
     depends_on:
-      migrate:
+      seed:
         condition: service_completed_successfully
     environment:
       DATABASE_URL: postgres://${POSTGRES_USER:-openfutve}:${POSTGRES_PASSWORD:-openfutve}@postgres:5432/${POSTGRES_DB:-openfutve}?sslmode=disable
