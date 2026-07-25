@@ -5,6 +5,12 @@
 //   - ligafutve.org  /wp-json/sportspress/v2/teams  (league 20, «B» sides excluded)
 //   - APIfootball.com  get_standings&league_id=337  (2026 Apertura)
 //
+// ⚠️ This table is currently doing double duty as the Primera scope guard.
+// APIfootball tags Segunda and reserve fixtures as "Primera División", and the
+// only thing keeping them out of our data is that their names do not resolve
+// here (see docs/data-sources.md). Adding a Segunda club while working on #13
+// would silently widen our scope.
+//
 // This is the Phase 1 stand-in for what becomes Flink entity resolution in
 // Phase 2 (ADR 0008). It covers the CURRENT top flight only. Historical clubs —
 // renames, mergers, defunct sides across 90 years of Wikipedia data — arrive via
