@@ -1,0 +1,83 @@
+# openFutVE — Data License and Provenance
+
+The **code** in this repository is licensed under Apache-2.0 (see `LICENSE`).
+This file covers **data**: what we publish, under what terms, and where it came from.
+
+This is not legal advice, and it is a living document. If you believe a dataset here is
+mislabeled or should not be published, open an issue and we will act on it.
+
+---
+
+## 1. The position, in short
+
+Individual football facts (a final score, a match date) are generally not copyrightable.
+A *compiled database* of them can attract rights of its own in some jurisdictions, and the
+sources we compile from carry their own terms. So we split the question:
+
+| Layer | Terms |
+|-------|-------|
+| The pipeline (all code in this repo) | Apache-2.0 |
+| The **openFutVE compiled database** — our schema, our entity resolution, our aggregates | **ODbL 1.0** |
+| Content derived from Wikipedia | **CC BY-SA 4.0**, tracked separately (§3) |
+| Third-party API responses | Governed by that provider's ToS — **not** relicensed by us (§3) |
+
+When in doubt, we publish the pipeline rather than the data, and let you materialize your
+own copy. That is the strongest legal position available to us, and it is why self-hosting
+is a first-class path in this project rather than an afterthought.
+
+## 2. The compiled database (ODbL 1.0)
+
+Data we compiled, cleaned, resolved and derived — the openFutVE database as served by our
+API and published in our exports — is made available under the
+[Open Database License v1.0](https://opendatacommons.org/licenses/odbl/1-0/).
+
+You are free to share, create from, and adapt it, provided you:
+
+- **attribute** openFutVE and link to this repository,
+- **share alike** — distribute adapted databases under ODbL, and
+- **keep it open** — do not use technical measures that restrict others' use.
+
+Attribution string:
+
+> Contains data from openFutVE (https://github.com/openfutve/openfutve), used under ODbL 1.0.
+
+Note that ODbL covers the *database*. Individual factual records extracted from it are not
+themselves claimed as copyrightable by this project.
+
+## 3. Upstream sources
+
+Every row in the database carries `source`, `fetched_at` and `confidence` columns, so the
+provenance of any single fact is queryable, not guessed. The per-source audit — URL, terms
+of service, rate limits, fields, and licensing notes — lives in
+[`docs/data-sources.md`](docs/data-sources.md), which is the authoritative record.
+
+Summary of the constraints that shape what we can publish:
+
+- **Wikipedia / Wikidata** — text and structured content are CC BY-SA 4.0 (Wikidata claims
+  are CC0). Content derived from Wikipedia is tagged in the database and must be attributed
+  and share-aliked accordingly. This is the reason Wikipedia-derived material is tracked
+  separately rather than folded into the ODbL pool.
+- **TheSportsDB** — accessed under its published API terms. Raw responses are retained
+  internally for replay but are **not** republished verbatim; we publish normalized facts
+  and derived aggregates only.
+- **Sportmonks / API-Football** — free-tier terms typically restrict redistribution. Where
+  a provider's terms forbid republication, we use the source for verification and
+  cross-checking only, and say so in `docs/data-sources.md`.
+- **ligafutve.com / FVF** — official league and federation pages. Scraped subject to
+  `robots.txt` and rate limits, with the bot identified in `User-Agent`. Factual results
+  are published; page text, images and logos are not.
+
+Where two sources disagree, the database records both origins and our resolution; it does
+not silently pick a winner.
+
+## 4. What we never publish
+
+- Verbatim copies of any provider's API payloads.
+- Any source's images, logos, crests or editorial text.
+- Personal data about players beyond what is routinely published in match reports
+  (name, position, appearances, and match events).
+
+## 5. Takedown
+
+Open an issue titled `data: takedown request` or contact the maintainers. We will remove
+disputed data while the question is being worked out, not after.

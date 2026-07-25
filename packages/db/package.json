@@ -1,0 +1,11 @@
+{
+  "name": "@openfutve/db",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "migrate": "dbmate --migrations-dir ./db/migrations up",
+    "migrate:new": "dbmate --migrations-dir ./db/migrations new",
+    "migrate:down": "dbmate --migrations-dir ./db/migrations down",
+    "seed": "psql \"$DATABASE_URL\" -v ON_ERROR_STOP=1 -f db/seeds/001_sources.sql"
+  }
+}

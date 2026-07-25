@@ -1,0 +1,59 @@
+# openFutVE — local dev / self-host stack, v0 (Phase 0).
+#
+# v0 is deliberately small: Postgres + migrations + one placeholder poller.
+# Redpanda and Flink arrive in Phase 2; the API and web app in Phase 1.
+#
+#   cp .env.example .env
+#   docker compose -f infra/compose/docker-compose.yml up
+
+name: openfutve
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-openfutve}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-openfutve}
+      POSTGRES_DB: ${POSTGRES_DB:-openfutve}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-openfutve} -d ${POSTGRES_DB:-openfutve}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # Applies packages/db migrations, then exits. Everything else waits for it.
+  migrate:
+    image: ghcr.io/amacneil/dbmate:2
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://${POSTGRES_USER:-openfutve}:${POSTGRES_PASSWORD:-openfutve}@postgres:5432/${POSTGRES_DB:-openfutve}?sslmode=disable
+    volumes:
+      - ../../packages/db/db:/db:ro
+    command: ["--wait", "up"]
+
+  poller:
+    build:
+      context: ../..
+      dockerfile: apps/pollers/Dockerfile
+    # The placeholder runs once and exits; a restart policy here would just
+    # loop it. Phase 1 turns this into a long-running scheduler.
+    restart: "no"
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    environment:
+      DATABASE_URL: postgres://${POSTGRES_USER:-openfutve}:${POSTGRES_PASSWORD:-openfutve}@postgres:5432/${POSTGRES_DB:-openfutve}?sslmode=disable
+      POLLER_USER_AGENT: ${POLLER_USER_AGENT:-openfutve-bot/0.1 (+https://github.com/openfutve/openfutve)}
+      POLLER_LOG_LEVEL: ${POLLER_LOG_LEVEL:-info}
+      THESPORTSDB_API_KEY: ${THESPORTSDB_API_KEY:-123}
+      THESPORTSDB_LEAGUE_ID: ${THESPORTSDB_LEAGUE_ID:-4513}
+
+volumes:
+  postgres-data:

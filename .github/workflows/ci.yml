@@ -1,0 +1,72 @@
+# CI skeleton (Phase 0). Yuyo owns hardening this in Phase 1:
+# per-app Docker image builds, and the replay-based integration test in Phase 2.
+
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  js:
+    name: lint / typecheck / test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm test
+
+  migrations:
+    name: migrations apply and roll back
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: openfutve
+          POSTGRES_PASSWORD: openfutve
+          POSTGRES_DB: openfutve
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U openfutve"
+          --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      DATABASE_URL: postgres://openfutve:openfutve@localhost:5432/openfutve?sslmode=disable
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dbmate
+        run: |
+          curl -fsSL -o /usr/local/bin/dbmate \
+            https://github.com/amacneil/dbmate/releases/latest/download/dbmate-linux-amd64
+          chmod +x /usr/local/bin/dbmate
+      - name: Apply migrations
+        run: dbmate --migrations-dir packages/db/db/migrations up
+      - name: Load seeds
+        run: psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -f packages/db/db/seeds/001_sources.sql
+      # Rule 2 in packages/db/README.md: every down migration must actually work.
+      - name: Roll back
+        run: dbmate --migrations-dir packages/db/db/migrations down
+
+  compose:
+    name: compose stack comes up
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: cp .env.example .env
+      - name: docker compose up
+        run: docker compose -f infra/compose/docker-compose.yml up --build --exit-code-from poller poller
+      - name: Tear down
+        if: always()
+        run: docker compose -f infra/compose/docker-compose.yml down -v

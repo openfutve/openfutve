@@ -1,0 +1,32 @@
+node_modules/
+dist/
+build/
+.turbo/
+*.tsbuildinfo
+
+# env
+.env
+.env.local
+.env.*.local
+
+# jvm / flink
+target/
+.gradle/
+*.class
+
+# python / notebooks
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# data — never commit materialized datasets
+data/
+*.parquet
+*.duckdb
+!docs/samples/**
+
+# editors / os
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
