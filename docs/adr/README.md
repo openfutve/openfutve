@@ -19,3 +19,4 @@ Copy [`template.md`](template.md) to start one.
 | [0006](0006-react-router-ssr-web.md) | React Router framework mode, SSR | Accepted |
 | 0007 | *Why we need a streaming layer* — write **before** Phase 2 code | Not started |
 | [0008](0008-provenance-observations-first.md) | Provenance: observations first, canonical facts in Phase 2 | Accepted |
+| [0009](0009-team-season-membership.md) | Division membership is a fact about a club *and a season* | Accepted |
