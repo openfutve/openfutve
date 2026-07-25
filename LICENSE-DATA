@@ -60,10 +60,14 @@ Summary of the constraints that shape what we can publish:
 - **TheSportsDB** — accessed under its published API terms. Raw responses are retained
   internally for replay but are **not** republished verbatim; we publish normalized facts
   and derived aggregates only.
-- **Sportmonks / API-Football** — free-tier terms typically restrict redistribution. Where
-  a provider's terms forbid republication, we use the source for verification and
-  cross-checking only, and say so in `docs/data-sources.md`.
-- **ligafutve.com / FVF** — official league and federation pages. Scraped subject to
+- **APIfootball.com** — terms read 2026-07-25 explicitly permit "distribution, transfer and
+  storage of the data", while prohibiting resale of their API as a product. Facts sourced
+  here are therefore in the ODbL pool. Their logos, images and video are **not** — those
+  remain their owners' and we do not republish them. Note their accounts are individual:
+  self-hosters must obtain their own key rather than inherit ours.
+- **Sportmonks / API-FOOTBALL (api-sports.io)** — not used. Free-tier terms restrict
+  redistribution and neither covers FUTVE usefully; see `docs/data-sources.md`.
+- **ligafutve.org / FVF** — official league and federation pages (note `.org`; the old `.com` domain is no longer the league). Scraped subject to
   `robots.txt` and rate limits, with the bot identified in `User-Agent`. Factual results
   are published; page text, images and logos are not.
 

@@ -24,12 +24,12 @@ VALUES
    'high', 'odbl-eligible', false),
 
   -- Current season (2026) and the only plausible livescore feed. NOT the same
-  -- company as api-football.com. Terms of service still unread, hence
-  -- license = 'unknown': usable for development, not for publication.
+  -- company as api-football.com. ToS read 2026-07-25: distribution and storage
+  -- of the data are explicitly permitted; reselling their API is not.
   ('apifootball', 'APIfootball.com',
    'https://apiv3.apifootball.com',
-   'ToS unread. Do not publish facts sourced here until the redistribution terms are audited.',
-   'medium', 'unknown', false),
+   'Redistribution of data permitted by ToS (read 2026-07-25). No logos/images. Accounts are individual: every contributor and self-hoster needs their own key.',
+   'medium', 'odbl-eligible', false),
 
   -- Free tier proven unusable (15-event cap, wrong-league team payloads).
   -- Kept registered so the audit trail has somewhere to point.
