@@ -9,15 +9,55 @@
 name: openfutve
 
 services:
+  # Refuses to start the stack if the database is exposed beyond loopback while
+  # still using the placeholder password from .env.example — that password is
+  # published in this repository, so the combination is never intentional.
+  # Nothing else here can enforce it: a host firewall does not filter published
+  # Docker ports, and a comment in a file is not a control.
+  preflight:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-openfutve}
+      POSTGRES_BIND: ${POSTGRES_BIND:-127.0.0.1}
+    command:
+      - sh
+      - -ec
+      - |
+        case "$$POSTGRES_BIND" in
+          127.0.0.1|localhost|::1|'[::1]') exit 0 ;;
+        esac
+        if [ "$$POSTGRES_PASSWORD" = "openfutve" ]; then
+          echo ''
+          echo 'REFUSING TO START'
+          echo ''
+          echo "  POSTGRES_BIND is $$POSTGRES_BIND, so the database is reachable"
+          echo '  beyond this machine — but POSTGRES_PASSWORD is still the'
+          echo '  placeholder published in .env.example, which everyone knows.'
+          echo ''
+          echo '  Set a real POSTGRES_PASSWORD in .env, or set'
+          echo '  POSTGRES_BIND=127.0.0.1 to keep the database local.'
+          echo ''
+          echo '  Do not rely on ufw/firewalld here: Docker publishes ports via'
+          echo '  its own DNAT rules and bypasses them.'
+          echo ''
+          exit 1
+        fi
+        echo "preflight ok — bind $$POSTGRES_BIND with a non-default password"
+
   postgres:
     image: postgres:16-alpine
     restart: unless-stopped
+    depends_on:
+      preflight:
+        condition: service_completed_successfully
     environment:
       POSTGRES_USER: ${POSTGRES_USER:-openfutve}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-openfutve}
       POSTGRES_DB: ${POSTGRES_DB:-openfutve}
+    # Loopback by default; the preflight service enforces the pairing of a
+    # wider bind with a real password.
     ports:
-      - "${POSTGRES_PORT:-5432}:5432"
+      - "${POSTGRES_BIND:-127.0.0.1}:${POSTGRES_PORT:-5432}:5432"
     volumes:
       - postgres-data:/var/lib/postgresql/data
     healthcheck:

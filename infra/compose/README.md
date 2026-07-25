@@ -40,6 +40,18 @@ docker compose -f infra/compose/docker-compose.yml exec postgres \
 docker compose -f infra/compose/docker-compose.yml run --rm migrate
 ```
 
+## Security defaults
+
+Postgres binds to `127.0.0.1`. Widening `POSTGRES_BIND` while `POSTGRES_PASSWORD`
+is still the `.env.example` placeholder makes the `preflight` service fail the
+stack — that combination is never intentional, since the placeholder is published
+in this repository.
+
+**A host firewall will not protect a published Docker port.** Docker installs its
+own DNAT rules that bypass `ufw` and `firewalld`, so `ufw deny 5432` does nothing.
+Filtering belongs in the `DOCKER-USER` chain. This is the trap waiting for the
+homelab deploy — see issue #50.
+
 ## Ground rule
 
 If a change makes the stack need more than `docker compose up` to start, it needs a very

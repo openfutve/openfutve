@@ -97,8 +97,11 @@ cp .env.example .env
 docker compose -f infra/compose/docker-compose.yml up
 ```
 
-That brings up Postgres, runs migrations, and starts the poller. See
-[`infra/compose/README.md`](infra/compose/README.md).
+That brings up Postgres, runs migrations, seeds the source registry, and starts
+the poller. See [`infra/compose/README.md`](infra/compose/README.md).
+
+> Postgres binds to `127.0.0.1` by default. Exposing it wider requires a real
+> `POSTGRES_PASSWORD` — the stack refuses to start otherwise.
 
 For development on the JS side:
 
