@@ -18,7 +18,12 @@ Run it from the repo root so `.env` is picked up; paths in the file are relative
 | `postgres` | Serving database ([ADR 0002](../../docs/adr/0002-postgres-serving-db.md)) |
 | `migrate` | Runs `packages/db` migrations, then exits. Everything waits on it. |
 | `seed` | Loads `packages/db/db/seeds/*.sql` (the source registry), then exits. Idempotent. |
-| `poller` | Placeholder poller — verifies connectivity and the source registry. Does not fetch anything yet. |
+| `poller` | Runs the `selfcheck` poller — verifies connectivity and the source registry. Reaches no network. |
+
+The poller image is a real pnpm workspace build (`apps/pollers/Dockerfile`), so
+pollers can import `@openfutve/shared`. Published to GHCR on merge to main,
+tagged by commit SHA. Compose builds locally rather than pulling, which is what
+you want while developing; swapping to the published image is part of #21.
 
 ## What's coming
 
