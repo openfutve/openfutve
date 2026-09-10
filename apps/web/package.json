@@ -5,8 +5,10 @@
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
+    "mock:api": "node --experimental-strip-types mocks/server.ts",
     "start": "react-router-serve ./build/server/index.js",
-    "typecheck": "react-router typegen && tsc"
+    "typecheck": "react-router typegen && tsc",
+    "test": "node --test --experimental-strip-types $(find app -name '*.test.ts')"
   },
   "dependencies": {
     "@react-router/node": "^8",
