@@ -1,15 +1,83 @@
 @import "tailwindcss";
 
+/**
+ * Tokens, not colours-at-the-callsite.
+ *
+ * Every value below is a CSS variable so the light and dark palettes are two
+ * lists in one file rather than a `dark:` class on every element. Vinotinto is
+ * the accent for the obvious reason; it is used for emphasis and never as a
+ * background for long-form text.
+ */
+
 @theme {
-  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-raised: var(--raised);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-vino: var(--vino);
+  --color-vino-ink: var(--vino-ink);
+  --color-vino-soft: var(--vino-soft);
+  --color-positive: var(--positive);
+  --color-negative: var(--negative);
+  --color-warn: var(--warn);
+}
+
+:root {
+  color-scheme: light;
+
+  --canvas: #f7f6f4;
+  --surface: #ffffff;
+  --raised: #f1efec;
+  --line: #e2ded8;
+  --ink: #1a1917;
+  --muted: #605c56;
+  --faint: #8d8880;
+  --vino: #7b1e2b;
+  --vino-ink: #7b1e2b;
+  --vino-soft: #f6e9ea;
+  --positive: #1f7a4d;
+  --negative: #a3312c;
+  --warn: #9a6a12;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+
+    --canvas: #131315;
+    --surface: #1a1a1d;
+    --raised: #232327;
+    --line: #2e2e33;
+    --ink: #ededea;
+    --muted: #a3a19c;
+    --faint: #74726d;
+    --vino: #9d3341;
+    --vino-ink: #e4919b;
+    --vino-soft: #2a1a1d;
+    --positive: #58b183;
+    --negative: #e08078;
+    --warn: #d0a349;
+  }
 }
 
 html,
 body {
-  @apply bg-white dark:bg-gray-950;
+  @apply bg-canvas text-ink;
+}
 
-  @media (prefers-color-scheme: dark) {
-    color-scheme: dark;
-  }
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/** Tabular figures everywhere a number sits in a column. */
+.tabular {
+  font-variant-numeric: tabular-nums;
 }

@@ -8,6 +8,7 @@ import {
 } from "react-router";
 
 import type { Route } from "./+types/root";
+import { SiteFooter, SiteHeader } from "./components/chrome.tsx";
 import "./app.css";
 
 export const links: Route.LinksFunction = () => [
@@ -25,15 +26,17 @@ export const links: Route.LinksFunction = () => [
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="es-VE">
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <Meta />
         <Links />
       </head>
-      <body>
-        {children}
+      <body className="min-h-dvh">
+        <SiteHeader />
+        <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6">{children}</div>
+        <SiteFooter />
         <ScrollRestoration />
         <Scripts />
       </body>
@@ -45,31 +48,36 @@ export default function App() {
   return <Outlet />;
 }
 
+/**
+ * The last resort. Loaders degrade in place rather than throwing (see
+ * `loadOrDegrade`), so reaching this boundary means a genuine bug or a 404 on
+ * an unknown path — not "the API is down".
+ */
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
-  let message = "Oops!";
-  let details = "An unexpected error occurred.";
+  let title = "Algo salió mal";
+  let detail = "Ocurrió un error inesperado.";
   let stack: string | undefined;
 
   if (isRouteErrorResponse(error)) {
-    message = error.status === 404 ? "404" : "Error";
-    details =
+    title = error.status === 404 ? "Página no encontrada" : `Error ${error.status}`;
+    detail =
       error.status === 404
-        ? "The requested page could not be found."
-        : error.statusText || details;
-  } else if (import.meta.env.DEV && error && error instanceof Error) {
-    details = error.message;
+        ? "La ruta que pediste no existe."
+        : error.statusText || detail;
+  } else if (import.meta.env.DEV && error instanceof Error) {
+    detail = error.message;
     stack = error.stack;
   }
 
   return (
-    <main className="pt-16 p-4 container mx-auto">
-      <h1>{message}</h1>
-      <p>{details}</p>
-      {stack && (
-        <pre className="w-full p-4 overflow-x-auto">
+    <main className="py-8">
+      <h1 className="text-2xl font-semibold tracking-tight">{title}</h1>
+      <p className="mt-2 text-sm text-muted">{detail}</p>
+      {stack ? (
+        <pre className="mt-6 overflow-x-auto rounded-lg border border-line bg-surface p-4 text-xs">
           <code>{stack}</code>
         </pre>
-      )}
+      ) : null}
     </main>
   );
 }

@@ -1,87 +1,59 @@
-# Welcome to React Router!
+# apps/web
 
-A modern, production-ready template for building full-stack React applications using React Router.
+The public web app: tabla, partidos and equipos for the Liga FUTVE Primera División.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+React Router in framework mode with SSR, served by its Node server as a container in
+compose — see [ADR 0006](../../docs/adr/0006-react-router-ssr-web.md).
 
-## Features
+## The two rules that shape this app
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+1. **It talks to `apps/api` over HTTP and never imports database code.** If a page needs a
+   field, the public API needs that field. That constraint is the API's continuous
+   integration test, and it is the reason the web app exists this early.
+2. **It renders observations, not facts** ([ADR 0008](../../docs/adr/0008-provenance-observations-first.md)).
+   Every table says which source published it, when we fetched it, and how much we trust
+   it. Two sources covering the same fixture produce two rows, and the UI says so rather
+   than hiding it behind a `DISTINCT`.
 
-## Getting Started
+## Running it
 
-### Installation
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
+`apps/api` does not exist yet (issue #18), so `mocks/` serves the contract from the
+committed source samples in `docs/samples/ligafutve/`:
 
 ```bash
-npm run dev
+pnpm --filter @openfutve/web mock:api   # stands in for apps/api on API_PORT (3000)
+pnpm --filter @openfutve/web dev        # http://localhost:5173
 ```
 
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
+Point the app at a real API with `OPENFUTVE_API_URL`. Nothing in `app/` knows the mock
+exists; delete `mocks/` when #18 lands.
 
 ```bash
-npm run build
+pnpm --filter @openfutve/web test        # client + formatting unit tests
+pnpm --filter @openfutve/web typecheck
+pnpm --filter @openfutve/web build
 ```
 
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
+## Layout
 
 ```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
+app/
+├── lib/api/         # the wire contract (types.ts) and the typed client
+├── lib/api.server.ts# the client loaders use, plus the degraded-state helper
+├── lib/format.ts    # dates in the venue's clock, not the reader's
+├── components/      # chrome, tables, provenance badges, empty/error states
+└── routes/          # one module per page: loader + meta + component
+mocks/               # temporary stand-in for apps/api — see above
 ```
 
-## Styling
+### Degraded states are not a polish pass
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+ADR 0006 says the API must be up for a page to render server-side, so `loadOrDegrade`
+turns an API failure into a rendered state rather than a 500. Three cases, three different
+messages: the API is unreachable, the API returned 404 (we have not ingested that season),
+or the API errored. Conflating them sends the reader to the wrong conclusion.
 
----
+### Language
 
-Built with ❤️ using React Router.
+The UI is in Spanish; code, comments, docs and the API contract stay in English. There is
+no i18n framework and no ADR for this yet — see the open issue on recording that decision.
